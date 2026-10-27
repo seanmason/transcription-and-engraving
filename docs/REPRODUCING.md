@@ -50,3 +50,14 @@ The fetcher caches the official preview locally. The study regenerates its Music
 Historical proofs are retained selectively. Some pre-repository source states were overwritten; these cannot be reconstructed exactly from their PDFs. Current sources, styles, font recipes, validation snapshots and tool versions are committed. Future experiments should preserve the source commit for every named proof.
 
 PDF metadata can vary between builds; visual/music equivalence is more useful than byte identity across rebuilds. Validation snapshots record the output hashes from the reviewed build. New builds write fresh validation under `logs/`; promote that report into the relevant experiment after reviewing the new render.
+
+## Repository migration verification (27 October 2026)
+
+Checked a separate clean Git checkout with the existing pinned `.tools` runtime attached, with no pre-existing `tmp/` or `logs/` cache:
+
+- Full Shostakovich build: all structural assertions passed; both rendered PNG pages were byte-identical to the reviewed originals.
+- Original lyrical/dense comparison: all four treatments rebuilt, including previews and the presentation PDF; current-fixture diagnostic check passed.
+- Chopin: fetched the official preview, rebuilt all four treatments and the side-by-side PDF; 51-note/eight-slur structural checks passed.
+- Python compilation and repository Markdown-link checks passed.
+
+This verifies the tracked source/build layout with the existing runtime. It does not constitute a fresh operating-system dependency installation test or independent musical proofreading.
