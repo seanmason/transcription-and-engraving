@@ -1,0 +1,46 @@
+SHOSTAKOVICH, PRELUDE OP. 34 NO. 16 - FRESH TRANSCRIPTION
+
+Source: the two-page scan supplied on 27 October 2026 (printed pages 166-167).
+Scope: half-bar pickup followed by all 31 measures, both hands.
+The earlier recovered five-measure transcription was not used as the musical source.
+
+Deliverable: output/pdf/shostakovich-op34-no16-reengraved.pdf
+Editable music: scores/shostakovich-op34-no16-new.ly
+Build: .tools/venv/bin/python render_shostakovich_full.py
+Build log and machine checks: logs/shostakovich-full.log and
+logs/shostakovich-full-validation.json
+
+STYLING
+Uses the existing common, classical and Chopin typography includes, with the
+established custom Engraving Fingering and Engraving Tempo fonts. Five systems
+per page, the source's system breaks, 235 x 310 mm pages, approximately 7 mm
+staff height. Text uses C059. The source remains editable; the shared style
+files control engraving independently of the musical transcription.
+
+REVIEW PASSES
+1. Read the supplied scan in enlarged system crops and transcribed both hands.
+   Compiled a complete two-page score and inspected both rendered pages.
+2. Rechecked pitches against key-signature and local accidentals, the changes
+   of clef, octave registers, and the polyphonic passage in measures 23-24.
+   Corrected flat/natural readings and pedal events; eliminated compiler warnings.
+3. Inspected chord fingerings, ties and slurs, and the low ending. Standardized
+   chord fingering placement and checked every bar boundary in both hands.
+4. Compared the rendered systems with the scan again. Restored printed reminder
+   accidentals and staccatos, and drew the finger-substitution arc in measure 20.
+5. Final close-up corrected the measure-13 triplet numeral (not a finger number)
+   and extended the final octave-down instruction across both F and B-flat.
+   Rebuilt and inspected the final two-page render.
+
+VALIDATION
+LilyPond bar-number assertions after every measure in both hands; no warnings.
+Both MIDI hand tracks last 126 quarter-note beats including the pickup.
+All MIDI note-on events have matching, positive-duration note-offs.
+The final low B-flat sounds as MIDI 22 (B-flat 0); the preceding F sounds F1.
+PDF page count verified as two. Font and layout checked in rasterized previews.
+
+LIMITS
+This is a manually proofread transcription of the supplied scan, not an
+independently verified critical edition. Structural checks detect duration
+and encoding problems; they cannot establish pitch accuracy by themselves.
+Pedal bracket appearance, fingering placement, and spacing were re-engraved;
+the score is not a facsimile. MIDI is a checking aid, not a polished performance.

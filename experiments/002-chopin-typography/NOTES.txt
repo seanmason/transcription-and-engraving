@@ -1,0 +1,139 @@
+SAME-PASSAGE STUDY: CHOPIN OP. 9 NO. 1
+
+Deliverable: output/pdf/chopin-henle-side-by-side.pdf
+Four landscape pages, 440 x 155 mm, Henle on the left and A/B/C/D on the right.
+Pickup and measures 1-2 from Henle HN185, printed page 7.
+The original study and presets remain available unchanged.
+
+Rebuild:
+.tools/venv/bin/python chopin_study.py
+.tools/venv/bin/python render_previews.py
+.tools/venv/bin/python compare_chopin.py
+
+Canonical transcription: scores/chopin-op9-no1-opening.musicxml
+Transcription source code and renderer adapters: chopin_study.py
+Native .ly, .mscx/.mscz and .mei exports are in scores/.
+This study regenerates its MusicXML and native exports on every build. Make
+persistent musical changes in chopin_study.py or save a separate manual copy.
+Style changes belong in styles/. The original B preset is unchanged.
+
+The same two full measures plus pickup are used in every candidate. The phrase
+includes the 11:6 eighth-note tuplet, four RH slurs, four LH slurs, fingerings,
+three staccato dots, five-flat key signature, accidentals, hairpins, expression,
+metronome marking, pedal signs and rests. It was manually transcribed from the
+reference, not recognized with OMR. It is an engraving study, not a new edition.
+
+Reference provenance:
+https://www.henle.de/us/Nocturnes/HN-185
+https://www.henle.de/media/9d/17/73/1692626099/0185_0009-1692626099-sync.jpg
+Copyright 1980 G. Henle Verlag, Munich.
+The short excerpt is credited on every comparison page. The reference crop
+excludes the work number and removes non-musical composition/opus headings;
+its notation pixels are otherwise unchanged. It remains a raster preview.
+
+Scale:
+The reference's top-staff outer lines are approximately 55 image pixels apart.
+Those 55 pixels are displayed as 7 mm. Our native scores use 7 mm staff height
+and 174 mm line width, close to this reference system's measured width. No
+nonuniform stretching, glyph replacement, or line-weight adjustment is applied
+to the reference. Raster softness and source-page skew remain visible. The
+comparison aligns the top staff; vertical distances between hands are allowed
+to differ because they are part of each engine's output. Page-title design and
+complete-page pagination are outside this short-excerpt comparison.
+
+Notation-preserving adapter corrections discovered during this test:
+- Put pedal directions in the lower-staff MusicXML stream for musicxml2ly.
+- Combine p + espress. and retain italic 2 fingerings in the LilyPond export.
+- MuseScore uses no-break layout elements to keep all three measures together.
+- MuseScore imported the final hairpin's tuplet endpoint with a tiny timing
+  correction (-1/21120 of a whole note). That shifted the final note and caused
+  its slur to disappear on native-score reopening, plus an extra end barline.
+  Remove that small location and restore the exact 15/22 whole-note hairpin
+  span. The fix is scoped to this excerpt and is not a general repair rule.
+- Verovio uses an explicit initial MEI system break for single-system layout.
+- CairoSVG cannot load the embedded WOFF2 metronome font directly. The script
+  converts the same bundled Leipzig text font to local TTF using fontTools and
+  exposes it through a project-local Fontconfig file. No font is redesigned.
+- Align Verovio's separate p and espress. objects onto the source's shared
+  baseline after SVG layout. This does not alter any musical event.
+
+Validation:
+The transcription checks measure durations exactly: 3, 6 and 6 quarter notes
+in each staff. The final MuseScore native file retains 51 pitched notes and
+8 slurs, with a matching MIDI pitch multiset; Verovio MEI retains 51 notes and
+8 slurs. Counts are a structural safeguard, not a proof of all musical details.
+All four finished comparison pages were also visually checked against the scan.
+The 11-note tuplet is represented exactly with integer MusicXML durations at
+44 divisions per quarter. Renderer logs and check results are under logs/.
+
+This test makes the remaining aesthetic gap apparent. Henle distributes the
+bar widths and shapes long curves differently; choosing a music font alone
+will not reproduce those decisions. A future refinement can tune those optical
+relationships while keeping this transcription fixed.
+
+TYPOGRAPHY REVISION
+The same-passage comparison now uses C059 (URW Century Schoolbook style)
+for tempo, expression, fingerings and tuplet numbers. This is a visual
+approximation, not an identification or reproduction of Henle's font.
+Tempo uses regular serif at approximately 12pt; expressions use italic at
+approximately 11pt; fingerings use bold 7pt with the two composer's RH 2s
+in bold italic; tuplets use bold italic approximately 8pt. LilyPond's
+relative font sizes are tuned separately from the point-size engines.
+Metronome figures are smaller than the tempo word. Music-symbol glyphs,
+including time signatures, dynamics and pedal signs, retain engine fonts.
+
+LilyPond settings: styles/chopin-typography.ily (both A and B).
+MuseScore settings: generated styles/musescore-chopin.mss, with the
+role settings and inline metronome size applied by chopin_study.py.
+Verovio: SVG typography adapter in chopin_study.py; changes text roles
+and tuplet digits while preserving note/metronome music glyphs. The SVG
+adapter must run on each export; raw MEI alone does not carry all these
+appearance adjustments. Finger italic selection is excerpt-specific.
+All font choices use installed free URW fonts and are embedded in PDF.
+A now means default engraving geometry with revised typography.
+Previous comparison retained at tmp/pdfs/chopin-before-font-adjustment.pdf.
+Rebuild: .tools/venv/bin/python chopin_study.py
+         .tools/venv/bin/python render_previews.py
+         .tools/venv/bin/python compare_chopin.py
+
+FINGERING REFINEMENT (supersedes fingering settings above)
+Fingerings now use a project-local derivative of C059 Bold/Bold Italic,
+with horizontal outlines and advances at 88% width and a smaller size
+(6.4pt MuseScore/Verovio; -4.4 LilyPond relative size). This reduces the
+broad, blunt appearance of the previous full-width bold figures while
+retaining enough weight for small print. A regular-weight trial was too
+light and was rejected after an enlarged same-scale comparison.
+The two italic RH fingerings use the corresponding narrowed italic cut.
+No source Henle outlines were traced. This remains an approximation.
+The font is rebuilt and installed by chopin_study.py through
+fonts/fingering/build_font.py; source license is included there.
+Font family: Engraving Fingering. The upright and italic cuts are exposed
+as Regular/Italic so engines do not apply additional synthetic bolding.
+Tempo/expression/tuplet and music-symbol fonts are unchanged this pass.
+
+TEMPO AND TREBLE-2 REFINEMENT
+LilyPond now encodes each italic treble 2 as a Fingering with a font-name
+individual tweak, rather than TextScript markup. It consequently inherits
+the same -4.4 size and fingering placement rules as the upright digits.
+The italic shape is preserved, matching the distinction in the reference.
+The previous markup used a different base size and appeared too large.
+
+Larghetto now uses Engraving Tempo, a project-local Nimbus Roman Bold
+derivative with 60 font units of additional advance per glyph, giving
+sharper serif shapes and more open letter spacing. The heading remains
+approximately 12pt; metronome figures retain separate smaller C059 text.
+This is a visual approximation, not the original Henle typeface.
+fonts/tempo/build_font.py rebuilds/installs the font automatically on render;
+its source license is included alongside it. All four treatments use it.
+
+GLYPH-SHAPE REFINEMENT
+The C059-based fingering trial is superseded by a fingering-only font
+built from LilyPond's Emmentaler-20 numerals. Its open-top 4 and curved
+foot on 2 address shapes that the text fonts could not reproduce.
+All digits are normalized to 700 units of height and 88% relative width;
+italic fingerings use a gentle 0.10 shear. Font family is unchanged. Sizes are 7pt in MuseScore/Verovio and -3.6
+in LilyPond to compensate for the different optical metrics.
+fonts/fingering/build_font.py is the active reproducible build recipe.
+The old C059 recipe is archived as build_c059_trial.py. Emmentaler's
+license and embedding notice are stored alongside the current recipe.
+This is an adaptation of a free music font, not a tracing of Henle glyphs.

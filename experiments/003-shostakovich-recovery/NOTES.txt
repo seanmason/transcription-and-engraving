@@ -1,0 +1,22 @@
+SHOSTAKOVICH PRELUDE, OP. 34 NO. 16
+Recovered from the earlier Agentic Coding Workbench music transcription trial.
+
+Selected source: shostakovich-minimax-v4/rendered/prelude-complete.ly.
+Despite its filename, this contains only the pickup and measures 1-5.
+The earlier v3 full-length attempt has known duplicated/misallocated hand
+passages and inconsistent durations; it was not used for this engraving.
+The v4 verification covers total duration and the previously checked opening;
+it explicitly does not independently verify the remaining measures.
+
+An unchanged copy is scores/shostakovich-op34-no16-recovered.ly.
+The styled source is scores/shostakovich-op34-no16-classical.ly.
+Render: .tools/venv/bin/python render_shostakovich.py
+Output: output/pdf/shostakovich-op34-no16-classical.pdf
+The renderer asserts equality of both music definitions after excluding
+only the tempo-mark typography replacement. Notes/rhythms are preserved.
+
+Known inherited warning: overlapping slur starts at measures 4-5. LilyPond
+renders the existing continuation and ignores the redundant start. This
+has not been silently corrected without a musical-source review.
+Style: tuned LilyPond geometry plus Engraving Fingering music numerals,
+Engraving Tempo heading, C059 expression text, 7 mm staff height.

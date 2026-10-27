@@ -1,0 +1,26 @@
+{
+  "source_sha256": "fc46883d87fdaf6ce8eda69fb6b2f82a06d31d6ebdc4809fc2efda542fc0d0d4",
+  "pdf_sha256": "30a7ded3326fc6c556c97e4875689c4eacaba4bef382bc2b304c9d71e5c1a4c9",
+  "pages": 2,
+  "bar_checks_per_hand": 32,
+  "full_measures": 31,
+  "pickup_quarter_beats": 2,
+  "lilypond_warnings": 0,
+  "midi_tracks": [
+    {
+      "track": 1,
+      "duration_quarter_beats": 126.0,
+      "note_on_events": 187,
+      "lowest_midi_note": 41,
+      "highest_midi_note": 92
+    },
+    {
+      "track": 2,
+      "duration_quarter_beats": 126.0,
+      "note_on_events": 235,
+      "lowest_midi_note": 22,
+      "highest_midi_note": 67
+    }
+  ],
+  "note": "Structural checks complement manual scan comparison; they do not prove pitch accuracy."
+}

@@ -1,0 +1,130 @@
+CLASSICAL PIANO ENGRAVING LABORATORY
+Study 01 - 27 October 2026
+
+START HERE
+output/pdf/engraving-comparison.pdf contains the method and four comparable
+pages, each with both original piano studies. The scores are vector artwork.
+Print at actual size on 235 x 310 mm paper, or compare at the same PDF zoom.
+If printing on A4/Letter, scaling will change the intended 7 mm staff height.
+
+RECOMMENDATION
+Keep LilyPond in contention. Its spacing, line weight, beam geometry, slurs,
+text fonts and page layout are configurable. Treatment B is an initial house
+style hypothesis, not a finished Henle match. MuseScore C is an equally useful
+visual candidate and offers a practical graphical refinement workflow.
+Verovio D offers SVG and MEI, suitable for a future browser-based review tool.
+Evaluate the pages before committing to any renderer.
+
+REBUILD (from this folder)
+.tools/venv/bin/python build.py
+.tools/venv/bin/python render_previews.py
+.tools/venv/bin/python make_comparison.py
+
+These commands use local portable tools; no administrator installation or
+online engraving service is needed after setup. Fonts Nimbus Roman and C059
+are installed system fonts. Reproduction on another machine needs these fonts,
+the pinned tools below, Python packages from requirements.lock, and Poppler.
+Downloads and preview URLs are recorded in references/sources.json.
+
+VERSIONS ACTUALLY USED
+LilyPond 2.26.0, MuseScore Studio 4.7.6, Verovio 6.3.0-425dd7b.
+Python 3.12.15, CairoSVG 2.9.1, pypdf 6.21.3, ReportLab 5.1.0.
+
+LAYERS
+1. scores/lyrical.musicxml and scores/dense.musicxml are the common interchange
+   inputs. build.py fixtures() defines their initial content. Subsequent builds
+   preserve existing MusicXML. Use --regenerate-fixtures to deliberately reset
+   those two files to the original studies.
+2. styles/ holds durable, editable renderer settings. build.py only creates
+   missing presets, so local style changes persist. common.ily controls page
+   geometry; lily-classical.ily controls B; the .mss file controls C; the JSON
+   controls D. Settings are analogous, not numerically interchangeable.
+3. overrides/<study>.ily is a persistent LilyPond include before the score.
+   It can define score-specific layout settings, music functions, or replace
+   generated music variables. It currently affects both LilyPond treatments.
+   overrides/<study>.json is an optional ordered list of exact text patches
+   for treatment B only. Example structure:
+   [{"find":"EXACT GENERATED LILYPOND TEXT", "replace":"REFINED TEXT"}]
+   Each find must match exactly once; otherwise the build fails. Inspect the
+   generated B .ly file, anchor around a complete unambiguous musical passage,
+   and use LilyPond \once overrides or \shape for local refinements. Patches
+   are reapplied after conversion and survive rebuilds. Empty lists are supplied.
+4. Generated .ly, .mscz, and .mei files in scores/ are inspectable/editable exports
+   but are regenerated. For graphical finishing, copy C-musescore-*.mscz into
+   manual/ before editing. Do not expect local MuseScore object positions to
+   survive a new MusicXML import. Commit the native score as the refined master.
+5. tmp/pdfs/ retains per-engine vector PDFs, SVGs, raster proofs, and geometry.
+   output/pdf/ is the presentation deliverable; logs/ holds compiler diagnostics.
+
+IMPORTANT SCOPE
+This is a working comparison prototype for these short samples, not an OMR app
+or a universal MusicXML normalization library. Its accidental serialization is
+written for the test keys (G minor and C major); do not use fixtures() as a
+converter for arbitrary music. Existing imported MusicXML must be corrected and
+carry appropriate accidentals, beam groups, voice/staff assignments, and slurs.
+The comparison pack deliberately fixes line breaks and rearranges each excerpt
+vertically; it does not test native full-page pagination or page-turn planning.
+The Verovio harness currently expects one page per sample. Ordinary longer
+pieces need iteration over pages and a separate full-page review format.
+
+RESEARCH OBSERVATIONS
+Henle HN 185 printed pages 7-8 (preview images 09-10) were visually inspected.
+Reference geometry: product page lists 235 x 310 mm. Our 7 mm staff height and
+197 mm staff width are chosen test values, not measurements claimed for Henle.
+Observed traits: substantial noteheads, fine staff lines, smoothly tapered slurs,
+compact rhythmic grouping, restrained text/fingerings, clear grand-staff space.
+Henle's FAQ says it uses specially developed, non-commercial fonts based on
+historical engraving tools. No Henle fonts are used or recreated here. References
+are privately saved official preview images; generated musical examples are new.
+
+RESULTS AND LIMITATIONS
+A vs B isolates a house-style change within one engine. B changes several
+variables at once, so this is an aesthetic screen rather than a one-factor study.
+C uses Leland and a saved MuseScore style. D uses Leipzig and exposes SVG/MEI.
+All eight native outputs use the same intended notes and fixed system breaks.
+Visual checks confirm two grand-staff systems per excerpt and matching nominal
+staff height; raster staff-spacing measurements are about 9 px at 130 dpi.
+The LilyPond compiler and importer logs are checked for warnings.
+
+The first pass revealed cross-voice slur-ID collisions and a need to encode
+printed accidentals explicitly for Verovio. Both were fixed in the common source.
+Do not confuse musical pitch data with a guarantee that its accidental will be
+displayed correctly by every importer. Recheck both semantics and the PDF.
+
+These samples cover dotted rhythms, accidentals, ledger lines, chordal bass,
+multiple voices, fingerings, slurs, dynamics, hairpins and eighth/sixteenth beams.
+They do not yet exercise ties, tuplets, grace notes, cross-staff beams, pedal,
+ottavas, complex accidental collisions, long-span slurs or page turns.
+The current preset should not be described as production-ready or exact Henle.
+
+NEXT ITERATION
+Choose the preferred overall treatment, then tune one variable at a time:
+1. music glyph family and black/white balance;
+2. staff size, line width and rhythm-sensitive spacing;
+3. grand-staff distances and system density;
+4. slur shape, beam slopes and fingering typography;
+5. exceptional passages using persistent, bar-specific refinements.
+Expand to a short real public-domain piano excerpt with tuplets, cross-staff
+writing and pedal, then a full movement for pagination and performance reading.
+
+EVENTUAL SCAN WORKFLOW (not implemented)
+Preserve original scan -> optical music recognition -> corrected MusicXML ->
+rhythm/pitch/voice validation -> strip accidental scan-layout artifacts ->
+apply house style -> retain named exceptions -> compile -> compare visual proofs.
+Keep scan confidence and correction history separate from engraving rules.
+Never let attractive output stand in for musical proofreading.
+
+PRIMARY SOURCES
+Henle samples and page format:
+https://www.henle.de/us/Nocturnes/HN-185
+Henle fonts:
+https://www.henle.de/FAQ/
+Henle engraving discussion:
+https://www.henle.de/en/Music-Engraving/
+LilyPond spacing and fonts:
+https://lilypond.org/doc/v2.26/Documentation/notation/changing-horizontal-spacing-globally
+https://lilypond.org/doc/v2.26/Documentation/notation/fonts
+MuseScore command-line export (installed --help takes precedence):
+https://handbook.musescore.org/appendix/command-line-usage
+Verovio controls:
+https://book.verovio.org/toolkit-reference/toolkit-options.html

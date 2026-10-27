@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m142yllr">
+      <fileDesc xml:id="f19hk1ar">
+         <titleStmt xml:id="tvhdnuw">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1sg39ja" />
+      </fileDesc>
+      <encodingDesc xml:id="ecznzd1">
+         <appInfo xml:id="auwik0y">
+            <application xml:id="a70auyf" isodate="2026-10-27T09:37:08" version="6.3.0-425dd7b">
+               <name xml:id="njy5xpg">Verovio</name>
+               <p xml:id="ppagxl3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="d14g3hru">
+            <score xml:id="ec7jgzy">
+               <scoreDef xml:id="f1xexic4">
+                  <staffGrp xml:id="i64rly2">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="ef0hc54" symbol="brace" />
+                        <staffDef xml:id="kzajojm" n="1" lines="5" ppq="4">
+                           <clef xml:id="r1j3xt8t" shape="G" line="2" />
+                           <keySig xml:id="s1xg56q4" sig="2f" />
+                           <meterSig xml:id="ti35gqi" count="3" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="u2ri0ie" n="2" lines="5" ppq="4">
+                           <clef xml:id="bg2iuwd" shape="F" line="4" />
+                           <keySig xml:id="cg3f7v6" sig="2f" />
+                           <meterSig xml:id="d10uhp0j" count="3" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="gid50i7">
+                  <expansion plist="#a1b0d537" xml:id="blr2359" />
+                  <pb xml:id="he2u262" />
+                  <section xml:id="a1b0d537">
+                     <measure xml:id="f1vf80gh" n="1">
+                        <staff xml:id="o1f6mswk" n="1">
+                           <layer xml:id="wclfu1i" n="1">
+                              <note xml:id="lyrical-m1-r-n1-p1" dots="1" dur.ppq="6" dur="4" oct="4" pname="g" />
+                              <note xml:id="lyrical-m1-r-n2-p1" dur.ppq="2" dur="8" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="lyrical-m1-r-n3-p1" dur.ppq="4" dur="4" oct="5" pname="d" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="pxs4he" n="2">
+                           <layer xml:id="ghmiawn" n="3">
+                              <beam xml:id="hoa00b8">
+                                 <note xml:id="lyrical-m1-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="g" />
+                                 <note xml:id="lyrical-m1-l-n2-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                                 <note xml:id="lyrical-m1-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m1-l-n4-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                                 <note xml:id="lyrical-m1-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="g" />
+                                 <note xml:id="lyrical-m1-l-n6-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <dir xml:id="qfsoq9e" place="above" staff="1" tstamp="1">
+                           <rend xml:id="r16muesi" fontweight="bold">Andante cantabile</rend>
+                        </dir>
+                        <dynam xml:id="t1v2be4l" place="below" staff="1" tstamp="1" vgrp="2000">p</dynam>
+                        <hairpin xml:id="vovvav8" staff="1" tstamp="1" tstamp2="1m+1" form="cres" place="below" vgrp="2000" />
+                        <slur xml:id="y1b9nh7c" startid="#lyrical-m1-r-n1-p1" endid="#lyrical-m4-r-n2-p1" curvedir="above" />
+                        <fing xml:id="z1qt716p" place="above" staff="1" startid="#lyrical-m1-r-n1-p1">1</fing>
+                        <fing xml:id="e12ziud0" place="above" staff="1" startid="#lyrical-m1-r-n3-p1">5</fing>
+                        <slur xml:id="j10kuhbi" startid="#lyrical-m1-l-n1-p1" endid="#lyrical-m1-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="q3z7p6o" n="2">
+                        <staff xml:id="z1s1wj6c" n="1">
+                           <layer xml:id="b1gsb2r2" n="1">
+                              <note xml:id="lyrical-m2-r-n1-p1" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <note xml:id="lyrical-m2-r-n2-p1" dur.ppq="4" dur="4" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="lyrical-m2-r-n3-p1" dur.ppq="4" dur="4" oct="4" pname="a" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="a1v9v7gg" n="2">
+                           <layer xml:id="gyabxh6" n="3">
+                              <beam xml:id="hw3hdyv">
+                                 <note xml:id="lyrical-m2-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="f" />
+                                 <note xml:id="lyrical-m2-l-n2-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                                 <note xml:id="lyrical-m2-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="a" />
+                                 <note xml:id="lyrical-m2-l-n4-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                                 <note xml:id="lyrical-m2-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="f" />
+                                 <note xml:id="lyrical-m2-l-n6-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="jz38zg2" startid="#lyrical-m2-l-n1-p1" endid="#lyrical-m2-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="p1b6z1a" n="3">
+                        <staff xml:id="y1xcsgz0" n="1">
+                           <layer xml:id="c973aip" n="1">
+                              <note xml:id="lyrical-m3-r-n1-p1" dots="1" dur.ppq="6" dur="4" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="lyrical-m3-r-n2-p1" dur.ppq="2" dur="8" oct="4" pname="a" />
+                              <note xml:id="lyrical-m3-r-n3-p1" dur.ppq="4" dur="4" oct="4" pname="g" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="zxtcw10" n="2">
+                           <layer xml:id="h1kfgvz0" n="3">
+                              <beam xml:id="i471h89">
+                                 <note xml:id="lyrical-m3-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="e" accid.ges="f" />
+                                 <note xml:id="lyrical-m3-l-n2-p1" dur.ppq="2" dur="8" oct="2" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m3-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="g" />
+                                 <note xml:id="lyrical-m3-l-n4-p1" dur.ppq="2" dur="8" oct="2" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m3-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="e" accid.ges="f" />
+                                 <note xml:id="lyrical-m3-l-n6-p1" dur.ppq="2" dur="8" oct="2" pname="b" accid.ges="f" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="a13njxol" place="below" staff="1" tstamp="1" vgrp="2000">mf</dynam>
+                        <slur xml:id="ly4im3q" startid="#lyrical-m3-l-n1-p1" endid="#lyrical-m3-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="vjbk91t" n="4">
+                        <staff xml:id="e1j7oqps" n="1">
+                           <layer xml:id="g7sllj" n="1">
+                              <note xml:id="lyrical-m4-r-n1-p1" dur.ppq="8" dur="2" oct="4" pname="f">
+                                 <accid xml:id="i1kyp9u5" accid="s" />
+                              </note>
+                              <note xml:id="lyrical-m4-r-n2-p1" dur.ppq="4" dur="4" oct="4" pname="d" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="fi39gg4" n="2">
+                           <layer xml:id="k1188k2t" n="3">
+                              <beam xml:id="lm1xi4e">
+                                 <note xml:id="lyrical-m4-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="d" />
+                                 <note xml:id="lyrical-m4-l-n2-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                                 <note xml:id="lyrical-m4-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="f">
+                                    <accid xml:id="qj1xd98" accid="s" />
+                                 </note>
+                                 <note xml:id="lyrical-m4-l-n4-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                                 <note xml:id="lyrical-m4-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                                 <note xml:id="lyrical-m4-l-n6-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="n16pxatr" startid="#lyrical-m4-l-n1-p1" endid="#lyrical-m4-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <sb xml:id="fq4hw8t" />
+                     <measure xml:id="uyw9tcw" n="5">
+                        <staff xml:id="d1gzy5h8" n="1">
+                           <layer xml:id="ikhb56a" n="1">
+                              <note xml:id="lyrical-m5-r-n1-p1" dur.ppq="4" dur="4" oct="5" pname="d" />
+                              <note xml:id="lyrical-m5-r-n2-p1" dur.ppq="4" dur="4" oct="5" pname="e" accid.ges="f" />
+                              <note xml:id="lyrical-m5-r-n3-p1" dur.ppq="4" dur="4" oct="5" pname="d" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="e3l3tlc" n="2">
+                           <layer xml:id="q1vb6wi2" n="3">
+                              <beam xml:id="r1wdutrk">
+                                 <note xml:id="lyrical-m5-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m5-l-n2-p1" dur.ppq="2" dur="8" oct="3" pname="f" />
+                                 <note xml:id="lyrical-m5-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m5-l-n4-p1" dur.ppq="2" dur="8" oct="3" pname="f" />
+                                 <note xml:id="lyrical-m5-l-n5-p1" dur.ppq="2" dur="8" oct="4" pname="d" />
+                                 <note xml:id="lyrical-m5-l-n6-p1" dur.ppq="2" dur="8" oct="3" pname="f" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="g17raug8" place="below" staff="1" tstamp="1" vgrp="2000">mf</dynam>
+                        <slur xml:id="k1exjsbx" startid="#lyrical-m5-r-n1-p1" endid="#lyrical-m8-r-n1-p1" curvedir="above" />
+                        <fing xml:id="nsgc9n3" place="above" staff="1" startid="#lyrical-m5-r-n2-p1">5</fing>
+                        <slur xml:id="u1rnu5kf" startid="#lyrical-m5-l-n1-p1" endid="#lyrical-m5-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="b1u1ih9o" n="6">
+                        <staff xml:id="k1lr7tsw" n="1">
+                           <layer xml:id="m1vu59as" n="1">
+                              <note xml:id="lyrical-m6-r-n1-p1" dots="1" dur.ppq="6" dur="4" oct="5" pname="c" />
+                              <note xml:id="lyrical-m6-r-n2-p1" dur.ppq="2" dur="8" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="lyrical-m6-r-n3-p1" dur.ppq="4" dur="4" oct="4" pname="a" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="l1g03fjp" n="2">
+                           <layer xml:id="r1bhjslm" n="3">
+                              <beam xml:id="spz7rw3">
+                                 <note xml:id="lyrical-m6-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="f" />
+                                 <note xml:id="lyrical-m6-l-n2-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                                 <note xml:id="lyrical-m6-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="a" />
+                                 <note xml:id="lyrical-m6-l-n4-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                                 <note xml:id="lyrical-m6-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="f" />
+                                 <note xml:id="lyrical-m6-l-n6-p1" dur.ppq="2" dur="8" oct="3" pname="c" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="u189iqv4" startid="#lyrical-m6-l-n1-p1" endid="#lyrical-m6-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="ahsx774" n="7">
+                        <staff xml:id="j1br5cua" n="1">
+                           <layer xml:id="nhtr86b" n="1">
+                              <note xml:id="lyrical-m7-r-n1-p1" dur.ppq="4" dur="4" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="lyrical-m7-r-n2-p1" dur.ppq="4" dur="4" oct="4" pname="a" />
+                              <note xml:id="lyrical-m7-r-n3-p1" dur.ppq="4" dur="4" oct="4" pname="f">
+                                 <accid xml:id="soe5yha" accid="s" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <staff xml:id="k1khnqz5" n="2">
+                           <layer xml:id="tuaq4mn" n="3">
+                              <beam xml:id="uv3bvgl">
+                                 <note xml:id="lyrical-m7-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="d" />
+                                 <note xml:id="lyrical-m7-l-n2-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                                 <note xml:id="lyrical-m7-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="f">
+                                    <accid xml:id="zpslpjg" accid="s" />
+                                 </note>
+                                 <note xml:id="lyrical-m7-l-n4-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                                 <note xml:id="lyrical-m7-l-n5-p1" dur.ppq="2" dur="8" oct="4" pname="c" />
+                                 <note xml:id="lyrical-m7-l-n6-p1" dur.ppq="2" dur="8" oct="2" pname="a" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="l1txlhxg" place="below" staff="1" tstamp="1" vgrp="2000">p</dynam>
+                        <slur xml:id="w1wfnmb" startid="#lyrical-m7-l-n1-p1" endid="#lyrical-m7-l-n6-p1" curvedir="above" />
+                     </measure>
+                     <measure xml:id="dqrr5c5" right="end" n="8">
+                        <staff xml:id="md527ak" n="1">
+                           <layer xml:id="o16mepck" n="1">
+                              <note xml:id="lyrical-m8-r-n1-p1" dots="1" dur.ppq="12" dur="2" oct="4" pname="g" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="n1sud7ea" n="2">
+                           <layer xml:id="q1jrb3g0" n="3">
+                              <beam xml:id="r122ct6g">
+                                 <note xml:id="lyrical-m8-l-n1-p1" dur.ppq="2" dur="8" oct="2" pname="g" />
+                                 <note xml:id="lyrical-m8-l-n2-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                                 <note xml:id="lyrical-m8-l-n3-p1" dur.ppq="2" dur="8" oct="3" pname="b" accid.ges="f" />
+                                 <note xml:id="lyrical-m8-l-n4-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                                 <note xml:id="lyrical-m8-l-n5-p1" dur.ppq="2" dur="8" oct="3" pname="g" />
+                                 <note xml:id="lyrical-m8-l-n6-p1" dur.ppq="2" dur="8" oct="3" pname="d" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="twmyiyw" startid="#lyrical-m8-l-n1-p1" endid="#lyrical-m8-l-n6-p1" curvedir="above" />
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

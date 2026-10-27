@@ -1,0 +1,65 @@
+[
+  {
+    "path": "references/henle-nocturnes-01.jpg",
+    "sha256": "eea831cc62cdc7325040cb4b667d47cfe500f6b5271e2ffb03e9e4abb2ad417e",
+    "bytes": 2189457,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-02.jpg",
+    "sha256": "a7f6ef9401e84b0d6fd18e0b4b4ec698a57d16d0db43c1119a7acd45bbe9153e",
+    "bytes": 1616830,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-03.jpg",
+    "sha256": "3761dab4a4732c83c6208eecddda265c349e146e5157be61dcb2367a73d34d45",
+    "bytes": 408341,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-07.jpg",
+    "sha256": "5ee74a8bc139678e91c1227eb2724b6ccabeeadab453d1c75854056575b32355",
+    "bytes": 1628134,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-09.jpg",
+    "sha256": "72345ff693fb7a6435a634bd71ddc172aa1242456ce871d341b6aa6e556ece8e",
+    "bytes": 1347219,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-10.jpg",
+    "sha256": "2c3e9905e006b9dae7ad4ec0cdef1bd183a931df4e5c77e56141a03d08ea2e1b",
+    "bytes": 1478476,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-11.jpg",
+    "sha256": "e9a48d1951d1babd04086cde412bfdc89e5d129303601fd2a488d6453a20bdce",
+    "bytes": 1427668,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/henle-nocturnes-12.jpg",
+    "sha256": "bd1918f948e4d51852ad54c7a8e1f1a94ce70da05840fd531161545bd5db9f2b",
+    "bytes": 1413936,
+    "availability": "local cache, not tracked",
+    "source": "official Henle preview; URL in sources.json"
+  },
+  {
+    "path": "references/shostakovich-op34-no16-scan.pdf",
+    "sha256": "16ba2e6a4a07bfcfbf63987e5a57422a41184714d5823cc4294a943fdf0c6cbf",
+    "bytes": 2458927,
+    "availability": "local cache, not tracked",
+    "source": "user supplied two-page scan, printed pages 166-167"
+  }
+]

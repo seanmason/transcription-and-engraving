@@ -1,0 +1,11 @@
+.tools/
+__pycache__/
+*.pyc
+tmp/
+logs/
+references/*.jpg
+references/*.png
+references/*.pdf
+.env
+.env.*
+.DS_Store

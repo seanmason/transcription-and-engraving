@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m1kjf89n">
+      <fileDesc xml:id="fua5fvr">
+         <titleStmt xml:id="t1elq2wm">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1w6n3st" />
+      </fileDesc>
+      <encodingDesc xml:id="e1x5c82u">
+         <appInfo xml:id="a6eqjrb">
+            <application xml:id="a8rdmn3" isodate="2026-10-27T09:37:09" version="6.3.0-425dd7b">
+               <name xml:id="npdatg4">Verovio</name>
+               <p xml:id="pgn6edr">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="k1bvwtru">
+            <score xml:id="lths0kf">
+               <scoreDef xml:id="m100trgr">
+                  <staffGrp xml:id="pk53si">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="lj8xqqa" symbol="brace" />
+                        <staffDef xml:id="ra72rkj" n="1" lines="5" ppq="4">
+                           <clef xml:id="y1gmsyw9" shape="G" line="2" />
+                           <keySig xml:id="z10h30f1" sig="0" />
+                           <meterSig xml:id="a1qn6kj8" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="b12ppadm" n="2" lines="5" ppq="4">
+                           <clef xml:id="imav1xk" shape="F" line="4" />
+                           <keySig xml:id="j1j5djm9" sig="0" />
+                           <meterSig xml:id="kotn5gy" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="n13cbleg">
+                  <expansion plist="#c1pp4u1g" xml:id="d9e4zar" />
+                  <pb xml:id="o1072u41" />
+                  <section xml:id="c1pp4u1g">
+                     <measure xml:id="mcdhi3n" n="1">
+                        <staff xml:id="v1hcv5xj" n="1">
+                           <layer xml:id="d1jgomgt" n="1">
+                              <beam xml:id="efkdpjr">
+                                 <note xml:id="dense-m1-r-n1-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n2-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n3-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n4-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="o1ahof44">
+                                 <note xml:id="dense-m1-r-n5-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n6-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n7-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n8-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="t1ygcj9s">
+                                 <note xml:id="dense-m1-r-n9-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n10-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n11-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n12-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="y195cofi">
+                                 <note xml:id="dense-m1-r-n13-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n14-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n15-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m1-r-n16-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                              </beam>
+                           </layer>
+                           <layer xml:id="d1dj60g2" n="2">
+                              <note xml:id="dense-m1-i-n1-p1" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="dense-m1-i-n2-p1" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="wko3e5v" n="2">
+                           <layer xml:id="g1cuysmx" n="3">
+                              <chord xml:id="i1kh6v7m" dur.ppq="4" dur="4">
+                                 <artic xml:id="j1vkmifo" artic="stacc" />
+                                 <note xml:id="dense-m1-l-n1-p1" oct="2" pname="c" />
+                                 <note xml:id="dense-m1-l-n1-p2" oct="3" pname="c" />
+                              </chord>
+                              <chord xml:id="m1theaqm" dur.ppq="4" dur="4">
+                                 <artic xml:id="n48g17k" artic="stacc" />
+                                 <note xml:id="dense-m1-l-n2-p1" oct="2" pname="g" />
+                                 <note xml:id="dense-m1-l-n2-p2" oct="3" pname="e" />
+                              </chord>
+                              <chord xml:id="qmrg924" dur.ppq="4" dur="4">
+                                 <artic xml:id="rwdqjpu" artic="stacc" />
+                                 <note xml:id="dense-m1-l-n3-p1" oct="2" pname="f" />
+                                 <note xml:id="dense-m1-l-n3-p2" oct="3" pname="f" />
+                              </chord>
+                              <chord xml:id="u1w58lbr" dur.ppq="4" dur="4">
+                                 <artic xml:id="vklza1c" artic="stacc" />
+                                 <note xml:id="dense-m1-l-n4-p1" oct="3" pname="c" />
+                                 <note xml:id="dense-m1-l-n4-p2" oct="3" pname="a" />
+                              </chord>
+                           </layer>
+                        </staff>
+                        <dir xml:id="x1o72okj" place="above" staff="1" tstamp="1">
+                           <rend xml:id="yqsuyui" fontweight="bold">Allegro con moto</rend>
+                        </dir>
+                        <dynam xml:id="a157zcjg" place="below" staff="1" tstamp="1" vgrp="2000">p</dynam>
+                        <hairpin xml:id="ct7t87y" staff="1" tstamp="1" tstamp2="1m+1" form="cres" place="below" vgrp="2000" />
+                        <slur xml:id="gdsevex" startid="#dense-m1-r-n1-p1" endid="#dense-m1-r-n16-p1" curvedir="above" />
+                        <fing xml:id="hj4dikd" place="above" staff="1" startid="#dense-m1-r-n1-p1">1</fing>
+                        <fing xml:id="l18mlved" place="above" staff="1" startid="#dense-m1-r-n3-p1">5</fing>
+                     </measure>
+                     <measure xml:id="x1afe1mc" n="2">
+                        <staff xml:id="g1a2x6kj" n="1">
+                           <layer xml:id="i4e5h82" n="1">
+                              <beam xml:id="j68ex3x">
+                                 <note xml:id="dense-m2-r-n1-p1" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n2-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up">
+                                    <accid xml:id="p1tlyivb" accid="s" />
+                                 </note>
+                                 <note xml:id="dense-m2-r-n3-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n4-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up" accid.ges="s" />
+                              </beam>
+                              <beam xml:id="vy2ymcb">
+                                 <note xml:id="dense-m2-r-n5-p1" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n6-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up" accid.ges="s" />
+                                 <note xml:id="dense-m2-r-n7-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n8-p1" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="up" accid.ges="s" />
+                              </beam>
+                              <beam xml:id="c1x5o20d">
+                                 <note xml:id="dense-m2-r-n9-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n10-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n11-p1" dur.ppq="1" dur="16" oct="6" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n12-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="hpwpia2">
+                                 <note xml:id="dense-m2-r-n13-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n14-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n15-p1" dur.ppq="1" dur="16" oct="6" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m2-r-n16-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                              </beam>
+                           </layer>
+                           <layer xml:id="m3ynk4b" n="2">
+                              <note xml:id="dense-m2-i-n1-p1" dur.ppq="8" dur="2" oct="4" pname="a" stem.dir="down" />
+                              <note xml:id="dense-m2-i-n2-p1" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="h1d98app" n="2">
+                           <layer xml:id="pfzge73" n="3">
+                              <chord xml:id="ra2n7gg" dur.ppq="4" dur="4">
+                                 <artic xml:id="s1polv3r" artic="stacc" />
+                                 <note xml:id="dense-m2-l-n1-p1" oct="2" pname="d" />
+                                 <note xml:id="dense-m2-l-n1-p2" oct="3" pname="d" />
+                              </chord>
+                              <chord xml:id="v9aw3yr" dur.ppq="4" dur="4">
+                                 <artic xml:id="wp7nnws" artic="stacc" />
+                                 <note xml:id="dense-m2-l-n2-p1" oct="2" pname="a" />
+                                 <note xml:id="dense-m2-l-n2-p2" oct="3" pname="f">
+                                    <accid xml:id="yx62ql9" accid="s" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="ab0j2fp" dur.ppq="4" dur="4">
+                                 <artic xml:id="bk49bfv" artic="stacc" />
+                                 <note xml:id="dense-m2-l-n3-p1" oct="2" pname="g" />
+                                 <note xml:id="dense-m2-l-n3-p2" oct="3" pname="g" />
+                              </chord>
+                              <chord xml:id="ekwoxgj" dur.ppq="4" dur="4">
+                                 <artic xml:id="f17rxqz5" artic="stacc" />
+                                 <note xml:id="dense-m2-l-n4-p1" oct="3" pname="d" />
+                                 <note xml:id="dense-m2-l-n4-p2" oct="3" pname="b" />
+                              </chord>
+                           </layer>
+                        </staff>
+                        <slur xml:id="l1x1euzk" startid="#dense-m2-r-n1-p1" endid="#dense-m2-r-n16-p1" curvedir="above" />
+                        <fing xml:id="mqwfddz" place="above" staff="1" startid="#dense-m2-r-n1-p1">1</fing>
+                        <fing xml:id="rica9va" place="above" staff="1" startid="#dense-m2-r-n3-p1">5</fing>
+                     </measure>
+                     <sb xml:id="sordu5u" />
+                     <measure xml:id="hf7eep9" n="3">
+                        <staff xml:id="qrqymon" n="1">
+                           <layer xml:id="vweboip" n="1">
+                              <beam xml:id="w1iv1tbm">
+                                 <note xml:id="dense-m3-r-n1-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n2-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n3-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n4-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="g1eg4lt6">
+                                 <note xml:id="dense-m3-r-n5-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n6-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n7-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n8-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="lygk9sv">
+                                 <note xml:id="dense-m3-r-n9-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up">
+                                    <accid xml:id="nk4xvd" accid="f" />
+                                 </note>
+                                 <note xml:id="dense-m3-r-n10-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up">
+                                    <accid xml:id="p1512g3o" accid="f" />
+                                 </note>
+                                 <note xml:id="dense-m3-r-n11-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n12-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" accid.ges="f" />
+                              </beam>
+                              <beam xml:id="ttffy1u">
+                                 <note xml:id="dense-m3-r-n13-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" accid.ges="f" />
+                                 <note xml:id="dense-m3-r-n14-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" accid.ges="f" />
+                                 <note xml:id="dense-m3-r-n15-p1" dur.ppq="1" dur="16" oct="5" pname="a" stem.dir="up" />
+                                 <note xml:id="dense-m3-r-n16-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" accid.ges="f" />
+                              </beam>
+                           </layer>
+                           <layer xml:id="bjt5f6m" n="2">
+                              <note xml:id="dense-m3-i-n1-p1" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="dense-m3-i-n2-p1" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="r15qcf4n" n="2">
+                           <layer xml:id="e1h21794" n="3">
+                              <chord xml:id="gxmhq52" dur.ppq="4" dur="4">
+                                 <artic xml:id="h2rfkk9" artic="stacc" />
+                                 <note xml:id="dense-m3-l-n1-p1" oct="2" pname="c" />
+                                 <note xml:id="dense-m3-l-n1-p2" oct="3" pname="c" />
+                              </chord>
+                              <chord xml:id="k3bs302" dur.ppq="4" dur="4">
+                                 <artic xml:id="l5szdh4" artic="stacc" />
+                                 <note xml:id="dense-m3-l-n2-p1" oct="2" pname="g" />
+                                 <note xml:id="dense-m3-l-n2-p2" oct="3" pname="e" />
+                              </chord>
+                              <chord xml:id="of7unzc" dur.ppq="4" dur="4">
+                                 <artic xml:id="p1ojaqqj" artic="stacc" />
+                                 <note xml:id="dense-m3-l-n3-p1" oct="2" pname="c" />
+                                 <note xml:id="dense-m3-l-n3-p2" oct="3" pname="c" />
+                              </chord>
+                              <chord xml:id="tgwvpvg" dur.ppq="4" dur="4">
+                                 <artic xml:id="uavmokr" artic="stacc" />
+                                 <note xml:id="dense-m3-l-n4-p1" oct="2" pname="g">
+                                    <accid xml:id="syshxyy" accid="f" />
+                                 </note>
+                                 <note xml:id="dense-m3-l-n4-p2" oct="3" pname="e">
+                                    <accid xml:id="w1h71yxf" accid="f" />
+                                 </note>
+                              </chord>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="t16n90vm" place="below" staff="1" tstamp="1" vgrp="2000">mf</dynam>
+                        <slur xml:id="y63470z" startid="#dense-m3-r-n1-p1" endid="#dense-m3-r-n16-p1" curvedir="above" />
+                        <fing xml:id="z1wnkwi2" place="above" staff="1" startid="#dense-m3-r-n1-p1">1</fing>
+                        <fing xml:id="d1xzj38o" place="above" staff="1" startid="#dense-m3-r-n3-p1">5</fing>
+                     </measure>
+                     <measure xml:id="xti6d3t" right="end" n="4">
+                        <staff xml:id="g1n698ib" n="1">
+                           <layer xml:id="i17ee2d6" n="1">
+                              <beam xml:id="jkv0r4s">
+                                 <note xml:id="dense-m4-r-n1-p1" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n2-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n3-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n4-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="trawy49">
+                                 <note xml:id="dense-m4-r-n5-p1" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n6-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n7-p1" dur.ppq="1" dur="16" oct="5" pname="b" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n8-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="y3anmxv">
+                                 <note xml:id="dense-m4-r-n9-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n10-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n11-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n12-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                              <beam xml:id="dqqopkz">
+                                 <note xml:id="dense-m4-r-n13-p1" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n14-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n15-p1" dur.ppq="1" dur="16" oct="6" pname="c" stem.dir="up" />
+                                 <note xml:id="dense-m4-r-n16-p1" dur.ppq="1" dur="16" oct="5" pname="g" stem.dir="up" />
+                              </beam>
+                           </layer>
+                           <layer xml:id="id7ipcq" n="2">
+                              <note xml:id="dense-m4-i-n1-p1" dur.ppq="8" dur="2" oct="4" pname="b" stem.dir="down" />
+                              <note xml:id="dense-m4-i-n2-p1" dur.ppq="8" dur="2" oct="5" pname="c" stem.dir="down" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="h1mi5c4" n="2">
+                           <layer xml:id="lkl62nz" n="3">
+                              <chord xml:id="n1tv054d" dur.ppq="4" dur="4">
+                                 <artic xml:id="o1fum34b" artic="stacc" />
+                                 <note xml:id="dense-m4-l-n1-p1" oct="2" pname="g" />
+                                 <note xml:id="dense-m4-l-n1-p2" oct="3" pname="g" />
+                              </chord>
+                              <chord xml:id="rm57sjq" dur.ppq="4" dur="4">
+                                 <artic xml:id="stu9dot" artic="stacc" />
+                                 <note xml:id="dense-m4-l-n2-p1" oct="3" pname="d" />
+                                 <note xml:id="dense-m4-l-n2-p2" oct="3" pname="f" />
+                              </chord>
+                              <chord xml:id="v1uamctq" dur.ppq="4" dur="4">
+                                 <artic xml:id="w1uf5qp1" artic="stacc" />
+                                 <note xml:id="dense-m4-l-n3-p1" oct="2" pname="c" />
+                                 <note xml:id="dense-m4-l-n3-p2" oct="3" pname="c" />
+                              </chord>
+                              <chord xml:id="z1vdd6np" dur.ppq="4" dur="4">
+                                 <artic xml:id="amazbm3" artic="stacc" />
+                                 <note xml:id="dense-m4-l-n4-p1" oct="2" pname="g" />
+                                 <note xml:id="dense-m4-l-n4-p2" oct="3" pname="e" />
+                              </chord>
+                           </layer>
+                        </staff>
+                        <slur xml:id="l1pbabev" startid="#dense-m4-r-n1-p1" endid="#dense-m4-r-n16-p1" curvedir="above" />
+                        <fing xml:id="mgmfwi4" place="above" staff="1" startid="#dense-m4-r-n1-p1">1</fing>
+                        <fing xml:id="q1rv5n9r" place="above" staff="1" startid="#dense-m4-r-n3-p1">5</fing>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

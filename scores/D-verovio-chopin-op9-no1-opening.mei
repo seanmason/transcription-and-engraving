@@ -1,0 +1,196 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m5emwo">
+      <fileDesc xml:id="f1k5w715">
+         <titleStmt xml:id="t11ohin5">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="pgh35gq" />
+      </fileDesc>
+      <encodingDesc xml:id="ed479gb">
+         <appInfo xml:id="a1hfz0s9">
+            <application xml:id="af069h2" isodate="2026-10-27T11:39:39" version="6.3.0-425dd7b">
+               <name xml:id="nf9ek8z">Verovio</name>
+               <p xml:id="pt88lbf">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="dvrfyg">
+            <score xml:id="eibxl9s">
+               <scoreDef xml:id="f1ccvpy">
+                  <staffGrp xml:id="h1suazky">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="d168x20q" symbol="brace" />
+                        <staffDef xml:id="j1rw2qg6" n="1" lines="5" ppq="44">
+                           <clef xml:id="q4rre87" shape="G" line="2" />
+                           <keySig xml:id="r1d3tvyu" sig="5f" />
+                           <meterSig xml:id="s1gttq6n" count="6" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="t1glxvho" n="2" lines="5" ppq="44">
+                           <clef xml:id="a98oqrx" shape="F" line="4" />
+                           <keySig xml:id="b3ldxmi" sig="5f" />
+                           <meterSig xml:id="cil8ok7" count="6" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="g1phvue5">
+                  <sb /><expansion plist="#y1amr4j4" xml:id="zcy368j" />
+                  <section xml:id="y1amr4j4">
+                     <measure xml:id="e8hhrnn" right="single" metcon="false" n="0">
+                        <mNum xml:id="nrm687s" />
+                        <staff xml:id="o15ji21s" n="1">
+                           <layer xml:id="c18xp8xy" n="1">
+                              <beam xml:id="d1nytcul">
+                                 <note xml:id="chopin-m0-s1-n1" dur.ppq="22" dur="8" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m0-s1-n2" dur.ppq="22" dur="8" oct="6" pname="c" stem.dir="down" />
+                                 <note xml:id="chopin-m0-s1-n3" dur.ppq="22" dur="8" oct="6" pname="d" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m0-s1-n4" dur.ppq="22" dur="8" oct="5" pname="a" stem.dir="down">
+                                    <accid xml:id="nevmut5" accid="n" />
+                                 </note>
+                                 <note xml:id="chopin-m0-s1-n5" dur.ppq="22" dur="8" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m0-s1-n6" dur.ppq="22" dur="8" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <staff xml:id="p47pcry" n="2">
+                           <layer xml:id="u17tbmxx" n="2">
+                              <rest xml:id="chopin-m0-s2-n1" dur.ppq="88" dur="2" />
+                              <rest xml:id="chopin-m0-s2-n2" dur.ppq="44" dur="4" />
+                           </layer>
+                        </staff>
+                        <tempo xml:id="q1j920nk" place="above" staff="1" tstamp="1" xml:lang="it" mm="116" mm.unit="4">
+                           <rend xml:id="rblv481" fontweight="bold">Larghetto</rend>
+                           <rend xml:id="t1nsqzov" glyph.auth="smufl"></rend> = 116</tempo>
+                        <dynam xml:id="x1uzgegz" place="below" staff="1" tstamp="1" vgrp="1">p</dynam>
+                        <dir xml:id="z62ul83" place="below" staff="1" tstamp="1" vgrp="1" ho="3">
+                           <rend xml:id="a1e0oabu" fontstyle="italic">espress.</rend>
+                        </dir>
+                        <slur xml:id="g1thi1uj" startid="#chopin-m0-s1-n1" endid="#chopin-m1-s1-n4" curvedir="above" />
+                        <fing xml:id="h10nxz6u" place="above" staff="1" startid="#chopin-m0-s1-n1">2</fing>
+                        <fing xml:id="qkhd77c" place="above" staff="1" startid="#chopin-m0-s1-n5">4</fing>
+                     </measure>
+                     <measure xml:id="xkxbqhf" right="single" n="1">
+                        <staff xml:id="g1mz2ga8" n="1">
+                           <layer xml:id="k25ap6r" n="1">
+                              <note xml:id="chopin-m1-s1-n1" dur.ppq="44" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <artic xml:id="mgfgm65" artic="stacc" />
+                              </note>
+                              <note xml:id="chopin-m1-s1-n2" dur.ppq="44" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <artic xml:id="o1wxrrat" artic="stacc" />
+                              </note>
+                              <note xml:id="chopin-m1-s1-n3" dur.ppq="44" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <artic xml:id="sai2vc6" artic="stacc" />
+                              </note>
+                              <note xml:id="chopin-m1-s1-n4" dur.ppq="44" dur="4" oct="5" pname="f" stem.dir="down" />
+                              <beam xml:id="u10w009v">
+                                 <note xml:id="chopin-m1-s1-n5" dur.ppq="22" dur="8" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s1-n6" dur.ppq="22" dur="8" oct="5" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m1-s1-n7" dur.ppq="22" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s1-n8" dur.ppq="22" dur="8" oct="5" pname="c" stem.dir="down" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <staff xml:id="hrvqley" n="2">
+                           <layer xml:id="gjbnjp7" n="2">
+                              <beam xml:id="hy5d8dh">
+                                 <note xml:id="chopin-m1-s2-n1" dur.ppq="22" dur="8" oct="2" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s2-n2" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m1-s2-n3" dur.ppq="22" dur="8" oct="4" pname="d" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s2-n4" dur.ppq="22" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s2-n5" dur.ppq="22" dur="8" oct="4" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m1-s2-n6" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                              </beam>
+                              <beam xml:id="y1reuh2h">
+                                 <note xml:id="chopin-m1-s2-n7" dur.ppq="22" dur="8" oct="2" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s2-n8" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m1-s2-n9" dur.ppq="22" dur="8" oct="4" pname="e" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m1-s2-n10" dur.ppq="22" dur="8" oct="3" pname="a" stem.dir="down">
+                                    <accid xml:id="gjrolpn" accid="n" />
+                                 </note>
+                                 <note xml:id="chopin-m1-s2-n11" dur.ppq="22" dur="8" oct="4" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m1-s2-n12" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <hairpin xml:id="i10g1kty" staff="1" tstamp="1" tstamp2="0m+4" form="cres" place="below" vgrp="2000" />
+                        <hairpin xml:id="j1xcji46" staff="1" tstamp="5" tstamp2="0m+7" form="dim" place="below" vgrp="2000" />
+                        <fing xml:id="psg05cl" place="above" staff="1" startid="#chopin-m1-s1-n2">3</fing>
+                        <slur xml:id="x19gwmig" startid="#chopin-m1-s1-n5" endid="#chopin-m1-s1-n8" curvedir="above" />
+                        <pedal xml:id="c17jmiw9" staff="2" tstamp="1" dir="down" place="below" vgrp="2000" />
+                        <pedal xml:id="d174q0um" staff="2" tstamp="3.4" dir="up" place="below" vgrp="2000" />
+                        <pedal xml:id="e7stjqv" staff="2" tstamp="4" dir="down" place="below" vgrp="2000" />
+                        <pedal xml:id="f1xbt20v" staff="2" tstamp="6.4" dir="up" place="below" vgrp="2000" />
+                        <slur xml:id="k12lii7p" startid="#chopin-m1-s2-n1" endid="#chopin-m1-s2-n6" curvedir="above" />
+                        <fing xml:id="mp4cm3i" place="below" staff="2" startid="#chopin-m1-s2-n2">3</fing>
+                        <fing xml:id="s11rszph" place="below" staff="2" startid="#chopin-m1-s2-n4">2</fing>
+                        <fing xml:id="wknosc" place="below" staff="2" startid="#chopin-m1-s2-n6">3</fing>
+                        <slur xml:id="b9r8a48" startid="#chopin-m1-s2-n7" endid="#chopin-m1-s2-n12" curvedir="above" />
+                     </measure>
+                     <measure xml:id="jzl378w" right="single" n="2">
+                        <staff xml:id="s1hb6rgq" n="1">
+                           <layer xml:id="whxc64d" n="1">
+                              <note xml:id="chopin-m2-s1-n1" dur.ppq="88" dur="2" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                              <note xml:id="chopin-m2-s1-n2" dur.ppq="44" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
+                              <beam xml:id="eypkn9q">
+                                 <tuplet xml:id="f1glkoh4" num="11" numbase="6" num.place="below" bracket.place="below" bracket.visible="false" num.format="count">
+                                    <note xml:id="chopin-m2-s1-n3" dur.ppq="12" dur="8" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                    <note xml:id="chopin-m2-s1-n4" dur.ppq="12" dur="8" oct="6" pname="c" stem.dir="down" />
+                                    <note xml:id="chopin-m2-s1-n5" dur.ppq="12" dur="8" oct="6" pname="d" stem.dir="down" accid.ges="f" />
+                                    <note xml:id="chopin-m2-s1-n6" dur.ppq="12" dur="8" oct="5" pname="a" stem.dir="down">
+                                       <accid xml:id="n15ttxqh" accid="n" />
+                                    </note>
+                                    <note xml:id="chopin-m2-s1-n7" dur.ppq="12" dur="8" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                    <note xml:id="chopin-m2-s1-n8" dur.ppq="12" dur="8" oct="5" pname="a" stem.dir="down" />
+                                    <note xml:id="chopin-m2-s1-n9" dur.ppq="12" dur="8" oct="5" pname="g" stem.dir="down">
+                                       <accid xml:id="u1sly036" accid="s" />
+                                    </note>
+                                    <note xml:id="chopin-m2-s1-n10" dur.ppq="12" dur="8" oct="5" pname="a" stem.dir="down" />
+                                    <note xml:id="chopin-m2-s1-n11" dur.ppq="12" dur="8" oct="6" pname="c" stem.dir="down" />
+                                    <note xml:id="chopin-m2-s1-n12" dur.ppq="12" dur="8" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                    <note xml:id="chopin-m2-s1-n13" dur.ppq="12" dur="8" oct="5" pname="g" stem.dir="down">
+                                       <accid xml:id="amvakqx" accid="f" />
+                                    </note>
+                                 </tuplet>
+                              </beam>
+                           </layer>
+                        </staff>
+                        <staff xml:id="t1in6fbi" n="2">
+                           <layer xml:id="b1jo14a5" n="2">
+                              <beam xml:id="c1o4tqww">
+                                 <note xml:id="chopin-m2-s2-n1" dur.ppq="22" dur="8" oct="2" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n2" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m2-s2-n3" dur.ppq="22" dur="8" oct="4" pname="d" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n4" dur.ppq="22" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n5" dur.ppq="22" dur="8" oct="4" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m2-s2-n6" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                              </beam>
+                              <beam xml:id="n1h1ii83">
+                                 <note xml:id="chopin-m2-s2-n7" dur.ppq="22" dur="8" oct="2" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n8" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m2-s2-n9" dur.ppq="22" dur="8" oct="4" pname="d" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n10" dur.ppq="22" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="chopin-m2-s2-n11" dur.ppq="22" dur="8" oct="4" pname="f" stem.dir="down" />
+                                 <note xml:id="chopin-m2-s2-n12" dur.ppq="22" dur="8" oct="3" pname="f" stem.dir="down" />
+                              </beam>
+                           </layer>
+                        </staff>
+                        <hairpin xml:id="u1hznv4k" staff="1" tstamp="1" tstamp2="0m+3" form="dim" place="below" vgrp="2000" />
+                        <hairpin xml:id="v1xq6kr0" staff="1" tstamp="4" tstamp2="0m+6.7273" form="cres" place="below" vgrp="2000" />
+                        <slur xml:id="z1v4jtlf" startid="#chopin-m2-s1-n1" endid="#chopin-m2-s1-n2" curvedir="above" />
+                        <fing xml:id="akii09z" place="above" staff="1" startid="#chopin-m2-s1-n1">2</fing>
+                        <slur xml:id="i4blgnl" startid="#chopin-m2-s1-n3" endid="#chopin-m2-s1-n13" curvedir="above" />
+                        <fing xml:id="qwythor" place="above" staff="1" startid="#chopin-m2-s1-n7">4</fing>
+                        <slur xml:id="fj2enid" startid="#chopin-m2-s2-n1" endid="#chopin-m2-s2-n6" curvedir="above" />
+                        <slur xml:id="qz47t2z" startid="#chopin-m2-s2-n7" endid="#chopin-m2-s2-n12" curvedir="above" />
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

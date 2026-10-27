@@ -1,0 +1,19 @@
+{
+  "Henle Nocturnes HN185": {
+    "page": "https://www.henle.de/us/Nocturnes/HN-185",
+    "previews": {
+      "1": "https://www.henle.de/media/93/82/1c/1692626103/0185_0001-1692626103-sync.jpg",
+      "2": "https://www.henle.de/media/8e/54/5a/1692626094/0185_0002-1692626094-sync.jpg",
+      "3": "https://www.henle.de/media/32/ec/20/1692626108/0185_0003-1692626108-sync.jpg",
+      "7": "https://www.henle.de/media/f1/71/27/1692626101/0185_0007-1692626101-sync.jpg",
+      "9": "https://www.henle.de/media/9d/17/73/1692626099/0185_0009-1692626099-sync.jpg",
+      "10": "https://www.henle.de/media/aa/1e/67/1692626106/0185_0010-1692626106-sync.jpg",
+      "11": "https://www.henle.de/media/f0/68/08/1692626096/0185_0011-1692626096-sync.jpg",
+      "12": "https://www.henle.de/media/9e/25/b8/1692626104/0185_0012-1692626104-sync.jpg"
+    }
+  },
+  "downloads": {
+    "lilypond.tar.gz": "https://gitlab.com/lilypond/lilypond/-/releases/v2.26.0/downloads/lilypond-2.26.0-linux-x86_64.tar.gz",
+    "MuseScore.AppImage": "https://github.com/musescore/MuseScore/releases/download/v4.7.6/MuseScore-Studio-4.7.6.261022093-x86_64.AppImage"
+  }
+}
