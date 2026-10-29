@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-29",
+  "source": "User-supplied Elfin Dance.pdf; two scanned pages",
+  "dependencies": {
+    "references/elfin-dance-scan.pdf": "f4fd6665107f0e0bcd2e81d3b4da7d17cdaff8c64fe948b1eec1d8c9c90e6318",
+    "scores/elfin-dance.ly": "e2c4d4e715db4d0cdb241418f1d4f5705afd02da62d6b5700600bb79fda0ba6a",
+    "styles/common.ily": "d251a628d8775edea41b44ee80d19e5d3cb64535dfdc4c48e68c5e110e8af2c3",
+    "styles/lily-classical.ily": "6e70faad0ba5c93ed0c0455ef760a00f1b31d50fae0cd2ba07daf52c34030248",
+    "styles/chopin-typography.ily": "a231f9f9ca6ca474f1bb22fd82413653a5fbbc7eeea6e7c2191b400d03217e51",
+    "fonts/fingering/build_font.py": "5840e62c97dd2e26088e868605bb1bc77924847d8511a3968bc6253dc86e6947",
+    "fonts/tempo/build_font.py": "91aafedd9c498a5f80ecf2c45f8cb005826ef8427864570d3529fd1de3d815d1"
+  },
+  "reviewed_drafts": [
+    "r1",
+    "r2",
+    "r3"
+  ],
+  "final": "output/pdf/elfin-dance-reengraved.pdf",
+  "historical_rebuild": "lilypond -I . -o tmp/pdfs/elfin-reproof experiments/005-elfin-dance/evidence/rN.ly"
+}

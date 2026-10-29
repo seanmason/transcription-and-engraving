@@ -1,0 +1,50 @@
+ELFIN DANCE - REVIEW AUDIT
+Source: user-supplied two-page scan, received 29 October 2026.
+Composer as printed: Edvard Grieg. Meter 3/4, one-sharp key signature.
+Scope: 72 measures, no repeats to unfold and no pickup.
+
+READING AND SOURCE HANDLING
+Inspected both complete pages, all 12 systems in enlarged crops, and additional
+close-ups of chromatic runs, bass chords, the double-sharp figure and final
+ornaments. The scanned staff lines curve and slope locally: pitches must be
+read against the staff at the note's own position, not a horizontal page-wide
+reference. This was material to the correction in bars 3-4 and their returns.
+Pencil measure numbers and annotations were not included in the new score.
+No independent edition was substituted for the supplied source.
+
+MUSICAL CORRECTIONS DURING REVIEW
+- Main rising phrase: bar 3 ends F-sharp5, E5, D5; bar 4 is B4, E5,
+  G5, A-sharp5, B5. Corrected bars 11-12, 33-34, 55-56 and 63-64 too.
+- Rechecked accidental carry in bars 19-20, 23-28 and their later returns.
+  The A-sharp and B-flat passages have equal sounding pitches but retain
+  their different written spellings. Natural signs in bars 26-27/48-49
+  cancel the previous chromatic spelling explicitly.
+- Removed the extra pp initially copied into bar 31; retained the printed
+  pp at 53 and 61. Bar 49's lower-staff fingering 2 was restored.
+- Bar 67 LH is C3, F-sharp3, A3 (three notes). The first draft's four-note
+  chord was incorrect. RH C-double-sharp4 sounds D4.
+- Final RH principal chords are G4/E5 and G5/E6. Their grace notes are
+  B4/D-sharp5 and B5/D-sharp6. Initial octave and grace-note readings were
+  corrected before final delivery.
+
+ENGRAVING REVISIONS
+Kept the shared C059 expression face, Engraving Tempo and Engraving Fingering
+fonts. No shared preset changed. Six systems on each of two 235 x 310 mm
+pages, preserving the source's six-measure system groups. Kept the nominal
+7 mm staff height. Local staff spacing and collision padding were adjusted
+to remove page-compression warnings rather than shrinking the music.
+Final grace slurs were forced upward inside the grace context.
+
+VALIDATION
+All 144 bar-boundary assertions pass. Final build has no warnings.
+Two PDF pages confirmed. Both MIDI hands end at 216 quarter-note beats.
+All note-on events have positive-duration matching note-offs.
+Selected measure pitch sequences, repeated phrase sequences and final grace
+pitches are asserted in render_elfin_dance.py; the final report is preserved.
+Final rendered pages inspected for spacing, clipping and collisions.
+
+LIMITS
+Manual transcription and review by one workflow. No independent certification
+of musical accuracy. MIDI tempo 144 and grace durations are audition choices,
+not source metronome/performance instructions. Historical r1-r3 proofs contain
+known errors and must not replace the final source.

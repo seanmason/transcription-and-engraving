@@ -13,6 +13,7 @@
 - Shared geometry and type settings: `styles/`, `fonts/`.
 - Initial fixture masters: `scores/lyrical.musicxml`, `scores/dense.musicxml` (normal builds preserve them).
 - Chopin musical master: `chopin_study.py` (recreates exported MusicXML/native files).
+- Elfin Dance master: `scores/elfin-dance.ly`.
 - Full Shostakovich master: `scores/shostakovich-op34-no16-new.ly`.
 - Native GUI refinements: copy to `manual/` and document that copy as a master before editing. Re-importing MusicXML may erase positions.
 - Score-specific generated-LilyPond edits: persistent `overrides/` patches where supported; do not rely on edits to overwritten exports.

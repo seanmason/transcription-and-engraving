@@ -1,0 +1,27 @@
+{
+  "source_sha256": "e2c4d4e715db4d0cdb241418f1d4f5705afd02da62d6b5700600bb79fda0ba6a",
+  "pdf_sha256": "df5cc4fe574ad4510a303f7f8425704eddbc22661966aef3764bb60341c6f75d",
+  "pages": 2,
+  "full_measures": 72,
+  "bar_checks_per_hand": 72,
+  "lilypond_warnings": 0,
+  "selected_pitch_checks": 19,
+  "midi_tempo_note": "144 quarter notes per minute is an editorial audition setting; the printed source says Allegro without a metronome figure.",
+  "midi_tracks": [
+    {
+      "track": 1,
+      "duration_quarter_beats": 216.0,
+      "note_on_events": 436,
+      "lowest_midi_note": 52,
+      "highest_midi_note": 88
+    },
+    {
+      "track": 2,
+      "duration_quarter_beats": 216.0,
+      "note_on_events": 294,
+      "lowest_midi_note": 40,
+      "highest_midi_note": 71
+    }
+  ],
+  "limitation": "Structural and selected pitch checks complement manual scan comparison; they are not independent certification of all pitches and markings."
+}

@@ -61,5 +61,12 @@
     "bytes": 2458927,
     "availability": "local cache, not tracked",
     "source": "user supplied two-page scan, printed pages 166-167"
+  },
+  {
+    "path": "references/elfin-dance-scan.pdf",
+    "sha256": "f4fd6665107f0e0bcd2e81d3b4da7d17cdaff8c64fe948b1eec1d8c9c90e6318",
+    "bytes": 1486738,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied Elfin Dance.pdf, two-page Grieg scan, received 2026-10-29"
   }
 ]

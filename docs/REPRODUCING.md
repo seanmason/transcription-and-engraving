@@ -61,3 +61,11 @@ Checked a separate clean Git checkout with the existing pinned `.tools` runtime 
 - Python compilation and repository Markdown-link checks passed.
 
 This verifies the tracked source/build layout with the existing runtime. It does not constitute a fresh operating-system dependency installation test or independent musical proofreading.
+
+## Elfin Dance
+
+```sh
+.tools/venv/bin/python render_elfin_dance.py
+```
+
+Handwritten master: `scores/elfin-dance.ly`. Uses the same LilyPond/fonts/Poppler setup as Shostakovich; no scan required at render time. See experiment 005 for proof history and validation limits.
