@@ -68,5 +68,12 @@
     "bytes": 1486738,
     "availability": "local cache, not tracked",
     "source": "User-supplied Elfin Dance.pdf, two-page Grieg scan, received 2026-10-29"
+  },
+  {
+    "path": "references/la-valse-d-amelie-scan.pdf",
+    "sha256": "9d79a7d0194a11bb4e7f918dc03c920e3bd090c2b5c78f91f91bd373442687ef",
+    "bytes": 4440195,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied La Valse d'Amelie.pdf, five-page scan, received 2026-10-30; edition and arranger unidentified"
   }
 ]

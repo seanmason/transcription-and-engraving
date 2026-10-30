@@ -20,6 +20,7 @@ An ongoing study of beautiful, reproducible solo-piano engraving from scanned sc
 | [Chopin alongside Henle](output/pdf/chopin-henle-side-by-side.pdf) | Op. 9 No. 1, pickup and measures 1-2 | Current typography comparison; short reference excerpt credited in PDF |
 | [Shostakovich complete](output/pdf/shostakovich-op34-no16-reengraved.pdf) | Op. 34 No. 16, pickup and 31 measures | Fresh transcription, five review passes; user response: “Well done” |
 | [Elfin Dance complete](output/pdf/elfin-dance-reengraved.pdf) | Grieg, 72 measures | Fresh transcription, four proof rounds; awaiting user review |
+| [La Valse d'Amelie complete](output/pdf/la-valse-d-amelie-reengraved.pdf) | 136 measures, five pages | Fresh transcription, four proof rounds; awaiting user review |
 
 The earlier [Shostakovich recovery](experiments/003-shostakovich-recovery/README.md) is incomplete and superseded. It must not be treated as the complete score.
 
@@ -43,6 +44,6 @@ The build scripts remain at the root to retain their working relative paths. `.t
 
 ## Accuracy and provenance
 
-Engraving quality does not establish musical accuracy. The Shostakovich and Elfin Dance scores have been manually compared with their supplied scans and pass per-bar duration and MIDI-structure checks; they are not independently certified. See each study's review notes for limitations. Original full scans and Henle preview pages remain local; URLs, file hashes, and relevant comparison excerpts preserve the research context.
+Engraving quality does not establish musical accuracy. The Shostakovich, Elfin Dance and La Valse d'Amelie scores have been manually compared with their supplied scans and pass per-bar duration and MIDI-structure checks; they are not independently certified. See each study's review notes for limitations. Original full scans and Henle preview pages remain local; URLs, file hashes, and relevant comparison excerpts preserve the research context.
 
 Third-party fonts retain their own licenses in `fonts/`. Reference editions and underlying compositions retain their respective rights. This repository does not assign a blanket license to third-party material.

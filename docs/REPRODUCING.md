@@ -69,3 +69,11 @@ This verifies the tracked source/build layout with the existing runtime. It does
 ```
 
 Handwritten master: `scores/elfin-dance.ly`. Uses the same LilyPond/fonts/Poppler setup as Shostakovich; no scan required at render time. See experiment 005 for proof history and validation limits.
+
+## La Valse d'Amelie
+
+```sh
+.tools/venv/bin/python render_la_valse_d_amelie.py
+```
+
+Handwritten master: `scores/la-valse-d-amelie.ly`. Same LilyPond/fonts/Poppler dependencies; the original scan is not needed to render. Produces five pages, MIDI, page previews and validation logs. See experiment 006 for preserved proof sources and musical-review limits.

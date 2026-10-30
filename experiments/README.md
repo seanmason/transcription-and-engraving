@@ -7,5 +7,6 @@
 | [003](003-shostakovich-recovery/README.md) | Can the previous transcription exercise the style? | Recovered file contained only pickup + five measures, with inherited problems. Superseded. |
 | [004](004-shostakovich-full/README.md) | Does the style work on a complete fresh transcription? | Two-page score, five review passes; accepted as a useful current result. |
 | [005](005-elfin-dance/README.md) | Does the established style handle Grieg's Elfin Dance? | Complete 72-measure transcription, four proof rounds, two-page result; awaiting user review. |
+| [006](006-la-valse-d-amelie/README.md) | Can the style handle sustained melody over figuration and a longer score? | Complete 136-measure transcription, four proof rounds, five-page result; awaiting user review. |
 
 New studies use the next numeric ID and the [template](_template/README.md). Record hypotheses, exact source/master, controlled variables, build command, visual evidence, musical checks, user feedback, limitations and next action. Preserve failed approaches when they explain a decision. Do not retroactively describe the current font as the font used in an older trial.

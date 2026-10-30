@@ -1,0 +1,59 @@
+{
+  "source_sha256": "8ee7d72f772f49ffaa723a4dcdf929de80fbec0747f94e067c50655ab4f9ec4b",
+  "pdf_sha256": "148061a85636c86c3ba8ab3977fa84acbba884cff0062461c5aca8058a56548c",
+  "pages": 5,
+  "measures": 136,
+  "bar_checks_per_voice": 136,
+  "checked_voices": 3,
+  "total_quarter_beats": 368,
+  "lilypond_warnings": 0,
+  "selected_scan_pitch_checks": 57,
+  "tempos": [
+    [
+      0.0,
+      100
+    ],
+    [
+      64.0,
+      150
+    ],
+    [
+      352.0,
+      100
+    ]
+  ],
+  "meters": [
+    [
+      0.0,
+      2,
+      4
+    ],
+    [
+      64.0,
+      3,
+      4
+    ],
+    [
+      352.0,
+      2,
+      4
+    ]
+  ],
+  "midi_tracks": [
+    {
+      "track": 1,
+      "duration_quarter_beats": 368.0,
+      "note_on_events": 520,
+      "lowest_midi_note": 60,
+      "highest_midi_note": 86
+    },
+    {
+      "track": 2,
+      "duration_quarter_beats": 368.0,
+      "note_on_events": 644,
+      "lowest_midi_note": 36,
+      "highest_midi_note": 69
+    }
+  ],
+  "limitation": "Structural and selected pitch/duration checks complement manual scan comparison; they do not independently certify every note, fingering or marking."
+}

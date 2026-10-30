@@ -17,3 +17,7 @@ Recorded 27 October 2026. These are working preferences, not claims of a finishe
 Henle's proprietary fonts were neither obtained nor traced. The typography is an adaptation of free fonts. The C059-derived digit trial and default Nimbus fingerings are historical alternatives, not the current recipe.
 
 Retain manually controlled line breaks while testing typography. Native pagination, page turns, cross-staff writing and broader repertoire remain open tests. Do not describe these results as a general scan-to-score pipeline: no OMR pipeline has been implemented.
+
+## Longer-score result (30 October 2026)
+
+Experiment 006 retains the existing fonts and staff size in a five-page La Valse d'Amelie candidate. Score-local voice settings preserve sustained notes alongside eighth-note figuration; coincident black heads merge, while black/white duration distinctions remain. Explicit page groups and `noPageBreak` constraints produced a warning-free layout after a forced page-count trial compressed the final page. This is a reviewed candidate, not a new user-approved style change.

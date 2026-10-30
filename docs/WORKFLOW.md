@@ -13,9 +13,14 @@
 - Shared geometry and type settings: `styles/`, `fonts/`.
 - Initial fixture masters: `scores/lyrical.musicxml`, `scores/dense.musicxml` (normal builds preserve them).
 - Chopin musical master: `chopin_study.py` (recreates exported MusicXML/native files).
+- La Valse d'Amelie master: `scores/la-valse-d-amelie.ly`.
 - Elfin Dance master: `scores/elfin-dance.ly`.
 - Full Shostakovich master: `scores/shostakovich-op34-no16-new.ly`.
 - Native GUI refinements: copy to `manual/` and document that copy as a master before editing. Re-importing MusicXML may erase positions.
 - Score-specific generated-LilyPond edits: persistent `overrides/` patches where supported; do not rely on edits to overwritten exports.
 
 Raw scans, full reference previews, runtimes and disposable proofs stay local. `references/manifest.json` records hashes; `references/sources.json` supplies official preview URLs. Curated comparison PDFs include credited short excerpts. Preserve upstream font license notices whenever redistributing fonts or recipes.
+
+## Polyphonic and repeated-phrase review (experiment 006)
+
+Read each note against its local staff lines in warped scans. Preserve sustained melody durations separately from moving figuration, and inspect both the engraving and MIDI duration of shared-pitch voices. Do not infer accompaniment changes from repeated melody shapes: Amelie's last variation retains a D/A bass cycle where an earlier section changes to F/C. Voice-direction commands can reset fingering direction; set the intended direction afterward and explicitly configure implicit chord voices.
