@@ -1,0 +1,90 @@
+{
+  "status": "working proof; musical readings remain unresolved",
+  "pages": 4,
+  "measures": 53,
+  "quarter_beats": 218,
+  "compiler_warnings": 0,
+  "explicit_bar_checks": 106,
+  "tempos": [
+    [
+      0.0,
+      240
+    ]
+  ],
+  "meters": [
+    [
+      0.0,
+      2,
+      2
+    ],
+    [
+      44.0,
+      3,
+      2
+    ],
+    [
+      50.0,
+      2,
+      2
+    ],
+    [
+      70.0,
+      3,
+      2
+    ],
+    [
+      76.0,
+      2,
+      2
+    ],
+    [
+      88.0,
+      3,
+      2
+    ],
+    [
+      94.0,
+      2,
+      2
+    ],
+    [
+      130.0,
+      3,
+      2
+    ],
+    [
+      136.0,
+      2,
+      2
+    ],
+    [
+      140.0,
+      3,
+      4
+    ],
+    [
+      146.0,
+      2,
+      2
+    ]
+  ],
+  "midi_tracks": [
+    {
+      "track": 1,
+      "duration_quarter_beats": 218.0,
+      "note_on_events": 553,
+      "lowest_midi_note": 36,
+      "highest_midi_note": 84
+    },
+    {
+      "track": 2,
+      "duration_quarter_beats": 218.0,
+      "note_on_events": 475,
+      "lowest_midi_note": 52,
+      "highest_midi_note": 100
+    }
+  ],
+  "source_sha256": "7805bece9c796eeaf1862daf7f47dd3df9a6a3abbf442f687501c7b80af4f96d",
+  "pdf_sha256": "5b43c4ddc657430711749e9f757ce5422f7f777af72c2907888753b9eb7ecf22",
+  "limits": "Structural checks do not validate pitches, accidentals, slur/tie interpretation, or correspondence to the photographs. See experiment 007 review queue."
+}

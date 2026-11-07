@@ -75,5 +75,26 @@
     "bytes": 4440195,
     "availability": "local cache, not tracked",
     "source": "User-supplied La Valse d'Amelie.pdf, five-page scan, received 2026-10-30; edition and arranger unidentified"
+  },
+  {
+    "path": "references/guarnieri-ponteio-15-p11.jpg",
+    "sha256": "333ca9540ffac7fcffebacee54deb61aa37cd2980eac3f341caba7f0eaa64fb8",
+    "bytes": 1199231,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied Photo 3.jpg, printed page 11; received 2026-11-07; Guarnieri Ponteio No. 15, plate RB-0132"
+  },
+  {
+    "path": "references/guarnieri-ponteio-15-p12.jpg",
+    "sha256": "dad223385f3ceb67fceb417bbe314d0e47ddd63ef644c392fc326f2495b113d6",
+    "bytes": 1135509,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied Photo 2.jpg, printed page 12; received 2026-11-07; Guarnieri Ponteio No. 15, plate RB-0132"
+  },
+  {
+    "path": "references/guarnieri-ponteio-15-p13.jpg",
+    "sha256": "4938964a1ab459e77b75d2d8df956e909890e2b3f9a325d1df5ad65857cc587e",
+    "bytes": 1198408,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied Photo 1.jpg, printed page 13; received 2026-11-07; Guarnieri Ponteio No. 15, plate RB-0132"
   }
 ]

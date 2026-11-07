@@ -13,6 +13,7 @@
 - Shared geometry and type settings: `styles/`, `fonts/`.
 - Initial fixture masters: `scores/lyrical.musicxml`, `scores/dense.musicxml` (normal builds preserve them).
 - Chopin musical master: `chopin_study.py` (recreates exported MusicXML/native files).
+- Guarnieri working master (musical review open): `scores/guarnieri-ponteio-15.ly`.
 - La Valse d'Amelie master: `scores/la-valse-d-amelie.ly`.
 - Elfin Dance master: `scores/elfin-dance.ly`.
 - Full Shostakovich master: `scores/shostakovich-op34-no16-new.ly`.

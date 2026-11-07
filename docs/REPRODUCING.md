@@ -77,3 +77,11 @@ Handwritten master: `scores/elfin-dance.ly`. Uses the same LilyPond/fonts/Popple
 ```
 
 Handwritten master: `scores/la-valse-d-amelie.ly`. Same LilyPond/fonts/Poppler dependencies; the original scan is not needed to render. Produces five pages, MIDI, page previews and validation logs. See experiment 006 for preserved proof sources and musical-review limits.
+
+## Guarnieri, Ponteio No. 15 — working proof
+
+```sh
+.tools/venv/bin/python render_guarnieri_ponteio_15.py
+```
+
+Master: `scores/guarnieri-ponteio-15.ly`. Four pages, cross-staff figuration, independent bass. Same LilyPond/font/Poppler dependencies as the earlier scores. Source photographs are not needed to rebuild. Structural checks pass; unresolved musical readings are listed in experiment 007.

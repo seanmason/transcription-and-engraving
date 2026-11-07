@@ -21,3 +21,7 @@ Retain manually controlled line breaks while testing typography. Native paginati
 ## Longer-score result (30 October 2026)
 
 Experiment 006 retains the existing fonts and staff size in a five-page La Valse d'Amelie candidate. Score-local voice settings preserve sustained notes alongside eighth-note figuration; coincident black heads merge, while black/white duration distinctions remain. Explicit page groups and `noPageBreak` constraints produced a warning-free layout after a forced page-count trial compressed the final page. This is a reviewed candidate, not a new user-approved style change.
+
+## Cross-staff working proof (7 November 2026)
+
+Experiment 007 retains the accepted typography in a four-page Guarnieri Ponteio No. 15 proof. Score-local Staff VerticalAxisGroup spacing and horizontal automatic beams worked better than forced beam coordinates. The original three-page density compressed the enlarged staff gaps. This is a layout result only: unresolved chord/accidental readings are documented and prevent treating the transcription as finished. No shared style change or user acceptance is implied.
