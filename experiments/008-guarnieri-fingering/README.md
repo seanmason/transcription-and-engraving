@@ -18,9 +18,9 @@ New [editable practice source](../../scores/guarnieri-ponteio-15-fingered.ly) is
 .tools/venv/bin/python render_guarnieri_fingered.py
 ```
 
-The builder compiles the practice source and freshly compiles the clean source to a temporary location, then compares their MIDI byte-for-byte. It checks 106 bar checks, compiler warnings and five PDF pages, and creates previews. It never regenerates or overwrites either source. Requires the established LilyPond/font setup and pypdf/Poppler used elsewhere in this repository.
+The builder compiles the practice source and freshly compiles the clean source to a temporary location, then compares their MIDI byte-for-byte. It checks 106 bar checks, compiler warnings and four PDF pages, and creates previews. It never regenerates or overwrites either source. Requires the established LilyPond/font setup and pypdf/Poppler used elsewhere in this repository.
 
-Output: [practice PDF](../../output/pdf/guarnieri-ponteio-15-fingered.pdf). Page 1 contains the guide; four music pages follow, covering bars 1-14, 15-27, 28-41 and 42-53.
+Output: [practice PDF](../../output/pdf/guarnieri-ponteio-15-fingered.pdf). The four-page PDF opens directly with the music, covering bars 1-14, 15-27, 28-41 and 42-53.
 
 ## Fingering reasoning and exceptions
 
@@ -63,3 +63,7 @@ Inspected every music page. The first compact proof exposed crowding at a tempo 
 ## R5 - further fingering enlargement and line clearance
 
 User requested another increase and visual scan. Raised score-local Fingering.font-size from 0 to 1.5 (approximately 19% larger linearly). Added whiteout and layer 3 to fingerings so staff lines do not cross their glyphs. Retained dark blue editorial/black existing digits, tight grand-staff spacing and four-system full pages. Inspected every music page after both changes and checked the closing system at higher resolution; no new digit collisions or clipped notation observed. Five pages, no compiler warnings, MIDI identical to freshly compiled base. [R5 source](evidence/r5-source.ly), [R5 PDF](evidence/r5.pdf).
+
+## R6 - music-only PDF
+
+Removed the opening explanation page at user request. The guide remains available in retained R5 evidence and the reasoning above. Added title-to-system clearance after inspection revealed the composer line crowding the opening fingering stack. Inspected all four music pages and rechecked the revised first-page header. Four pages, zero warnings, MIDI unchanged. [R6 source](evidence/r6-source.ly), [R6 PDF](evidence/r6.pdf).

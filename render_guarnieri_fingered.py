@@ -19,7 +19,7 @@ with (R/'logs/guarnieri-fingering-base-check.log').open('w') as f:
     subprocess.run([R/'.tools/lilypond-2.26.0/bin/lilypond','-I',R,'-o',reference,base],stdout=f,stderr=subprocess.STDOUT,check=True)
 assert out.with_suffix('.midi').read_bytes()==reference.with_suffix('.midi').read_bytes(), 'Musical MIDI changed'
 pages=len(PdfReader(out.with_suffix('.pdf')).pages)
-assert pages==5,pages
+assert pages==4,pages
 subprocess.run(['pdftoppm','-scale-to','1400','-png',out.with_suffix('.pdf'),R/'tmp/pdfs/fingered'],check=True)
 report=dict(status='provisional practice fingering; not piano-tested',pages=pages,measures=53,compiler_warnings=0,bar_checks=106,midi_byte_identical_to_fresh_base=True,source_sha256=hashlib.sha256(source.read_bytes()).hexdigest(),base_sha256=hashlib.sha256(base.read_bytes()).hexdigest(),pdf_sha256=hashlib.sha256(out.with_suffix('.pdf').read_bytes()).hexdigest(),limits='Pitch uncertainties from experiment 007 remain. MIDI equality proves preservation, not accuracy or playable physical sustain.')
 (R/'experiments/008-guarnieri-fingering/validation.json').write_text(json.dumps(report,indent=2)+'\n')

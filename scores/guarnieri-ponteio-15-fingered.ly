@@ -13,6 +13,9 @@
 }
 \paper {
  print-page-number = ##t
+ markup-system-spacing.basic-distance = #24
+ markup-system-spacing.minimum-distance = #20
+ markup-system-spacing.padding = #8
  oddFooterMarkup = \markup \fill-line { "" \fromproperty #'page:page-number-string }
  evenFooterMarkup = \oddFooterMarkup
  ragged-bottom = ##f ragged-last-bottom = ##t
@@ -414,56 +417,6 @@ expression = {
  % Measure 53
  s1\!\ff |
 }
-
-\markup \column {
- \vspace #2
- \fill-line { \fontsize #3 "Using this fingering edition" }
- \vspace #1
- \wordwrap { Prepared for a player who comfortably reaches a ninth. Blue digits are
- suggested editorial fingerings; black digits were already present in the working
- transcription. 1 = thumb, 5 = little finger. Left-hand chord digits sit beside the notes; right-hand chord digits sit above. Read stacks from bottom to top for ascending pitches. }
- \vspace #1
- \wordwrap { This is a complete fingering draft, not a verified performance edition.
- The underlying transcription still has uncertain readings in bars 19-20, 24-35
- and 51-53. Check those bars against the photographs before learning them. }
- \vspace #1
- \wordwrap { Right hand: use 1, then 2-5 for the recurring low-note / upper-pair gesture.
- Move the hand between positions; do not hold the first note through the upper pair.
- Use 1-3-5 for the octave chords. On black-key octave chords, bring the whole hand
- farther into the keyboard rather than reaching with the thumb alone. }
- \vspace #1
- \wordwrap { Left hand: the bass normally uses 5; upper chord notes use the remaining
- fingers while the bass is held where feasible. A written long bass does not mean
- that the hand should stay stretched after it has sounded. The score contains no
- newly prescribed pedal marks: any pedal-assisted release is an editorial option,
- and needs listening for harmonic clarity. }
- \vspace #1
- \wordwrap { Bars 2 and 37: the printed 2 accompanies the high left-hand note.
- The proposed 5-4-2 is a wide shape; try 5-4-1 if it feels strained. The bass-to-chord
- span exceeds a ninth: catch the bass first with pedal, release and relocate to the
- upper chord. This is a rolled execution, not an instruction to hold all four notes
- with the hand. Check the source and coordinate the roll with the right hand. }
- \vspace #1
- \wordwrap { Where an upper left-hand chord uses 5 while a bass is still sounding (especially
- bars 12, 23-28 and 37), release the bass to pedal before moving; do not assign 5 to
- two held keys. In bar 30 the inner bass D uses 3. Further wide combinations occur in
- the closing bars. In particular, bars 51-52 as currently transcribed require
- rolled, pedal-assisted bass sonorities and an immediate move to the upper part.
- Do not drill that ending until its pitches are confirmed. The numbers specify
- the successive hand shapes, not a physically sustainable simultaneous stretch. }
- \vspace #1
- \wordwrap { Practise one bar at a time: first the right-hand gestures, then the
- left-hand bass and chords, then the interlocking attacks slowly. Learn each landing
- before increasing tempo. Keep the two main pulses in 2/2 even though the hand
- exchanges form a repeating three-attack pattern. The printed tempo is a long-term
- target, not a starting speed. }
- \vspace #1
- \wordwrap { These choices were reviewed on the written score, not tested at a piano.
- If a position or transition feels awkward, mark the bar and the specific chord so
- its fingering can be revised. Existing chord-level 2s are interpreted here as belonging to the top note; this
- attachment remains editorial pending source verification. }
-}
-\pageBreak
 
 \score {
  \new PianoStaff <<
