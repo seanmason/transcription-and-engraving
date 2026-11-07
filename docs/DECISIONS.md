@@ -35,3 +35,5 @@ Guarnieri practice-edition readability revision: user requested substantially la
 Guarnieri practice layout R3: use four systems per full music page, retaining the larger digits. Final page has the remaining three systems without vertical justification. Four music pages plus one guide page; supersedes the overly spacious three-system layout.
 
 Guarnieri practice R4: tighter bass/treble spacing (basic 17, minimum 15 staff spaces, stretchability 0) replaces the over-conservative 23/21 setting. Resolve expression collisions with local offsets, not global extra space. Four-system pagination and larger digits retained; all music pages visually reviewed.
+
+Guarnieri practice R5: user requested more readable digits again. Current score-local fingering size is 1.5, with whiteout behind the numerals to interrupt staff lines locally. Shared typeface and compact page/staff geometry unchanged.

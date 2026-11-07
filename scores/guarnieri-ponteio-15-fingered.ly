@@ -41,7 +41,9 @@
   \override Fingering.direction = #UP
   \override Fingering.color = #(rgb-color 0.12 0.30 0.43)
   \override Fingering.padding = #0.6
-  \override Fingering.font-size = #0
+  \override Fingering.font-size = #1.5
+  \override Fingering.whiteout = ##t
+  \override Fingering.layer = #3
  }
 }
 up = { \change Staff = "RH" \stemDown \set fingeringOrientations = #'(up) }
