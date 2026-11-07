@@ -49,3 +49,7 @@ Guarnieri bars 19-20: targeted rereading corrects several pitch/register and acc
 Experiment 009 supersedes the photograph-based musical queue after comparing every bar with the new scan. Adopt the corrected clean/fingered masters; keep the established typography, four-page layout and large digits. Count actual ledger lines, and apply accidentals across voices within a staff before deciding whether a same-position curve is a tie. Bar 32 has an unresolved dot; bar 39's isolated dot is read as staccato with lower confidence. Record these editorial limits outside the score title. No claim of independent certification or piano-tested fingering.
 
 - 2026-11-07: Guarnieri 009 R2 is the current fingered practice proof: retain large digits/four pages, add continuation-page top clearance and locally clear bar 34 e rall. from its beam. Musical content matches the audited clean edition.
+
+## 2026-11-07: Fingering ergonomics supersede uniform patterns
+
+Experiment 010 responds to the user's awkward 5-4 stretches. Reject routine bass 5 plus upper 4-3-1 without checking the complete hand. Research and score screening support comparing 5-3-2-1 for the opening F/A/B/E shape, while retaining 4 in shapes such as the final C/D/G/A. Overall ninth reach is insufficient to determine internal finger-pair comfort. Distinguish a simultaneous attack from a held or pedalled bass; wide or duplicate-finger combinations need an explicit realization. Current score unchanged in this research pass. See docs/PIANO_FINGERING.md for sourced principles and proposed alternatives.

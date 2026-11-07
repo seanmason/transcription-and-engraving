@@ -9,6 +9,7 @@ An ongoing study of beautiful, reproducible solo-piano engraving from scanned sc
 - [Experiment index](experiments/README.md): what we tried, what worked, and what was superseded.
 - [Current decisions](docs/DECISIONS.md): the accepted typography and why.
 - [Setup and build](docs/REPRODUCING.md): tool versions, commands, and source-of-truth rules.
+- [Piano fingering knowledge base](docs/PIANO_FINGERING.md): sourced principles, Guarnieri alternatives and ergonomic review method.
 - [Next experiments](docs/NEXT.md): unresolved questions and proposed tests.
 - [Workflow and review](docs/WORKFLOW.md): separate musical accuracy from visual quality.
 
