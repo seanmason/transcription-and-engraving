@@ -1,6 +1,6 @@
 # Piano fingering knowledge base
 
-Research reviewed 7 November 2026. Application: an intermediate pianist with a comfortable ninth, learning Guarnieri's Ponteio No. 15. Finger numbers are 1 thumb through 5 little finger. Chord lists below run from lowest to highest pitch; C4 is middle C.
+Research reviewed 7 November 2026. The resulting applied revision is now documented in [experiment 011](../experiments/011-guarnieri-transition-fingering/README.md); the comparison table below records the earlier research proposals. Application: an intermediate pianist with a comfortable ninth, learning Guarnieri's Ponteio No. 15. Finger numbers are 1 thumb through 5 little finger. Chord lists below run from lowest to highest pitch; C4 is middle C.
 
 The earlier practice edition used 5 for the bass and 4-3-1 for many upper chords too routinely. A comfortable thumb-to-little-finger ninth does not establish the reach of 5-4, or the comfort of a four-note shape. Fingerings should be chosen for the complete hand position and its transitions, including any bass note that remains held. The specific alternatives below are editorial candidates for a keyboard trial, not fingerings endorsed by the cited authors for this piece.
 
@@ -32,7 +32,7 @@ The following procedure is our synthesis of the sources and the score, not a quo
 
 ## Concrete Guarnieri comparisons
 
-Positions count eighth-note slots from 1 in each bar, including events in the other hand. These are proposals; the current score is unchanged by this research pass.
+Positions count eighth-note slots from 1 in each bar, including events in the other hand. These record proposals from the research pass; experiment 011 documents which were applied or refined.
 
 | Location | Complete LH pitches, low to high | Current fingers | First candidate or decision | Reason and remaining check |
 | --- | --- | --- | --- | --- |

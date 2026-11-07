@@ -53,3 +53,7 @@ Experiment 009 supersedes the photograph-based musical queue after comparing eve
 ## 2026-11-07: Fingering ergonomics supersede uniform patterns
 
 Experiment 010 responds to the user's awkward 5-4 stretches. Reject routine bass 5 plus upper 4-3-1 without checking the complete hand. Research and score screening support comparing 5-3-2-1 for the opening F/A/B/E shape, while retaining 4 in shapes such as the final C/D/G/A. Overall ninth reach is insufficient to determine internal finger-pair comfort. Distinguish a simultaneous attack from a held or pedalled bass; wide or duplicate-finger combinations need an explicit realization. Current score unchanged in this research pass. See docs/PIANO_FINGERING.md for sourced principles and proposed alternatives.
+
+## 2026-11-07: Apply contextual Guarnieri fingering
+
+Experiment 011 supersedes the pre-research practice fingering. Retain large digits and four pages; use contextual LH assignments and R-prefixed RH takeovers for wide lower-staff shapes. P labels explicitly identify pedal-supported bass release in 32-35 and 51-52, with tied basses not re-struck. A short key follows the music, not a new opening page. The clean source retains original digits; practice LH digits are editorial. Final chord digits sit left of the notes, and e rall. clears the crossing stem. Source/MIDI checks and visual review pass; physical comfort and pedal realization still require a piano trial.

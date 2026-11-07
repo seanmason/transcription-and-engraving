@@ -1,0 +1,5618 @@
+{
+  "source_sha256": "9fcb4fa08daef11c510d2f52b16cfcaf1ce4d681946288b43aa6b338b0bfd52d",
+  "events_reviewed": 156,
+  "rh_takeover_events": 30,
+  "pedal_realization_bars": [
+    32,
+    33,
+    34,
+    35,
+    51,
+    52
+  ],
+  "checks": [
+    "Under the stated pedal realization, no distinct held LH keys share a finger; duplicated same-pitch voices agree.",
+    "Conventional descending LH finger order; no represented LH span exceeds 14 semitones.",
+    "No represented LH 5-4 span exceeds three semitones."
+  ],
+  "limits": "Keyboard geometry, all other finger-pair comfort, transition speed and pedal sound require a pianist trial. Baseline pitches come from the preserved 010 inventory; MIDI equality separately checks the current score.",
+  "events": [
+    {
+      "measure": 1,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 1,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 1,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 2,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 2,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 2,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 3,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 3,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 3,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 4,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": []
+    },
+    {
+      "measure": 4,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": []
+    },
+    {
+      "measure": 4,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 61,
+          "note": "C#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 5,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 5,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 5,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 6,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 6,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 6,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 7,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 7,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 70,
+          "note": "A#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 7,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "Fb4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 66,
+          "note": "Gb4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 8,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 8,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 70,
+          "note": "A#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 8,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": [
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 9,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 61,
+          "note": "Db4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 9,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 61,
+          "note": "Db4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 9,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 10,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 10,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 10,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 11,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 11,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 11,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 12,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 12,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 12,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 12,
+      "eighth_position": "10",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 54,
+          "note": "F#3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 13,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 13,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "G#4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": [
+        {
+          "pitch": 68,
+          "note": "G#4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 13,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 14,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 14,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 14,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 15,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 15,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 13,
+      "rh_takeover": []
+    },
+    {
+      "measure": 15,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 16,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 16,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 16,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 17,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 17,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 17,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 18,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 18,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 18,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 18,
+      "eighth_position": "10",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 19,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 49,
+          "note": "Db3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 19,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 49,
+          "note": "Db3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 19,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 49,
+          "note": "Db3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 20,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 20,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 49,
+          "note": "Db3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 52,
+          "note": "E3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 20,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 44,
+          "note": "Ab2",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 49,
+          "note": "Db3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 41,
+          "note": "F2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 21,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 38,
+          "note": "D2",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 43,
+          "note": "G2",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 21,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 45,
+          "note": "A2",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 21,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 52,
+          "note": "E3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 22,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 22,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 22,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 22,
+      "eighth_position": "10",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 23,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 23,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 23,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 24,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 24,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 24,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 79,
+          "note": "G5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 61,
+          "note": "Db4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 13,
+      "rh_takeover": [
+        {
+          "pitch": 79,
+          "note": "G5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 25,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": [
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 25,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 25,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": [
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 26,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 26,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 26,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "RH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 3,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "RH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 3,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 27,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 27,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 75,
+          "note": "D#5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 13,
+      "rh_takeover": []
+    },
+    {
+      "measure": 27,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 75,
+          "note": "D#5",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 79,
+          "note": "G5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": [
+        {
+          "pitch": 79,
+          "note": "G5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 28,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 76,
+          "note": "E5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 14,
+      "rh_takeover": []
+    },
+    {
+      "measure": 28,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 73,
+          "note": "C#5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 28,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 75,
+          "note": "Eb5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": [
+        {
+          "pitch": 75,
+          "note": "Eb5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 29,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "Cb5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": [
+        {
+          "pitch": 71,
+          "note": "Cb5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 29,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 29,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "Cb4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 30,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "Cb4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 4,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": [
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 30,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 54,
+          "note": "Gb3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 4,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 30,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 52,
+          "note": "Fb3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 47,
+          "note": "Cb3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 31,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 31,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 52,
+          "note": "E3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 31,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 51,
+          "note": "Eb3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 32,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 32,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 32,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 32,
+      "eighth_position": "10",
+      "upper": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 33,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 33,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 33,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 46,
+          "note": "Bb2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 34,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 52,
+          "note": "Fb3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 47,
+          "note": "B2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 34,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 47,
+          "note": "B2",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 35,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 54,
+          "note": "Gb3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 35,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 48,
+          "note": "C3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 36,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 36,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 36,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 37,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 37,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 37,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 38,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 38,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 38,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 39,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": []
+    },
+    {
+      "measure": 39,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": []
+    },
+    {
+      "measure": 39,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 61,
+          "note": "C#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 50,
+          "note": "D3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 40,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 40,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 40,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 41,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 41,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 41,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 42,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 42,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 70,
+          "note": "A#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 63,
+          "note": "Eb4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 42,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "Fb4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 66,
+          "note": "Gb4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 43,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 43,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 70,
+          "note": "A#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 43,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 68,
+          "note": "Ab4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": [
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 44,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 71,
+          "note": "B4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 61,
+          "note": "Db4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 44,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 72,
+          "note": "C5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 61,
+          "note": "Db4",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 44,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 6,
+      "rh_takeover": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 45,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 8,
+      "rh_takeover": []
+    },
+    {
+      "measure": 45,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": []
+    },
+    {
+      "measure": 45,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 46,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 46,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 1,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 7,
+      "rh_takeover": [
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 2,
+          "hand": "RH"
+        }
+      ]
+    },
+    {
+      "measure": 46,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 47,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 47,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 47,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 48,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 48,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 58,
+          "note": "Bb3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 48,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 49,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 9,
+      "rh_takeover": []
+    },
+    {
+      "measure": 49,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 49,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 50,
+      "eighth_position": "1",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 50,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 56,
+          "note": "Ab3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 12,
+      "rh_takeover": []
+    },
+    {
+      "measure": 50,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 4,
+          "hand": "LH"
+        },
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 65,
+          "note": "F4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 55,
+          "note": "G3",
+          "finger": 5,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": false,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 51,
+      "eighth_position": "4",
+      "upper": [
+        {
+          "pitch": 57,
+          "note": "A3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 62,
+          "note": "D4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 67,
+          "note": "G4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 36,
+          "note": "C2",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 43,
+          "note": "G2",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 52,
+          "note": "E3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 51,
+      "eighth_position": "7",
+      "upper": [
+        {
+          "pitch": 59,
+          "note": "B3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 64,
+          "note": "E4",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 70,
+          "note": "A#4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 36,
+          "note": "C2",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 43,
+          "note": "G2",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 52,
+          "note": "E3",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 11,
+      "rh_takeover": []
+    },
+    {
+      "measure": 52,
+      "eighth_position": "3",
+      "upper": [
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 74,
+          "note": "D5",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 79,
+          "note": "G5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    },
+    {
+      "measure": 52,
+      "eighth_position": "6",
+      "upper": [
+        {
+          "pitch": 73,
+          "note": "C#5",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 78,
+          "note": "F#5",
+          "finger": 3,
+          "hand": "LH"
+        },
+        {
+          "pitch": 83,
+          "note": "B5",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "bass": [
+        {
+          "pitch": 53,
+          "note": "F3",
+          "finger": 5,
+          "hand": "LH"
+        },
+        {
+          "pitch": 60,
+          "note": "C4",
+          "finger": 2,
+          "hand": "LH"
+        },
+        {
+          "pitch": 69,
+          "note": "A4",
+          "finger": 1,
+          "hand": "LH"
+        }
+      ],
+      "pedal_release": true,
+      "lh_span_semitones": 10,
+      "rh_takeover": []
+    }
+  ]
+}

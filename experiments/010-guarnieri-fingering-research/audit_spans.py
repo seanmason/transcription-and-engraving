@@ -8,7 +8,8 @@ from pathlib import Path
 from fractions import Fraction
 import re, json, hashlib
 ROOT = Path(__file__).resolve().parents[2]
-SOURCE = ROOT / 'scores/guarnieri-ponteio-15-fingered.ly'
+# Pin the historical pre-revision input; 011 introduces explicit hand-transfer syntax.
+SOURCE = ROOT / 'experiments/009-guarnieri-scan-audit/evidence/r2-fingered.ly'
 NOTE = r"[a-g](?:isis|eses|is|es|s)?[',]*[!?]?"
 EVENT = re.compile(r'<[^>]+>\d+\.*|(?<![\w\\])(?:'+NOTE+r'|s)\d+\.*')
 PITCH = re.compile(r'^([a-g])(isis|eses|is|es|s)?([\x27,]*)([!?]?)$')

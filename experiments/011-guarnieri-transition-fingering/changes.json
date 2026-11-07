@@ -1,0 +1,1094 @@
+[
+  {
+    "measure": 1,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 1,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 1,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 2,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 2,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 2,
+    "lh_attack": 3,
+    "before": "<a-5 b-4 g'-\\tweak color #black -2>",
+    "after": "<a-2 b-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 3,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 3,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 3,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 4,
+    "lh_attack": 1,
+    "before": "<a-3 b-2>",
+    "after": "<a-3 b-2>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 4,
+    "lh_attack": 2,
+    "before": "<a-3 b-2>",
+    "after": "<a-3 b-2>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 4,
+    "lh_attack": 3,
+    "before": "<a-3 cis'-1>",
+    "after": "<a-2 cis'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 5,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 5,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 5,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 6,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 6,
+    "lh_attack": 2,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-2 d'-1 g'\\rightOne>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 6,
+    "lh_attack": 3,
+    "before": "<d'-4 e'-3 a'-1>",
+    "after": "<d'-5 e'-3 a'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 7,
+    "lh_attack": 1,
+    "before": "<f'-4 g'-3 b'-1>",
+    "after": "<f'-4 g'-3 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 7,
+    "lh_attack": 2,
+    "before": "<f'-3 g'-2 ais'-1>",
+    "after": "<f'-4 g'-3 ais'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 7,
+    "lh_attack": 3,
+    "before": "<fes'-4 ges'-3 c''-1>",
+    "after": "<fes'-4 ges'-3 c''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 8,
+    "lh_attack": 1,
+    "before": "<f'!-4 g'!-3 b'-1>",
+    "after": "<f'!-4 g'!-3 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 8,
+    "lh_attack": 2,
+    "before": "<f'-3 g'-2 ais'-1>",
+    "after": "<f'-4 g'-3 ais'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 8,
+    "lh_attack": 3,
+    "before": "<e'-4 aes'-3 d''-\\tweak color #black -2>",
+    "after": "<e'-3 aes'-1 d''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 9,
+    "lh_attack": 1,
+    "before": "<f'-4 g'-3 b'-1>",
+    "after": "<f'-3 g'-2 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 9,
+    "lh_attack": 2,
+    "before": "<f'-4 g'-3 c''-1>",
+    "after": "<f'-3 g'-2 c''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 9,
+    "lh_attack": 3,
+    "before": "<e'-4 f'-3 a'-1>",
+    "after": "<e'-2 f'-1 a'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 10,
+    "lh_attack": 1,
+    "before": "<c'-4 d'-2 f'-1>",
+    "after": "<c'-4 d'-2 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 10,
+    "lh_attack": 2,
+    "before": "<c'-3 d'-2 e'-1>",
+    "after": "<c'-4 d'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 10,
+    "lh_attack": 3,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-3 d'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 11,
+    "lh_attack": 1,
+    "before": "<b-4 c'-3 e'-1>",
+    "after": "<b-3 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 11,
+    "lh_attack": 2,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-2 d'-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 11,
+    "lh_attack": 3,
+    "before": "<a-4 c'-2 e'-1>",
+    "after": "<a-4 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 12,
+    "lh_attack": 1,
+    "before": "<bes-4 c'-3 ees'-1>",
+    "after": "<bes-4 c'-3 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 12,
+    "lh_attack": 2,
+    "before": "<bes-4 c'-3 e'!-1>",
+    "after": "<bes-4 c'-3 e'!-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 12,
+    "lh_attack": 3,
+    "before": "<c'-5 d'-4 g'-\\tweak color #black -2>",
+    "after": "<c'-2 d'-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 12,
+    "lh_attack": 4,
+    "before": "<bes-4 c'-3 d'-1>",
+    "after": "<bes-3 c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 13,
+    "lh_attack": 1,
+    "before": "<b!-4 c'-3 e'-1>",
+    "after": "<b!-3 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 13,
+    "lh_attack": 2,
+    "before": "<c'-4 d'-3 gis'-1>",
+    "after": "<c'-2 d'-1 gis'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 13,
+    "lh_attack": 3,
+    "before": "<bes-4 c'-3 g'!-1>",
+    "after": "<bes-4 c'-3 g'!-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 14,
+    "lh_attack": 1,
+    "before": "<aes-4 c'-3 ees'-1>",
+    "after": "<aes-4 c'-2 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 14,
+    "lh_attack": 2,
+    "before": "<aes-4 c'-2 d'-1>",
+    "after": "<aes-4 c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 14,
+    "lh_attack": 3,
+    "before": "<c'-4 ees'-3 f'-1>",
+    "after": "<c'-2 ees'-1 f'\\rightOne>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 15,
+    "lh_attack": 1,
+    "before": "<aes-4 c'-3 ees'-1>",
+    "after": "<aes-4 c'-2 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 15,
+    "lh_attack": 2,
+    "before": "<b-4 c'-3 aes'-1>",
+    "after": "<b-3 c'-2 aes'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 15,
+    "lh_attack": 3,
+    "before": "<g-4 c'-2 f'-1>",
+    "after": "<g-4 c'-2 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 16,
+    "lh_attack": 1,
+    "before": "<aes-4 c'-2 d'-1>",
+    "after": "<aes-4 c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 16,
+    "lh_attack": 2,
+    "before": "<bes-4 c'-3 g'-1>",
+    "after": "<bes-2 c'-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 16,
+    "lh_attack": 3,
+    "before": "<aes-4 c'-2 d'-1>",
+    "after": "<aes-2 c'-1 d'\\rightOne>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 17,
+    "lh_attack": 1,
+    "before": "<g-4 aes-3 c'-1>",
+    "after": "<g-3 aes-2 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 17,
+    "lh_attack": 2,
+    "before": "<g-4 aes-3 ees'-1>",
+    "after": "<g-3 aes-2 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 17,
+    "lh_attack": 3,
+    "before": "<g-4 aes-3 c'-1>",
+    "after": "<g-3 aes-2 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 18,
+    "lh_attack": 1,
+    "before": "<f-4 aes-3 c'-1>",
+    "after": "<f-4 aes-2 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 18,
+    "lh_attack": 2,
+    "before": "<g-4 aes-3 ees'-1>",
+    "after": "<g-3 aes-2 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 18,
+    "lh_attack": 3,
+    "before": "<g-4 aes-3 ees'-\\tweak color #black -2>",
+    "after": "<g-2 aes-1 ees'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 18,
+    "lh_attack": 4,
+    "before": "<f-4 aes-2 c'-1>",
+    "after": "<f-4 aes-2 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 19,
+    "lh_attack": 1,
+    "before": "<f-4 g-3 bes-1>",
+    "after": "<f-3 g-2 bes-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 19,
+    "lh_attack": 2,
+    "before": "<f-4 g-3 c'-1>",
+    "after": "<f-3 g-2 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 19,
+    "lh_attack": 3,
+    "before": "<des-4 f-2 aes-1>",
+    "after": "<des-4 f-2 aes-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 20,
+    "lh_attack": 1,
+    "before": "<d-4 f-2 aes-1>",
+    "after": "<d-4 f-2 aes-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 20,
+    "lh_attack": 2,
+    "before": "<des-4 e-3 g-1>",
+    "after": "<des-4 e-3 g-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 20,
+    "lh_attack": 3,
+    "before": "<aes,-4 des-2 ees-1>",
+    "after": "<aes,-4 des-2 ees-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 21,
+    "lh_attack": 1,
+    "before": "<d,-5 g,-3 c-1>",
+    "after": "<d,-5 g,-3 c-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 21,
+    "lh_attack": 2,
+    "before": "<a,-5 d-3 g-1>",
+    "after": "<a,-5 d-3 g-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 21,
+    "lh_attack": 3,
+    "before": "<e-5 a-3 d'-1>",
+    "after": "<e-5 a-3 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 22,
+    "lh_attack": 1,
+    "before": "<d-5 g!-3 b!-1>",
+    "after": "<d-5 g!-3 b!-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 22,
+    "lh_attack": 2,
+    "before": "<g-5 c'-3 f'-1>",
+    "after": "<g-5 c'-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 22,
+    "lh_attack": 3,
+    "before": "<c'-5 f'-3 b'-1>",
+    "after": "<c'-5 f'-3 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 22,
+    "lh_attack": 4,
+    "before": "<e'-5 a'-3 d''-1>",
+    "after": "<e'-5 a'-3 d''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 23,
+    "lh_attack": 1,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 23,
+    "lh_attack": 2,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 23,
+    "lh_attack": 3,
+    "before": "<g'-4 a'-3 d''-1>",
+    "after": "<g'-4 a'-3 d''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 24,
+    "lh_attack": 1,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 24,
+    "lh_attack": 2,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 24,
+    "lh_attack": 3,
+    "before": "<a'-5 d''?-3 g''-\\tweak color #black -2>",
+    "after": "<a'-2 d''?-1 g''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 25,
+    "lh_attack": 1,
+    "before": "<g'-3 e''-1>",
+    "after": "<g'-1 e''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 25,
+    "lh_attack": 2,
+    "before": "<d'-4 e'-3 a'-1>",
+    "after": "<d'-4 e'-3 a'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 25,
+    "lh_attack": 3,
+    "before": "<d'-5 g'-3 c''-\\tweak color #black -2>",
+    "after": "<d'-2 g'-1 c''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 26,
+    "lh_attack": 1,
+    "before": "<ees'-4 g'-2 a'-1>",
+    "after": "<ees'-2 g'-1 a'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 26,
+    "lh_attack": 2,
+    "before": "<ees'-4 g'-2 b'-1>",
+    "after": "<ees'-2 g'-1 b'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 26,
+    "lh_attack": 3,
+    "before": "<e'?-5 a'-3 d''-\\tweak color #black -2>",
+    "after": "<e'?-1 a'\\rightOne d''\\rightThree>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 27,
+    "lh_attack": 1,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 27,
+    "lh_attack": 2,
+    "before": "<f'-4 b'-2 dis''-1>",
+    "after": "<f'-4 b'-2 dis''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 27,
+    "lh_attack": 3,
+    "before": "<a'-5 dis''-3 g''-\\tweak color #black -2>",
+    "after": "<a'-2 dis''-1 g''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 28,
+    "lh_attack": 1,
+    "before": "<f'-4 b'-2 e''-1>",
+    "after": "<f'-4 b'-2 e''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 28,
+    "lh_attack": 2,
+    "before": "<f'-4 a'-2 cis''-1>",
+    "after": "<f'-4 a'-2 cis''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 28,
+    "lh_attack": 3,
+    "before": "<f'-5 aes'-3 ees''-\\tweak color #black -2>",
+    "after": "<f'-3 aes'-1 ees''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 29,
+    "lh_attack": 1,
+    "before": "<f'-4 aes'-2 ces''-1>",
+    "after": "<f'-2 aes'-1 ces''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 29,
+    "lh_attack": 2,
+    "before": "<c'-4 ees'-2 aes'-1>",
+    "after": "<c'-4 ees'-2 aes'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 29,
+    "lh_attack": 3,
+    "before": "<ces'-4 ees'-2 aes'-1>",
+    "after": "<ces'-4 ees'-2 aes'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 30,
+    "lh_attack": 1,
+    "before": "<ces'-4 ees'-2 aes'-1>",
+    "after": "<ces'-2 ees'-1 aes'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 30,
+    "lh_attack": 2,
+    "before": "<ges-4 c'!-2 f'-1>",
+    "after": "<ges-5 c'!-2 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 30,
+    "lh_attack": 3,
+    "before": "<fes-4 aes-3 ees'-\\tweak color #black -2>",
+    "after": "<fes-2 aes-1 ees'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 31,
+    "lh_attack": 1,
+    "before": "<f!-4 aes-2 c'!-1>",
+    "after": "<f!-2 aes-1 c'!\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 31,
+    "lh_attack": 2,
+    "before": "<e!-4 g-2 b!-1>",
+    "after": "<e!-2 g-1 b!\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 31,
+    "lh_attack": 3,
+    "before": "<ees-4 a-2 d'-1>",
+    "after": "<ees-2 a-1 d'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 32,
+    "lh_attack": 1,
+    "before": "<f-4 aes-2 c'-1>",
+    "after": "<f-5 aes-3 c'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 32,
+    "lh_attack": 2,
+    "before": "<g-4 c'-2 f'-1>",
+    "after": "<g-5 c'-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 32,
+    "lh_attack": 3,
+    "before": "<bes-4 ees'-2 aes'-1>",
+    "after": "<bes-5 ees'-3 aes'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 32,
+    "lh_attack": 4,
+    "before": "<g-5 c'-3 f'-1>",
+    "after": "<g-5 c'-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 33,
+    "lh_attack": 1,
+    "before": "<f!-4 aes-2 d'!-1>",
+    "after": "<f!-5 aes-3 d'!-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 33,
+    "lh_attack": 2,
+    "before": "<a!-4 d'-2 g'-1>",
+    "after": "<a!-5 d'-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 33,
+    "lh_attack": 3,
+    "before": "<f-4 bes-2 ees'-1>",
+    "after": "<f-5 bes-3 ees'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 34,
+    "lh_attack": 1,
+    "before": "<fes-4 aes-3 d'-1>",
+    "after": "<fes-5 aes-3 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 34,
+    "lh_attack": 2,
+    "before": "<aes-4 d'-2 g'-1>",
+    "after": "<aes-5 d'-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 35,
+    "lh_attack": 1,
+    "before": "<ges-4 bes-2 e'-1>",
+    "after": "<ges-5 bes-3 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 35,
+    "lh_attack": 2,
+    "before": "<aes-4 d'-2 g'-1>",
+    "after": "<aes-5 d'-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 36,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 36,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 36,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 37,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 37,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 37,
+    "lh_attack": 3,
+    "before": "<a-5 b-4 g'-\\tweak color #black -2>",
+    "after": "<a-2 b-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 38,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 38,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 38,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 39,
+    "lh_attack": 1,
+    "before": "<a-3 b-2>",
+    "after": "<a-3 b-2>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 39,
+    "lh_attack": 2,
+    "before": "<a-3 b-2>",
+    "after": "<a-3 b-2>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 39,
+    "lh_attack": 3,
+    "before": "<a-3 cis'-1>",
+    "after": "<a-2 cis'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 40,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 40,
+    "lh_attack": 2,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 40,
+    "lh_attack": 3,
+    "before": "<c'-2 d'-1>",
+    "after": "<c'-2 d'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 41,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 e'-1>",
+    "after": "<a-3 b-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 41,
+    "lh_attack": 2,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-2 d'-1 g'\\rightOne>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 41,
+    "lh_attack": 3,
+    "before": "<d'-4 e'-3 a'-1>",
+    "after": "<d'-5 e'-3 a'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 42,
+    "lh_attack": 1,
+    "before": "<f'-4 g'-3 b'-1>",
+    "after": "<f'-4 g'-3 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 42,
+    "lh_attack": 2,
+    "before": "<f'-3 g'-2 ais'-1>",
+    "after": "<f'-4 g'-3 ais'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 42,
+    "lh_attack": 3,
+    "before": "<fes'-4 ges'-3 c''-1>",
+    "after": "<fes'-4 ges'-3 c''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 43,
+    "lh_attack": 1,
+    "before": "<f'!-4 g'!-3 b'-1>",
+    "after": "<f'!-4 g'!-3 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 43,
+    "lh_attack": 2,
+    "before": "<f'-3 g'-2 ais'-1>",
+    "after": "<f'-4 g'-3 ais'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 43,
+    "lh_attack": 3,
+    "before": "<e'-4 aes'-3 d''-\\tweak color #black -2>",
+    "after": "<e'-3 aes'-1 d''\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 44,
+    "lh_attack": 1,
+    "before": "<f'-4 g'-3 b'-1>",
+    "after": "<f'-3 g'-2 b'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 44,
+    "lh_attack": 2,
+    "before": "<f'-4 g'-3 c''-1>",
+    "after": "<f'-3 g'-2 c''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 44,
+    "lh_attack": 3,
+    "before": "<e'-4 f'-3 a'-1>",
+    "after": "<e'-2 f'-1 a'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 45,
+    "lh_attack": 1,
+    "before": "<c'-4 d'-2 f'-1>",
+    "after": "<c'-4 d'-2 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 45,
+    "lh_attack": 2,
+    "before": "<c'-3 d'-2 e'-1>",
+    "after": "<c'-4 d'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 45,
+    "lh_attack": 3,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-3 d'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 46,
+    "lh_attack": 1,
+    "before": "<b-4 c'-3 e'-1>",
+    "after": "<b-3 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 46,
+    "lh_attack": 2,
+    "before": "<c'-4 d'-3 g'-1>",
+    "after": "<c'-2 d'-1 g'\\rightTwo>",
+    "right_hand_takeover": true
+  },
+  {
+    "measure": 46,
+    "lh_attack": 3,
+    "before": "<a-4 c'-2 e'-1>",
+    "after": "<a-4 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 47,
+    "lh_attack": 1,
+    "before": "<b-4 c'-2 e'!-1>",
+    "after": "<b-3 c'-2 e'!-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 47,
+    "lh_attack": 2,
+    "before": "<b-4 c'-3 g'-1>",
+    "after": "<b-3 c'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 47,
+    "lh_attack": 3,
+    "before": "<b-4 c'-3 g'-1>",
+    "after": "<b-3 c'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 48,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 f'-1>",
+    "after": "<a-4 b-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 48,
+    "lh_attack": 2,
+    "before": "<a-4 bes-3 g'-1>",
+    "after": "<a-4 bes-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 48,
+    "lh_attack": 3,
+    "before": "<a-4 b!-3 f'-1>",
+    "after": "<a-4 b!-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 49,
+    "lh_attack": 1,
+    "before": "<b-4 c'-3 e'-1>",
+    "after": "<b-3 c'-2 e'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 49,
+    "lh_attack": 2,
+    "before": "<b-4 c'-3 g'-1>",
+    "after": "<b-3 c'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 49,
+    "lh_attack": 3,
+    "before": "<b-4 c'-3 g'-1>",
+    "after": "<b-3 c'-2 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 50,
+    "lh_attack": 1,
+    "before": "<a-4 b-3 f'-1>",
+    "after": "<a-4 b-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 50,
+    "lh_attack": 2,
+    "before": "<aes-4 b!-3 g'-1>",
+    "after": "<aes-4 b!-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 50,
+    "lh_attack": 3,
+    "before": "<a!-4 b-3 f'-1>",
+    "after": "<a!-4 b-3 f'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 51,
+    "lh_attack": 1,
+    "before": "<a-5 d'-3 g'-1>",
+    "after": "<a-5 d'-3 g'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 51,
+    "lh_attack": 2,
+    "before": "<b-5 e'-3 ais'-1>",
+    "after": "<b-5 e'-3 ais'-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 52,
+    "lh_attack": 1,
+    "before": "<a'-5 d''-3 g''-1>",
+    "after": "<a'-5 d''-3 g''-1>",
+    "right_hand_takeover": false
+  },
+  {
+    "measure": 52,
+    "lh_attack": 2,
+    "before": "<cis''-5 fis''-2 b''-1>",
+    "after": "<cis''-5 fis''-3 b''-1>",
+    "right_hand_takeover": false
+  }
+]

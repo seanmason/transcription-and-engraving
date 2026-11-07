@@ -5,8 +5,8 @@
   "compiler_warnings": 0,
   "bar_checks": 106,
   "midi_byte_identical_to_fresh_base": true,
-  "source_sha256": "e150f123d8534b72d11a12efcaac8c41fabfcf8199b01cd159c2ea111540dfb8",
+  "source_sha256": "9fcb4fa08daef11c510d2f52b16cfcaf1ce4d681946288b43aa6b338b0bfd52d",
   "base_sha256": "3d8aae1de5fe3a91d9c096a07a5e9c9e3a56e547da2cacca0cfc1a0cc3ddf64a",
-  "pdf_sha256": "2b530f2531c5ebaf22f7d94f5feaee98f000cb44d7643870988928539532ce1c",
+  "pdf_sha256": "8cf57180bc450cf5a1048195a37315892e37310f5da4415f8925868fd225403f",
   "limits": "Underlying transcription audited against the new scan in experiment 009. MIDI equality proves preservation, not accuracy or physical playability. Fingering remains untested at a piano."
 }

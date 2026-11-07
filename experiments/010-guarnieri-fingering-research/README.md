@@ -16,7 +16,7 @@ Current practice source at Git revision 8b4473e, corresponding to experiment 009
 .tools/venv/bin/python experiments/010-guarnieri-fingering-research/audit_spans.py
 ```
 
-The score-specific script reads the existing master and rewrites only span-audit.json. It is not a general LilyPond parser or fingering solver. It combines the notated bass with each LH figuration attack, conservatively assuming the bass remains finger-held. It checks bar durations between layers and selected known pitch/flag cases. It does not model pedal, RH fingerings, key depth, or neighbouring movements. The standalone final bass chord is checked manually in the synthesis, not counted as a figuration attack.
+The score-specific script now reads the preserved 009 R2 source (the pre-revision master) and rewrites only span-audit.json, so later hand-transfer syntax does not invalidate this historical experiment. It is not a general LilyPond parser or fingering solver. It combines the notated bass with each LH figuration attack, conservatively assuming the bass remains finger-held. It checks bar durations between layers and selected known pitch/flag cases. It does not model pedal, RH fingerings, key depth, or neighbouring movements. The standalone final bass chord is checked manually in the synthesis, not counted as a figuration attack.
 
 ## Results and evidence
 

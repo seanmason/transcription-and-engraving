@@ -1,5 +1,5 @@
 {
-  "source": "scores/guarnieri-ponteio-15-fingered.ly",
+  "source": "experiments/009-guarnieri-scan-audit/evidence/r2-fingered.ly",
   "source_sha256": "e150f123d8534b72d11a12efcaac8c41fabfcf8199b01cd159c2ea111540dfb8",
   "assumptions": [
     "All notated bass duration is treated as finger-held for screening, including ties. A pedal release can resolve some flags but is not encoded here.",

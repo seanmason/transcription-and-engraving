@@ -23,6 +23,7 @@ An ongoing study of beautiful, reproducible solo-piano engraving from scanned sc
 | [Elfin Dance complete](output/pdf/elfin-dance-reengraved.pdf) | Grieg, 72 measures | Fresh transcription, four proof rounds; awaiting user review |
 | [La Valse d'Amelie complete](output/pdf/la-valse-d-amelie-reengraved.pdf) | 136 measures, five pages | Fresh transcription, four proof rounds; awaiting user review |
 | [Guarnieri Ponteio No. 15 — working proof](output/pdf/guarnieri-ponteio-15-reengraved.pdf) | 53 measures, four pages, cross-staff figuration | All 53 measures audited against the clearer scan; corrections and source-mark limits in [experiment 009](experiments/009-guarnieri-scan-audit/README.md) |
+| [Guarnieri fingered practice edition](output/pdf/guarnieri-ponteio-15-fingered.pdf) | Large fingerings, explicit hand transfers, four pages | Contextual fingering revision and visual review in [experiment 011](experiments/011-guarnieri-transition-fingering/README.md); piano trial pending |
 
 The earlier [Shostakovich recovery](experiments/003-shostakovich-recovery/README.md) is incomplete and superseded. It must not be treated as the complete score.
 
