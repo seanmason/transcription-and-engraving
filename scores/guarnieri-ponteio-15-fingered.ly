@@ -8,7 +8,6 @@
  title = \markup \override #'(font-name . "C059") \fontsize #2 "Ponteio No. 15"
  composer = \markup \override #'(font-name . "C059") "M. Camargo Guarnieri"
  dedication = \markup \italic "a Guilherme Fontainha"
- subtitle = \markup \fontsize #-1 "Practice fingering - provisional musical text"
  tagline = ##f
 }
 \paper {
@@ -295,7 +294,7 @@ bassLine = {
 expression = {
  \override DynamicTextSpanner.extra-offset = #'(0 . -2.5)
  \override Hairpin.extra-offset = #'(0 . -1.2)
- \override DynamicText.extra-offset = #'(0 . 0)
+ \override DynamicText.extra-offset = #'(-3 . -0.6)
  \override TextScript.extra-offset = #'(0 . -1)
 
  % Measure 1
@@ -303,7 +302,7 @@ expression = {
  % Measure 2
  s1 |
  % Measure 3
- s4^\markup \italic "simili" s4\> s2\! |
+ s4-\tweak extra-offset #'(2 . -2.3) ^\markup \italic "simili" s4\> s2\! |
  % Measure 4
  s1 |
  % Measure 5
@@ -345,7 +344,7 @@ expression = {
  s2 s2\! |
  % Measure 21
  \override Hairpin.extra-offset = #'(0 . -1.2)
- s2.\f s4^\markup \italic "dim." |
+ s2.\f s4-\tweak extra-offset #'(3 . -2) ^\markup \italic "dim." |
  % Measure 22
  s2 s1\> |
  % Measure 23
@@ -369,6 +368,7 @@ expression = {
  % Measure 32
  s8 s2\< s8\! s8 s2\> s8\! |
  % Measure 33
+ \once \override DynamicTextSpanner.extra-offset = #'(1.8 . -1.2)
  s2. s4\cresc |
  % Measure 34
  s2.^\markup \italic "e rall." |
@@ -415,6 +415,7 @@ expression = {
  % Measure 52
  s1\< |
  % Measure 53
+ \once \override DynamicText.extra-offset = #'(0 . 0)
  s1\!\ff |
 }
 

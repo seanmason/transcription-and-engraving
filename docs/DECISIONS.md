@@ -39,3 +39,5 @@ Guarnieri practice R4: tighter bass/treble spacing (basic 17, minimum 15 staff s
 Guarnieri practice R5: user requested more readable digits again. Current score-local fingering size is 1.5, with whiteout behind the numerals to interrupt staff lines locally. Shared typeface and compact page/staff geometry unchanged.
 
 Guarnieri R6: remove the explanatory opening page per user request. Current PDF contains four music pages; retained historical proofs preserve the guide. Added first-page header clearance for the enlarged fingerings.
+
+Guarnieri R7: remove the practice/provisional subtitle at user request. Correct expression placement locally around cross-staff beams and large digits; retain four pages and size-1.5 fingerings. Musical qualification remains in repository documentation rather than the title block.

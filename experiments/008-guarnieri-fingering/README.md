@@ -67,3 +67,7 @@ User requested another increase and visual scan. Raised score-local Fingering.fo
 ## R6 - music-only PDF
 
 Removed the opening explanation page at user request. The guide remains available in retained R5 evidence and the reasoning above. Added title-to-system clearance after inspection revealed the composer line crowding the opening fingering stack. Inspected all four music pages and rechecked the revised first-page header. Four pages, zero warnings, MIDI unchanged. [R6 source](evidence/r6-source.ly), [R6 PDF](evidence/r6.pdf).
+
+## R7 - subtitle removal and expression collision review
+
+User reported awkward overlaps and requested removing the provisional subtitle. Removed the entire practice-edition subtitle. Inspected all pages at 180 dpi and enlarged affected-system crops. Shifted f/p dynamics left of cross-staff stems and away from LH fingering stacks; moved simili and dim. clear of stems/beams; adjusted the middle cresc. text-spanner position. Retained the original closing ff position so it stays clear of the hairpin endpoint. Rechecked all four final pages and the closing page after its last adjustment. Four pages, zero compiler warnings, MIDI identical to the base. [R7 source](evidence/r7-source.ly), [R7 PDF](evidence/r7.pdf). Removing the visible subtitle does not resolve or change the documented musical uncertainties.
