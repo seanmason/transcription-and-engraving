@@ -18,9 +18,9 @@ New [editable practice source](../../scores/guarnieri-ponteio-15-fingered.ly) is
 .tools/venv/bin/python render_guarnieri_fingered.py
 ```
 
-The builder compiles the practice source and freshly compiles the clean source to a temporary location, then compares their MIDI byte-for-byte. It checks 106 bar checks, compiler warnings and six PDF pages, and creates previews. It never regenerates or overwrites either source. Requires the established LilyPond/font setup and pypdf/Poppler used elsewhere in this repository.
+The builder compiles the practice source and freshly compiles the clean source to a temporary location, then compares their MIDI byte-for-byte. It checks 106 bar checks, compiler warnings and five PDF pages, and creates previews. It never regenerates or overwrites either source. Requires the established LilyPond/font setup and pypdf/Poppler used elsewhere in this repository.
 
-Output: [practice PDF](../../output/pdf/guarnieri-ponteio-15-fingered.pdf). Page 1 contains the guide; five music pages follow, covering bars 1-11, 12-20, 21-31, 32-41 and 42-53.
+Output: [practice PDF](../../output/pdf/guarnieri-ponteio-15-fingered.pdf). Page 1 contains the guide; four music pages follow, covering bars 1-14, 15-27, 28-41 and 42-53.
 
 ## Fingering reasoning and exceptions
 
@@ -49,3 +49,7 @@ Notation reference used: [LilyPond 2.26 fingering instructions](https://lilypond
 ## R2 - larger digits following user feedback
 
 The user found the digits too small. Increased the score-local Fingering.font-size from the inherited -3.6 to 0, about 52% larger linearly. Both editorial and existing digits retain the accepted Engraving Fingering face. Shared styles remain unchanged. [R2 source](evidence/r2-source.ly) and [R2 PDF](evidence/r2.pdf) preserve this revision. Inspected all five music pages; no new note/accidental collisions or clipping observed. Six pages, zero compiler warnings, MIDI identical to freshly compiled base. The guide is unchanged.
+
+## R3 - four systems per page
+
+User requested less empty space. Replaced the three-system pagination with four systems on each full music page and three on the final page; the final page remains ragged-bottom rather than spreading its systems. Larger size-0 fingerings, staff size and staff separation are unchanged. Five PDF pages total including the guide. [R3 source](evidence/r3-source.ly) and [R3 PDF](evidence/r3.pdf) preserve the revised layout. Inspected all four music pages: inter-system digits remain separated, and no new collisions or clipping observed. Warning-free build; MIDI identical to the freshly compiled base. Updated the builder page-count assertion. Musical/fingering uncertainties remain unchanged.

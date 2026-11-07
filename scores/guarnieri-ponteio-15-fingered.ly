@@ -58,7 +58,7 @@ figuration = {
  \down <a-4 b-3 e'-1>8[^> \up e'8-1(_> \up <b'-2 e''-5>8)_> \down <a-4 b-3 e'-1>8]^> \up e'8-1[(_> \up <b'-2 e''-5>8)_> \down <a-5 b-4 g'-\tweak color #black -2>8^> \up <a'-1 e''-3 a''-5>8]_>  | \barNumberCheck #3
  % Measure 3
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <c'-2 d'-1>8 \up <d'-1 a'-3 d''-5>8]  | \barNumberCheck #4
- \break
+ \break \noPageBreak
  % Measure 4
  \down <a-3 b-2>8[ \up b8-1( \up <f'-2 b'-5>8) \down <a-3 b-2>8] \up b8-1[( \up <f'-2 b'-5>8) \down <a-3 cis'-1>8 \up <d'-1 a'-3 d''-5>8]  | \barNumberCheck #5
  % Measure 5
@@ -67,7 +67,7 @@ figuration = {
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <c'-4 d'-3 g'-1>8] \up gis'8-1[( \up <dis''-2 gis''-5>8) \down \clef treble <d'-4 e'-3 a'-1>8 \up <ais'-1 e''-3 ais''-5>8]  | \barNumberCheck #7
  % Measure 7
  \down <f'-4 g'-3 b'-1>8[ \up b'8-1( \up <f''-2 c'''-5>8) \down <fis'-3 g'-2 a'-1>8] \up b'8-1[( \up <f''-2 c'''-5>8) \down <f'-4 ges'-3 ces''-1>8 \up <d''-1 aes''-3 d'''-5>8]  | \barNumberCheck #8
- \break
+ \break \noPageBreak
  % Measure 8
  \down <f'!-4 g'!-3 b'-1>8[ \up b'8-1( \up <f''-2 b''-5>8) \down <fis'-3 g'-2 a'-1>8] \up b'8-1[( \up <f''-2 b''-5>8) \down <e'-4 aes'-3 des''-\tweak color #black -2>8 \up <c''-1 g''-3 c'''-5>8]  | \barNumberCheck #9
  % Measure 9
@@ -76,35 +76,35 @@ figuration = {
  \down <b-4 d'-2 f'-1>8[ \up f'8-1( \up <c''-2 f''-5>8) \down <c'-3 d'-2 e'-1>8] \up f'8-1[( \up <c''-2 f''-5>8) \down <b-4 c'-3 g'-1>8 \up <f'-1 c''-3 f''-5>8]  | \barNumberCheck #11
  % Measure 11
  \down <b-4 c'-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <b-4 c'-3 g'-1>8] \up g'8-1[( \up <d''-2 g''-5>8) \down <g-4 b-2 e'-1>8 \up <e'-1 b'-3 e''-5>8]  | \barNumberCheck #12
- \pageBreak
+ \break \noPageBreak
  % Measure 12
  \time 3/2 \down \clef bass <bes-4 c'-3 ees'-1>8[ \up ees'8-1( \up <bes'-2 ees''-5>8) \down <a-4 b-3 e'!-1>8] \up f'8-1[( \up <c''-2 f''-5>8) \down <b-5 c'-4 g'-\tweak color #black -2>8 \up f'8-1]( \up <c''-2 f''-5>8[) \down <a-4 b-3 d'-1>8 \up ees'8-1( \up <bes'-2 ees''-5>8])  | \barNumberCheck #13
  % Measure 13
  \time 2/2 \down <b!-4 c'-3 e'-1>8[ \up e'!8-1( \up <b'!-2 e''!-5>8) \down <b-4 c'-3 gis'-1>8] \up a'8-1[( \up <e''-2 a''-5>8) \down <a-4 b-3 g'!-1>8 \up <e'-1 b'-3 e''-5>8]  | \barNumberCheck #14
  % Measure 14
  \down <aes-4 c'-3 ees'-1>8[ \up ees'8-1( \up <bes'-2 ees''-5>8) \down <a-4 c'-2 d'-1>8] \up ees'8-1[( \up <bes'-2 ees''-5>8) \down <c'-4 d'-3 g'-1>8 \up <g'-1 d''-3 g''-5>8]  | \barNumberCheck #15
- \break
+ \pageBreak
  % Measure 15
  \down <aes-4 c'-3 ees'-1>8[ \up g'8-1( \up <c''-2 g''-5>8) \down <b-4 c'-3 aes'-1>8] \up g'8-1[( \up <d''-2 g''-5>8) \down <g-4 c'-2 f'-1>8 \up <ees'-1 bes'-3 ees''-5>8]  | \barNumberCheck #16
  % Measure 16
  \down <g-4 bes-2 c'-1>8[ \up d'8-1( \up <aes'-2 d''-5>8) \down <bes-4 c'-3 g'-1>8] \up f'8-1[( \up <c''-2 f''-5>8) \down <g-4 bes-2 c'-1>8 \up <ees'-1 bes'-3 ees''-5>8]  | \barNumberCheck #17
  % Measure 17
  \down <g-4 aes-3 c'-1>8[ \up c'8-1( \up <g'-2 c''-5>8) \down <g-4 aes-3 ees'-1>8] \up d'8-1[( \up <a'!-2 d''-5>8) \down <f-4 g-3 c'-1>8 \up <bes-1 f'-3 bes'-5>8]  | \barNumberCheck #18
- \break
+ \break \noPageBreak
  % Measure 18
  \time 3/2 \down <f-4 aes-3 c'-1>8[ \up d'8-1( \up <aes'-2 d''-5>8) \down <a-4 b-3 ees'-1>8] \up f'8-1[( \up <c''-2 f''-5>8) \down <a-4 b-3 ees'-\tweak color #black -2>8 \up d'8-1]( \up <b'-2 e''-5>8[) \down <g-4 b-2 d'-1>8 \up b!8-1( \up <f'!-2 b'!-5>8])  | \barNumberCheck #19
  % Measure 19
  \time 2/2 \down <f-4 g-3 bes-1>8[ \up bes8-1( \up <f'-2 bes'-5>8) \down <f-4 g-3 d'-1>8] \up g8-1[( \up <d'-2 g'-5>8) \down <d-4 f-2 aes-1>8 \up <b-1 f'-3 b'-5>8]  | \barNumberCheck #20
  % Measure 20
  \down <d-4 f-2 aes-1>8[ \up ges8-1( \up <c'-2 ges'-5>8) \down <ees-4 f-3 a-1>8] \up e8-1[( \up <c'-2 f'-5>8) \down <aes,-4 ees-2 fes-1>8 \up <f-1 c'-3 f'-5>8]  | \barNumberCheck #21
- \pageBreak
+ \break \noPageBreak
  % Measure 21
  \down <d,-5 g,-3 c-1>8[ \up e8-1( \up <b-2 e'-5>8) \down <e-5 g-3 c'-1>8] \up b8-1[( \up <fis'-2 b'-5>8) \down <a-5 d'-3 g'-1>8 \up <dis'-1 ais'-3 dis''-5>8]  | \barNumberCheck #22
  % Measure 22
  \time 3/2 \down <d-5 g!-3 c'!-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-5 d'-3 g'-1>8] \up a'8-1[( \up <e''-2 a''-5>8) \down \clef treble <c'-5 f'-3 b'-1>8 \up d''8-1]( \up <a''-2 d'''-5>8[) \down <e'-5 a'-3 d''-1>8 \up dis''8-1( \up <ais''-2 dis'''-5>8])  | \barNumberCheck #23
  % Measure 23
  \time 2/2 \down <e'-5 a'-3 e''-1>8[ \up e''8-1( \up <b''-2 e'''-5>8) \down <e'-5 a'-3 e''-1>8] \up e''8-1[( \up <b''-2 e'''-5>8) \down <f'-4 g'-3 d''-1>8 \up <dis''-1 ais''-3 dis'''-5>8]  | \barNumberCheck #24
- \break
+ \break \noPageBreak
  % Measure 24
  \down <f'-5 b'-3 f''-1>8[ \up e''8-1( \up <b''-2 e'''-5>8) \down <f'-5 b'-3 f''-1>8] \up e''8-1[( \up <b''-2 e'''-5>8) \down <a'-5 d''!-3 g''-\tweak color #black -2>8 \up <a''-1 e'''-3 a'''-5>8]  | \barNumberCheck #25
  % Measure 25
@@ -113,7 +113,7 @@ figuration = {
  \down <f'-4 aes'-3 b'-1>8[ \up a'8-1( \up <d''!-2 g''-5>8) \down <f'-4 a'-2 c''-1>8] \up c''8-1[( \up <g''-2 c'''-5>8) \down <f'!-5 b'-3 e''-\tweak color #black -2>8 \up <dis''-1 ais''-3 dis'''-5>8]  | \barNumberCheck #27
  % Measure 27
  \down <g'-4 c''-3 f''-1>8[ \up f''8-1( \up <c'''-2 f'''-5>8) \down <g'-4 b'-2 dis''-1>8] \up f''8-1[( \up <b''-2 f'''-5>8) \down <c''-5 e''-3 a''-\tweak color #black -2>8 \up <b''-1 f'''-3 b'''-5>8]  | \barNumberCheck #28
- \break
+ \pageBreak
  % Measure 28
  \down <f'-5 b'-3 f''-1>8[ \up f''8-1( \up <c'''-2 f'''-5>8) \down <f'-4 a'-2 cis''-1>8] \up e''8-1[( \up <b''-2 e'''-5>8) \down <f'-5 aes'-3 es''-\tweak color #black -2>8 \up <f''-1 ces'''-3 fes'''-5>8]  | \barNumberCheck #29
  % Measure 29
@@ -122,7 +122,7 @@ figuration = {
  \down \clef bass <bes-5 des'-4 ges'-1>8[ \up ges'8-1( \up <des''-2 ges''-5>8) \down <a-4 ces'-3 f'-1>8] \up bes8-1[( \up <ges'-2 ces''-5>8) \down <ges-4 bes-3 fes'-\tweak color #black -2>8 \up <f'-1 c''-3 f''-5>8]  | \barNumberCheck #31
  % Measure 31
  \down <e!-4 ges-2 b!-1>8[ \up c'!8-1( \up <ges'-2 c''!-5>8) \down <e!-4 g-2 c'!-1>8] \up b8-1[( \up <f'-2 b'-5>8) \down <ees-4 g-2 c'-1>8 \up <ees'-1 bes'-3 ees''-5>8]  | \barNumberCheck #32
- \pageBreak
+ \break \noPageBreak
  % Measure 32
  \time 3/2 \down <c-4 ees-2 g-1>8[ \up ees'8-1( \up <bes'-2 ees''-5>8) \down <c-4 e-2 a-1>8] \up g'8-1[( \up <d''-2 g''-5>8) \down <ees-4 ges-2 ces'-1>8 \up f'8-1]( \up <c''-2 f''-5>8[) \down <a,-5 d-3 g-1>8 \up d'8-1( \up <a'-2 d''-5>8])  | \barNumberCheck #33
  % Measure 33
@@ -131,14 +131,14 @@ figuration = {
  \time 3/4 \down <f-5 aes-4 ces'-3 f'-1>8[ \up e'!8-1( \up <bes'-2 e''!-5>8) \down <aes-4 c'-2 g'-1>8] \up e'8-1[( \up <c''-2 e''-5>8])  | \barNumberCheck #35
  % Measure 35
  \down <aes-4 ces'-2 ees'-1>8[ \up g'8-1( \up <ces''-2 ees''-5>8) \down <bes-4 d'-2 g'-1>8] \up a'8-1[( \up <d''-2 f''-5>8])  | \barNumberCheck #36
- \break
+ \break \noPageBreak
  % Measure 36
  \time 2/2 \down <a-5 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-5 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <c'-2 d'-1>8 \up <dis'-1 ais'-3 dis''-5>8]  | \barNumberCheck #37
  % Measure 37
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <a-5 b-4 g'-\tweak color #black -2>8 \up <a'-1 e''-3 a''-5>8]  | \barNumberCheck #38
  % Measure 38
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <c'-2 d'-1>8 \up <d'-1 a'-3 d''-5>8]  | \barNumberCheck #39
- \break
+ \break \noPageBreak
  % Measure 39
  \down <a-3 b-2>8[ \up b8-1( \up <f'-2 b'-5>8) \down <a-3 b-2>8] \up b8-1[( \up <f'-2 b'-5>8) \down <a-3 cis'-1>8 \up <d'-1 a'-3 d''-5>8]  | \barNumberCheck #40
  % Measure 40
@@ -154,7 +154,7 @@ figuration = {
  \down <f'-4 ges'-3 b'-1>8[ \up b'8-1( \up <f''-2 b''-5>8) \down <f'-4 g'-3 c''-1>8] \up b'8-1[( \up <f''-2 b''-5>8) \down <d'-4 e'-3 a'-1>8 \up <g'-1 d''-3 g''-5>8]  | \barNumberCheck #45
  % Measure 45
  \down <b-4 d'-2 f'-1>8[ \up f'8-1( \up <c''-2 f''-5>8) \down <c'-3 d'-2 e'-1>8] \up f'8-1[( \up <c''-2 f''-5>8) \down <b-4 c'-3 g'-1>8 \up <f'-1 c''-3 f''-5>8]  | \barNumberCheck #46
- \break
+ \break \noPageBreak
  % Measure 46
  \down <b-4 c'-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <b-4 c'-3 g'-1>8] \up g'8-1[( \up <d''-2 g''-5>8) \down <g-4 b-2 e'-1>8 \up <e'-1 b'-3 e''-5>8]  | \barNumberCheck #47
  % Measure 47
@@ -163,7 +163,7 @@ figuration = {
  \down \clef bass <a-4 b-3 e'-1>8[ \up f'8-1( \up <c''-2 f''-5>8) \down <a-4 bes-3 g'-1>8] \up g'8-1[( \up <d''-2 g''-5>8) \down <a-4 b!-3 f'-1>8 \up <dis'-1 ais'-3 dis''-5>8]  | \barNumberCheck #49
  % Measure 49
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 b-3 g'-1>8] \up a'8-1[( \up <e''-2 a''-5>8) \down <a-4 b-3 g'-1>8 \up <e'-1 b'-3 e''-5>8]  | \barNumberCheck #50
- \break
+ \break \noPageBreak
  % Measure 50
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 bes!-3 g'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <a!-4 b-3 f'-1>8 \up <d'-1 a'-3 d''-5>8]  | \barNumberCheck #51
  % Measure 51

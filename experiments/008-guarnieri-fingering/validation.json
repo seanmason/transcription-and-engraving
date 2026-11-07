@@ -1,12 +1,12 @@
 {
   "status": "provisional practice fingering; not piano-tested",
-  "pages": 6,
+  "pages": 5,
   "measures": 53,
   "compiler_warnings": 0,
   "bar_checks": 106,
   "midi_byte_identical_to_fresh_base": true,
-  "source_sha256": "df9de14befe1906bc3904af82bab51547ba7bacd151bef35e626b62fa135db36",
+  "source_sha256": "fcd8a5709a24d61d1f5bae3b169d2160f4152190163b4f325008ad09d1163668",
   "base_sha256": "7805bece9c796eeaf1862daf7f47dd3df9a6a3abbf442f687501c7b80af4f96d",
-  "pdf_sha256": "c77cca44b8ade90c896c361ac155c85b10ccda78d9a77b6d234accd836837512",
+  "pdf_sha256": "6f6d08c24dbcb98cb9a873890d72ea1a17d7e8ab918173437d51a7f963d41489",
   "limits": "Pitch uncertainties from experiment 007 remain. MIDI equality proves preservation, not accuracy or playable physical sustain."
 }
