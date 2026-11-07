@@ -88,9 +88,9 @@ figuration = {
  % Measure 18
  \time 3/2 \down <f aes c'>8[ \up d'8( \up <aes' d''>8) \down <a b ees'>8] \up f'8[( \up <c'' f''>8) \down <a b ees'>8-2 \up d'8]( \up <b' e''>8[) \down <g b d'>8 \up b!8( \up <f'! b'!>8])  | \barNumberCheck #19
  % Measure 19
- \time 2/2 \down <f g bes>8[ \up bes8( \up <f' bes'>8) \down <f g d'>8] \up g8[( \up <d' g'>8) \down <d f aes>8 \up <b f' b'>8]  | \barNumberCheck #20
+ \time 2/2 \down <f g bes>8[ \up bes8( \up <f' bes'>8) \down <f g c'>8] \up g8[( \up <d' g'>8) \down <des f aes>8 \up <a f' bes'>8]  | \barNumberCheck #20
  % Measure 20
- \down <d f aes>8[ \up ges8( \up <c' ges'>8) \down <ees f a>8] \up e8[( \up <c' f'>8) \down <aes, ees fes>8 \up <f c' f'>8]  | \barNumberCheck #21
+ \down <d f aes>8[ \up aes8( \up <ees' aes'>8) \down <des e g>8] \up g8[( \up <c' g'>8) \down <aes, des ees>8 \up <f c' f'>8]  | \barNumberCheck #21
  \break \noPageBreak
  % Measure 21
  \down <d, g, c>8[ \up e8( \up < b e'>8) \down <e g c'>8] \up b8[( \up <fis' b'>8) \down <a d' g'>8 \up <dis' ais' dis''>8]  | \barNumberCheck #22
@@ -208,9 +208,9 @@ bassLine = {
  % Measure 18
  \time 3/2 ees2. e2.-> | \barNumberCheck #19
  % Measure 19
- \time 2/2 ees2->( c8) c4.->( | \barNumberCheck #20
+ \time 2/2 des2->( c8) c4.->~ | \barNumberCheck #20
  % Measure 20
- c2)~ c8 f,4.-> | \barNumberCheck #21
+ c2~ c8 f,4.-> | \barNumberCheck #21
  % Measure 21
  s1 | \barNumberCheck #22
  % Measure 22

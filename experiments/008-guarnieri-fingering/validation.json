@@ -5,8 +5,8 @@
   "compiler_warnings": 0,
   "bar_checks": 106,
   "midi_byte_identical_to_fresh_base": true,
-  "source_sha256": "986cfb427bdbb969a7a039086b348c7b5defd95ce6d6bed2ac88282c0d8e7d8e",
-  "base_sha256": "7805bece9c796eeaf1862daf7f47dd3df9a6a3abbf442f687501c7b80af4f96d",
-  "pdf_sha256": "7cbb383159f2ee4ebcd6d35173a79a754162e2b56a2f5445aad99c0be94800b8",
+  "source_sha256": "ec85fc46b3b8d84dd4e375a1d0a53e44ba6e06e16aee3d6e9be7ea9dbce6051a",
+  "base_sha256": "a97b7388cc1ad62741e28338607131bc19f11c39b7f19f2cae18c7b48cbb2713",
+  "pdf_sha256": "1ad4b8cdd2f25f7607bcf7d03b1c3cf86e6304ac505e4388467dc1ed84699f1e",
   "limits": "Pitch uncertainties from experiment 007 remain. MIDI equality proves preservation, not accuracy or playable physical sustain."
 }

@@ -72,7 +72,7 @@
     {
       "track": 1,
       "duration_quarter_beats": 218.0,
-      "note_on_events": 553,
+      "note_on_events": 552,
       "lowest_midi_note": 36,
       "highest_midi_note": 84
     },
@@ -84,7 +84,7 @@
       "highest_midi_note": 100
     }
   ],
-  "source_sha256": "7805bece9c796eeaf1862daf7f47dd3df9a6a3abbf442f687501c7b80af4f96d",
-  "pdf_sha256": "5b43c4ddc657430711749e9f757ce5422f7f777af72c2907888753b9eb7ecf22",
+  "source_sha256": "a97b7388cc1ad62741e28338607131bc19f11c39b7f19f2cae18c7b48cbb2713",
+  "pdf_sha256": "fc18793f3d5f3f18f027d75e9832381b62db77412d9dd5a7dcef61b7888c9b1b",
   "limits": "Structural checks do not validate pitches, accidentals, slur/tie interpretation, or correspondence to the photographs. See experiment 007 review queue."
 }

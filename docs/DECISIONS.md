@@ -41,3 +41,5 @@ Guarnieri practice R5: user requested more readable digits again. Current score-
 Guarnieri R6: remove the explanatory opening page per user request. Current PDF contains four music pages; retained historical proofs preserve the guide. Added first-page header clearance for the enlarged fingerings.
 
 Guarnieri R7: remove the practice/provisional subtitle at user request. Correct expression placement locally around cross-staff beams and large digits; retain four pages and size-1.5 fingerings. Musical qualification remains in repository documentation rather than the title block.
+
+Guarnieri bars 19-20: targeted rereading corrects several pitch/register and accidental-carry errors, plus the C3 tie across the barline. Apply to both clean and fingered masters; see experiment 007 bars-19-20-review.md. Other uncertain passages remain open.

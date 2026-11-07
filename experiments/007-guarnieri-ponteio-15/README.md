@@ -50,7 +50,7 @@ Corrections made during review include accidental carry in measures 12, 16–18;
 
 | Measures | Scope | What remains to establish |
 | --- | --- | --- |
-| 19–20 | Both hands | Low ledger notes and final RH chord roots; confirm the B3 reading at the end of m. 19 and LH low chord/bass accidentals in m. 20. |
+| 19–20 | Both hands | Targeted rereading completed in R5; corrected pitches, accidental carry and C3 cross-bar tie. See [review](bars-19-20-review.md); awaiting user comparison, not independently verified. |
 | 24–31 | Both hands | Recheck complete chord spellings against local staff lines, especially m. 25 last RH chord and LH last two attacks, m. 27 high register, m. 29 final LH chord (currently B-flat3/E-flat4/A4), and the bass-clef transition at m. 30. |
 | 32–35 | Both hands | Confirm every note and accidental in the chromatic rallentando, including cancellations that remain active across repeated pitches within a bar. The layout is settled; pitch confidence is not. |
 | 51–53 | Both hands | Closing register was substantially revised using local staff-line readings. Independently confirm the LH whole-note sonorities and the precise start of the 8va, rather than relying on the MIDI range check. |
@@ -67,3 +67,7 @@ These are **structural checks only**. They do not establish pitch accuracy, tie/
 Retain the four-page geometry and cross-staff voice structure as a useful engraving experiment. Staff-level VerticalAxisGroup settings matter: changing only the PianoStaff StaffGrouper did not provide the required effective spacing in this setup. Flat forced beam coordinates were inferior to sufficient staff separation plus automatic horizontal beams.
 
 Complete the open musical review queue before calling this a finished edition. A second reading against clearer, straight-on details of printed page 12 would be especially valuable. User approval is pending. Do not describe the current proof as accepted, fully accurate, or ready for performance.
+
+## R5 - bars 19-20 correction
+
+At user request, reread only bars 19-20 against enlarged original/normalized photographs. Corrected both hands and the bass tie; see the [note-by-note review](bars-19-20-review.md). [R5 source](evidence/r5-source.ly), [R5 PDF](evidence/r5.pdf). Updated clean and fingered editions together. Four pages and zero warnings; encoding/onset checks described in the review. Other musical uncertainties remain open.
