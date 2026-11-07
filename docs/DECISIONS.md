@@ -29,3 +29,5 @@ Experiment 007 retains the accepted typography in a four-page Guarnieri Ponteio 
 ## 2026-11-07: Separate Guarnieri practice fingering
 
 Experiment 008 adds detailed fingering in a separate editable score for the user's comfortable ninth. Keep the clean master unchanged. Blue editorial digits, black existing digits; LH beside notes, RH above. A guide describes pedal-assisted bass releases and rolled spans. This is provisional: underlying transcription uncertainties remain and no piano testing was performed. Do not infer correctness or ergonomic validation from MIDI equality.
+
+Guarnieri practice-edition readability revision: user requested substantially larger fingering. Use score-local size 0 (approximately 52% larger than -3.6), preserving the accepted numeral face and all shared typography defaults. See experiment 008 R2.

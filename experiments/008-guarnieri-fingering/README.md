@@ -45,3 +45,7 @@ An initial disposable layout put all chord fingerings above the beams. It separa
 Retain the separate, fully fingered practice edition and its explicit execution guide. Resolve the substantive musical queue (19-20, 24-35, 51-53) before calling these fingerings reliable for performance. The general pattern assignments are candidates for piano trial, not certified optimal choices. User feedback on actual transitions remains necessary.
 
 Notation reference used: [LilyPond 2.26 fingering instructions](https://lilypond.org/doc/v2.26/Documentation/notation/inside-the-staff.html). The documentation supports digit placement only; it does not substantiate the musical fingering decisions.
+
+## R2 - larger digits following user feedback
+
+The user found the digits too small. Increased the score-local Fingering.font-size from the inherited -3.6 to 0, about 52% larger linearly. Both editorial and existing digits retain the accepted Engraving Fingering face. Shared styles remain unchanged. [R2 source](evidence/r2-source.ly) and [R2 PDF](evidence/r2.pdf) preserve this revision. Inspected all five music pages; no new note/accidental collisions or clipping observed. Six pages, zero compiler warnings, MIDI identical to freshly compiled base. The guide is unchanged.
