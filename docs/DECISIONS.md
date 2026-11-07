@@ -25,3 +25,7 @@ Experiment 006 retains the existing fonts and staff size in a five-page La Valse
 ## Cross-staff working proof (7 November 2026)
 
 Experiment 007 retains the accepted typography in a four-page Guarnieri Ponteio No. 15 proof. Score-local Staff VerticalAxisGroup spacing and horizontal automatic beams worked better than forced beam coordinates. The original three-page density compressed the enlarged staff gaps. This is a layout result only: unresolved chord/accidental readings are documented and prevent treating the transcription as finished. No shared style change or user acceptance is implied.
+
+## 2026-11-07: Separate Guarnieri practice fingering
+
+Experiment 008 adds detailed fingering in a separate editable score for the user's comfortable ninth. Keep the clean master unchanged. Blue editorial digits, black existing digits; LH beside notes, RH above. A guide describes pedal-assisted bass releases and rolled spans. This is provisional: underlying transcription uncertainties remain and no piano testing was performed. Do not infer correctness or ergonomic validation from MIDI equality.
