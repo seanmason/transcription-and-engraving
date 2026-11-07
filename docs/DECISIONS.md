@@ -33,3 +33,5 @@ Experiment 008 adds detailed fingering in a separate editable score for the user
 Guarnieri practice-edition readability revision: user requested substantially larger fingering. Use score-local size 0 (approximately 52% larger than -3.6), preserving the accepted numeral face and all shared typography defaults. See experiment 008 R2.
 
 Guarnieri practice layout R3: use four systems per full music page, retaining the larger digits. Final page has the remaining three systems without vertical justification. Four music pages plus one guide page; supersedes the overly spacious three-system layout.
+
+Guarnieri practice R4: tighter bass/treble spacing (basic 17, minimum 15 staff spaces, stretchability 0) replaces the over-conservative 23/21 setting. Resolve expression collisions with local offsets, not global extra space. Four-system pagination and larger digits retained; all music pages visually reviewed.

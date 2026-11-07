@@ -22,14 +22,15 @@
 }
 \layout {
  \context { \PianoStaff
-  \override StaffGrouper.staff-staff-spacing.basic-distance = #20
-  \override StaffGrouper.staff-staff-spacing.minimum-distance = #18
+  \override StaffGrouper.staff-staff-spacing.basic-distance = #17
+  \override StaffGrouper.staff-staff-spacing.minimum-distance = #15
   \override StaffGrouper.staff-staff-spacing.padding = #3
  }
  \context { \Staff
-  \override VerticalAxisGroup.staff-staff-spacing.basic-distance = #23
-  \override VerticalAxisGroup.staff-staff-spacing.minimum-distance = #21
+  \override VerticalAxisGroup.staff-staff-spacing.basic-distance = #17
+  \override VerticalAxisGroup.staff-staff-spacing.minimum-distance = #15
   \override VerticalAxisGroup.staff-staff-spacing.padding = #2
+  \override VerticalAxisGroup.staff-staff-spacing.stretchability = #0
   \override TimeSignature.style = #'numbered
   \override TimeSignature.break-visibility = #end-of-line-invisible
   \override NoteCollision.merge-differently-dotted = ##t
@@ -133,7 +134,7 @@ figuration = {
  \down <aes-4 ces'-2 ees'-1>8[ \up g'8-1( \up <ces''-2 ees''-5>8) \down <bes-4 d'-2 g'-1>8] \up a'8-1[( \up <d''-2 f''-5>8])  | \barNumberCheck #36
  \break \noPageBreak
  % Measure 36
- \time 2/2 \down <a-5 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-5 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <c'-2 d'-1>8 \up <dis'-1 ais'-3 dis''-5>8]  | \barNumberCheck #37
+ \time 2/2 \down <a-5 b-3 e'-1>8[ \up e'8-1(-\tweak extra-offset #'(-5.5 . 3) ^\markup \italic "a tempo" \up <b'-2 e''-5>8) \down <a-5 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <c'-2 d'-1>8 \up <dis'-1 ais'-3 dis''-5>8]  | \barNumberCheck #37
  % Measure 37
  \down <a-4 b-3 e'-1>8[ \up e'8-1( \up <b'-2 e''-5>8) \down <a-4 b-3 e'-1>8] \up e'8-1[( \up <b'-2 e''-5>8) \down <a-5 b-4 g'-\tweak color #black -2>8 \up <a'-1 e''-3 a''-5>8]  | \barNumberCheck #38
  % Measure 38
@@ -316,9 +317,11 @@ expression = {
  % Measure 11
  s4 s4\! s2 |
  % Measure 12
- \override Hairpin.extra-offset = #'(0 . -1.2)
+ \override Hairpin.extra-offset = #'(0 . -0.3)
+ 
  s8 s2\< s8\! s8 s2\> s8\! |
  % Measure 13
+ \override Hairpin.extra-offset = #'(0 . -1.2)
  s1 |
  % Measure 14
  s1 |
@@ -367,10 +370,12 @@ expression = {
  % Measure 35
  s2. |
  % Measure 36
- \once \override TextScript.extra-offset = #'(0 . 2) s1\!\f^\markup \italic "a tempo" |
+ s1\!\f |
  % Measure 37
+ \override Hairpin.extra-offset = #'(0 . -0.3)
  s4 s2\< s4\> |
  % Measure 38
+ \override Hairpin.extra-offset = #'(0 . -1.2)
  s4 s4\! s2 |
  % Measure 39
  s1 |
@@ -395,8 +400,10 @@ expression = {
  \override Hairpin.extra-offset = #'(0 . -1.2)
  s1 |
  % Measure 49
+ \override Hairpin.extra-offset = #'(0 . -0.3)
  s8 s4\< s8\! s4\> s4\! |
  % Measure 50
+ \override Hairpin.extra-offset = #'(0 . -1.2)
  s1 |
  % Measure 51
  s2 s2\cresc |

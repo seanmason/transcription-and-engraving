@@ -53,3 +53,9 @@ The user found the digits too small. Increased the score-local Fingering.font-si
 ## R3 - four systems per page
 
 User requested less empty space. Replaced the three-system pagination with four systems on each full music page and three on the final page; the final page remains ragged-bottom rather than spreading its systems. Larger size-0 fingerings, staff size and staff separation are unchanged. Five PDF pages total including the guide. [R3 source](evidence/r3-source.ly) and [R3 PDF](evidence/r3.pdf) preserve the revised layout. Inspected all four music pages: inter-system digits remain separated, and no new collisions or clipping observed. Warning-free build; MIDI identical to the freshly compiled base. Updated the builder page-count assertion. Musical/fingering uncertainties remain unchanged.
+
+## R4 - tighter grand-staff spacing
+
+User requested reducing the excessive bass/treble gap and a visual check. Reduced Staff VerticalAxisGroup basic/minimum distances from 23/21 to 17/15 staff spaces, aligned StaffGrouper settings, and set intra-staff stretchability to 0 so page justification does not inflate this gap. Retained four systems on full pages, size-0 fingerings, and the guide.
+
+Inspected every music page. The first compact proof exposed crowding at a tempo and hairpins near LH digits. Raised hairpins locally in bars 12, 37 and 49; moved a tempo above the treble staff and offset it clear of the first fingering stack. Re-rendered and inspected the affected pages after corrections. A discarded rehearsal-mark implementation added a MIDI marker and failed byte equality; final text-script placement preserves MIDI exactly. Final build: five pages, zero warnings, MIDI byte-identical to the clean base. [R4 source](evidence/r4-source.ly), [R4 PDF](evidence/r4.pdf). No new page clipping or expression/fingering collisions observed in the final proof. Musical uncertainties unchanged.
