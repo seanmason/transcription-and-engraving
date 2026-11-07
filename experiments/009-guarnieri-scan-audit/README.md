@@ -48,3 +48,9 @@ The old transcription contained many substantive errors. Corrections affect musi
 ## Decision and next action
 
 Use this scan-audited pair as the current working editions. Supersede the broad photograph-era pitch queue with the specific qualifications above. Seek another authoritative source for the bar 32 dot and a pianist's trial for detailed fingering; do not turn successful compilation into a claim of perfect accuracy. Preserve older proofs unchanged so that further corrections can be traced.
+
+## R2: fingered delivery and layout review
+
+2026-11-07. Rebuilt the detailed practice edition for delivery after the scan audit. Retained all existing large fingerings and musical corrections. Added top-system clearance for the high fingerings on continuation pages; moved bar 34 e rall. above its beam after the spacing change. Inspected all four final page renders for clipping, fingering/accidental readability, expression marks and the ending. No further overlaps were apparent at review scale. Four pages, zero compiler warnings, 106 bar checks and MIDI byte-identical to the freshly compiled clean master. Fingering is still not piano-tested; R1 transcription qualifications remain.
+
+Preserved [source](evidence/r2-fingered.ly), [PDF](evidence/r2-fingered.pdf) and [validation](validation-r2-fingered.json).

@@ -12,6 +12,9 @@
 }
 \paper {
  print-page-number = ##t
+ % Cross-staff fingerings extend above the staff's default top extent.
+ top-system-spacing.minimum-distance = #12
+ top-system-spacing.padding = #0
  markup-system-spacing.basic-distance = #24
  markup-system-spacing.minimum-distance = #20
  markup-system-spacing.padding = #8
@@ -371,7 +374,7 @@ expression = {
  \once \override DynamicTextSpanner.extra-offset = #'(1.8 . -1.2)
  s2. s4\cresc |
  % Measure 34
- s2.^\markup \italic "e rall." |
+ s2.-\tweak extra-offset #'(0 . 1.2) ^\markup \italic "e rall." |
  % Measure 35
  s2.\!\< |
  % Measure 36

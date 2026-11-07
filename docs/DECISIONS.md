@@ -47,3 +47,5 @@ Guarnieri bars 19-20: targeted rereading corrects several pitch/register and acc
 ## 2026-11-07: Guarnieri full scan audit
 
 Experiment 009 supersedes the photograph-based musical queue after comparing every bar with the new scan. Adopt the corrected clean/fingered masters; keep the established typography, four-page layout and large digits. Count actual ledger lines, and apply accidentals across voices within a staff before deciding whether a same-position curve is a tie. Bar 32 has an unresolved dot; bar 39's isolated dot is read as staccato with lower confidence. Record these editorial limits outside the score title. No claim of independent certification or piano-tested fingering.
+
+- 2026-11-07: Guarnieri 009 R2 is the current fingered practice proof: retain large digits/four pages, add continuation-page top clearance and locally clear bar 34 e rall. from its beam. Musical content matches the audited clean edition.
