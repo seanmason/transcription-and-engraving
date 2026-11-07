@@ -75,3 +75,7 @@ User reported awkward overlaps and requested removing the provisional subtitle. 
 ## R8 - bars 19-20 transcription correction
 
 Synchronized pitches and C3 cross-bar tie with experiment 007 R5. Retained the finger assignments after reviewing the corrected chord shapes. See [targeted review](../007-guarnieri-ponteio-15/bars-19-20-review.md). [R8 source](evidence/r8-source.ly), [R8 PDF](evidence/r8.pdf). Corrected system visually compared with the photograph; four-page layout retained, warning-free, MIDI identical to corrected clean master. Remaining transcription uncertainties unchanged.
+
+## Superseding full scan audit
+
+Experiment [009](../009-guarnieri-scan-audit/README.md) audits all 53 measures against the new, clearer scan and updates both current masters/PDFs. Earlier named proofs remain historical. See its measure ledger for corrections, the unresolved bar 32 dot and the less-certain bar 39 articulation. Fingering is still not piano-tested.

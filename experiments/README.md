@@ -8,8 +8,8 @@
 | [004](004-shostakovich-full/README.md) | Does the style work on a complete fresh transcription? | Two-page score, five review passes; accepted as a useful current result. |
 | [005](005-elfin-dance/README.md) | Does the established style handle Grieg's Elfin Dance? | Complete 72-measure transcription, four proof rounds, two-page result; awaiting user review. |
 | [006](006-la-valse-d-amelie/README.md) | Can the style handle sustained melody over figuration and a longer score? | Complete 136-measure transcription, four proof rounds, five-page result; awaiting user review. |
-| [007](007-guarnieri-ponteio-15/README.md) | Can the style handle Guarnieri’s cross-staff writing from photographs? | Four-page working proof; effective staff spacing resolves beam warnings. Musical accuracy unresolved; explicit review queue. |
-
-| [008](008-guarnieri-fingering/README.md) | Can detailed fingering clarify the interlocking voices? | Four-page provisional practice edition; blue editorial digits, bass-release guidance; musical uncertainties and piano trial remain open. |
+| [007](007-guarnieri-ponteio-15/README.md) | Can the style handle Guarnieri’s cross-staff writing from photographs? | Four-page working proof; effective staff spacing resolves beam warnings. Historical photo-based reading; superseded by the full scan audit in 009. |
+| [008](008-guarnieri-fingering/README.md) | Can detailed fingering clarify the interlocking voices? | Four-page provisional practice edition; blue editorial digits, bass-release guidance; underlying music revised in 009; piano trial remains open. |
+| [009](009-guarnieri-scan-audit/README.md) | What does a full measure-by-measure audit against the clearer scan correct? | Musical corrections in 39 bars; both editions synchronized, all pages inspected; bar 32 dot unresolved and bar 39 articulation less certain. |
 
 New studies use the next numeric ID and the [template](_template/README.md). Record hypotheses, exact source/master, controlled variables, build command, visual evidence, musical checks, user feedback, limitations and next action. Preserve failed approaches when they explain a decision. Do not retroactively describe the current font as the font used in an older trial.

@@ -96,5 +96,12 @@
     "bytes": 1198408,
     "availability": "local cache, not tracked",
     "source": "User-supplied Photo 1.jpg, printed page 13; received 2026-11-07; Guarnieri Ponteio No. 15, plate RB-0132"
+  },
+  {
+    "path": "references/guarnieri-ponteio-15-hq.pdf",
+    "sha256": "3058f5c71ca38964007bfaf0c98b9e279154991131bb1414097a57636413eff0",
+    "bytes": 4730037,
+    "availability": "local cache, not tracked",
+    "source": "User-supplied higher-quality Guarnieri Ponteio No 15.pdf, received 2026-11-07; 3 pages, printed 11-13, plate RB-0132; supersedes photographs for experiment 009 audit"
   }
 ]

@@ -21,7 +21,7 @@ An ongoing study of beautiful, reproducible solo-piano engraving from scanned sc
 | [Shostakovich complete](output/pdf/shostakovich-op34-no16-reengraved.pdf) | Op. 34 No. 16, pickup and 31 measures | Fresh transcription, five review passes; user response: “Well done” |
 | [Elfin Dance complete](output/pdf/elfin-dance-reengraved.pdf) | Grieg, 72 measures | Fresh transcription, four proof rounds; awaiting user review |
 | [La Valse d'Amelie complete](output/pdf/la-valse-d-amelie-reengraved.pdf) | 136 measures, five pages | Fresh transcription, four proof rounds; awaiting user review |
-| [Guarnieri Ponteio No. 15 — working proof](output/pdf/guarnieri-ponteio-15-reengraved.pdf) | 53 measures, four pages, cross-staff figuration | Musical readings unresolved; see experiment 007 review queue |
+| [Guarnieri Ponteio No. 15 — working proof](output/pdf/guarnieri-ponteio-15-reengraved.pdf) | 53 measures, four pages, cross-staff figuration | All 53 measures audited against the clearer scan; corrections and source-mark limits in [experiment 009](experiments/009-guarnieri-scan-audit/README.md) |
 
 The earlier [Shostakovich recovery](experiments/003-shostakovich-recovery/README.md) is incomplete and superseded. It must not be treated as the complete score.
 

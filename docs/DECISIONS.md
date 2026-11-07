@@ -43,3 +43,7 @@ Guarnieri R6: remove the explanatory opening page per user request. Current PDF 
 Guarnieri R7: remove the practice/provisional subtitle at user request. Correct expression placement locally around cross-staff beams and large digits; retain four pages and size-1.5 fingerings. Musical qualification remains in repository documentation rather than the title block.
 
 Guarnieri bars 19-20: targeted rereading corrects several pitch/register and accidental-carry errors, plus the C3 tie across the barline. Apply to both clean and fingered masters; see experiment 007 bars-19-20-review.md. Other uncertain passages remain open.
+
+## 2026-11-07: Guarnieri full scan audit
+
+Experiment 009 supersedes the photograph-based musical queue after comparing every bar with the new scan. Adopt the corrected clean/fingered masters; keep the established typography, four-page layout and large digits. Count actual ledger lines, and apply accidentals across voices within a staff before deciding whether a same-position curve is a tie. Bar 32 has an unresolved dot; bar 39's isolated dot is read as staccato with lower confidence. Record these editorial limits outside the score title. No claim of independent certification or piano-tested fingering.

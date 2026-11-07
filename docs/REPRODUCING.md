@@ -84,4 +84,4 @@ Handwritten master: `scores/la-valse-d-amelie.ly`. Same LilyPond/fonts/Poppler d
 .tools/venv/bin/python render_guarnieri_ponteio_15.py
 ```
 
-Master: `scores/guarnieri-ponteio-15.ly`. Four pages, cross-staff figuration, independent bass. Same LilyPond/font/Poppler dependencies as the earlier scores. Source photographs are not needed to rebuild. Structural checks pass; unresolved musical readings are listed in experiment 007.
+Master: `scores/guarnieri-ponteio-15.ly`. Four pages, cross-staff figuration, independent bass. Same LilyPond/font/Poppler dependencies as the earlier scores. Source photographs are not needed to rebuild. Structural checks pass. All measures were audited against the newer scan in experiment 009; its source-mark qualifications remain. The practice edition builds with `.tools/venv/bin/python render_guarnieri_fingered.py`.

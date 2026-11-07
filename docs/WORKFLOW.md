@@ -13,7 +13,7 @@
 - Shared geometry and type settings: `styles/`, `fonts/`.
 - Initial fixture masters: `scores/lyrical.musicxml`, `scores/dense.musicxml` (normal builds preserve them).
 - Chopin musical master: `chopin_study.py` (recreates exported MusicXML/native files).
-- Guarnieri working master (musical review open): `scores/guarnieri-ponteio-15.ly`.
+- Guarnieri scan-audited working master (specific source-mark limits in experiment 009): `scores/guarnieri-ponteio-15.ly`.
 - La Valse d'Amelie master: `scores/la-valse-d-amelie.ly`.
 - Elfin Dance master: `scores/elfin-dance.ly`.
 - Full Shostakovich master: `scores/shostakovich-op34-no16-new.ly`.
@@ -25,3 +25,7 @@ Raw scans, full reference previews, runtimes and disposable proofs stay local. `
 ## Polyphonic and repeated-phrase review (experiment 006)
 
 Read each note against its local staff lines in warped scans. Preserve sustained melody durations separately from moving figuration, and inspect both the engraving and MIDI duration of shared-pitch voices. Do not infer accompaniment changes from repeated melody shapes: Amelie's last variation retains a D/A bass cycle where an earlier section changes to F/C. Voice-direction commands can reset fingering direction; set the intended direction afterward and explicitly configure implicit chord voices.
+
+## Ledger lines and accidental scope (experiment 009)
+
+Historical engraving may expand ledger spacing independently of staff spacing. Count ledger lines at each chord; do not extrapolate a global pitch grid through a warped photograph or beyond a staff. Check accidental carry across all voices in a staff, not just the current melodic layer. A curved connection between equal staff positions can be a slur if an intervening accidental changes the second pitch. Record ambiguous printed dots separately from notehead readings.

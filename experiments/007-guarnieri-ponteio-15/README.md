@@ -71,3 +71,7 @@ Complete the open musical review queue before calling this a finished edition. A
 ## R5 - bars 19-20 correction
 
 At user request, reread only bars 19-20 against enlarged original/normalized photographs. Corrected both hands and the bass tie; see the [note-by-note review](bars-19-20-review.md). [R5 source](evidence/r5-source.ly), [R5 PDF](evidence/r5.pdf). Updated clean and fingered editions together. Four pages and zero warnings; encoding/onset checks described in the review. Other musical uncertainties remain open.
+
+## Superseding full scan audit
+
+Experiment [009](../009-guarnieri-scan-audit/README.md) audits all 53 measures against the new, clearer scan and updates both current masters/PDFs. Earlier named proofs remain historical. See its measure ledger for corrections, the unresolved bar 32 dot and the less-certain bar 39 articulation. Fingering is still not piano-tested.

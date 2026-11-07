@@ -1,0 +1,535 @@
+{
+  "basis": "Extracted from the manually audited final master; not independently entered ground truth",
+  "events": [
+    {
+      "measure": 1,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[^> \\up e'8(_> \\up <b' e''>8)_> \\down <a b e'>8]^> \\up e'8[(_> \\up <b' e''>8)_> \\down <c' d'>8^> \\up <dis' ais' dis''>8]_>  | \\barNumberCheck #2"
+    },
+    {
+      "measure": 2,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[^> \\up e'8(_> \\up <b' e''>8)_> \\down <a b e'>8]^> \\up e'8[(_> \\up <b' e''>8)_> \\down <a b g'>8-2^> \\up <a' e'' a''>8]_>  | \\barNumberCheck #3"
+    },
+    {
+      "measure": 3,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <c' d'>8 \\up <d' a' d''>8]  | \\barNumberCheck #4"
+    },
+    {
+      "measure": 4,
+      "voice": "figuration",
+      "lilypond": "\\down <a b>8[ \\up b8( \\up <f' b'>8) \\down <a b>8] \\up b8[( \\up <f' b'>8) \\down <a cis'>8 \\up <d' a' d''>8]  | \\barNumberCheck #5"
+    },
+    {
+      "measure": 5,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <c' d'>8 \\up <dis' ais' dis''>8]  | \\barNumberCheck #6"
+    },
+    {
+      "measure": 6,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <c' d' g'>8] \\up gis'8[( \\up <dis'' gis''>8) \\down \\clef treble <d' e' a'>8 \\up <ais' e'' ais''>8]  | \\barNumberCheck #7"
+    },
+    {
+      "measure": 7,
+      "voice": "figuration",
+      "lilypond": "\\down <f' g' b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' ais'>8] \\up b'8[( \\up <f'' b''>8) \\down <fes' ges' c''>8 \\up <d'' aes'' d'''>8]  | \\barNumberCheck #8"
+    },
+    {
+      "measure": 8,
+      "voice": "figuration",
+      "lilypond": "\\down <f'! g'! b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' ais'>8] \\up b'8[( \\up <f'' b''>8) \\down <e' aes' d''>8-2 \\up <c'' g'' c'''>8]  | \\barNumberCheck #9"
+    },
+    {
+      "measure": 9,
+      "voice": "figuration",
+      "lilypond": "\\down <f' g' b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' c''>8] \\up b'8[( \\up <f'' b''>8) \\down <e' f' a'>8 \\up <g' d'' g''>8]  | \\barNumberCheck #10"
+    },
+    {
+      "measure": 10,
+      "voice": "figuration",
+      "lilypond": "\\down <c' d' f'>8[ \\up f'8( \\up <c'' f''>8) \\down <c' d' e'>8] \\up f'8[( \\up <c'' f''>8) \\down <c' d' g'>8 \\up <f' c'' f''>8]  | \\barNumberCheck #11"
+    },
+    {
+      "measure": 11,
+      "voice": "figuration",
+      "lilypond": "\\down <b c' e'>8[ \\up e'8( \\up <b' e''>8) \\down <c' d' g'>8] \\up g'8[( \\up <d'' g''>8) \\down <a c' e'>8 \\up <e' b' e''>8]  | \\barNumberCheck #12"
+    },
+    {
+      "measure": 12,
+      "voice": "figuration",
+      "lilypond": "\\time 3/2 \\down \\clef bass <bes c' ees'>8[ \\up ees'8( \\up <bes' ees''>8) \\down <bes c' e'!>8] \\up f'8[( \\up <c'' f''>8) \\down <c' d' g'>8-2 \\up f'8]( \\up <c'' f''>8[) \\down <bes c' d'>8 \\up ees'8( \\up <bes' ees''>8])  | \\barNumberCheck #13"
+    },
+    {
+      "measure": 13,
+      "voice": "figuration",
+      "lilypond": "\\time 2/2 \\down <b! c' e'>8[ \\up e'!8( \\up <b'! e''!>8) \\down <c' d' gis'>8] \\up a'8[( \\up <e'' a''>8) \\down <bes c' g'!>8 \\up <e' b' e''>8]  | \\barNumberCheck #14"
+    },
+    {
+      "measure": 14,
+      "voice": "figuration",
+      "lilypond": "\\down <aes c' ees'>8[ \\up ees'8( \\up <bes' ees''>8) \\down <aes c' d'>8] \\up ees'8[( \\up <bes' ees''>8) \\down <c' ees' f'>8 \\up <g' d'' g''>8]  | \\barNumberCheck #15"
+    },
+    {
+      "measure": 15,
+      "voice": "figuration",
+      "lilypond": "\\down <aes c' ees'>8[ \\up f'8( \\up <c'' f''>8) \\down <b c' aes'>8] \\up g'8[( \\up <d'' g''>8) \\down <g c' f'>8 \\up <ees' bes' ees''>8]  | \\barNumberCheck #16"
+    },
+    {
+      "measure": 16,
+      "voice": "figuration",
+      "lilypond": "\\down <aes c' d'>8[ \\up d'8( \\up <aes' d''>8) \\down <bes c' g'>8] \\up f'8[( \\up <c'' f''>8) \\down <aes c' d'>8 \\up <ees' bes' ees''>8]  | \\barNumberCheck #17"
+    },
+    {
+      "measure": 17,
+      "voice": "figuration",
+      "lilypond": "\\down <g aes c'>8[ \\up c'8( \\up <g' c''>8) \\down <g aes ees'>8] \\up d'8[( \\up <aes' d''>8) \\down <g aes c'>8 \\up <bes f' bes'>8]  | \\barNumberCheck #18"
+    },
+    {
+      "measure": 18,
+      "voice": "figuration",
+      "lilypond": "\\time 3/2 \\down <f aes c'>8[ \\up d'8( \\up <aes' d''>8) \\down <g aes ees'>8] \\up f'8[( \\up <c'' f''>8) \\down <g aes ees'>8-2 \\up d'8]( \\up <aes' d''>8[) \\down <f aes c'>8 \\up b!8( \\up <e'! b'!>8])  | \\barNumberCheck #19"
+    },
+    {
+      "measure": 19,
+      "voice": "figuration",
+      "lilypond": "\\time 2/2 \\down <f g bes>8[ \\up bes8( \\up <f' bes'>8) \\down <f g c'>8] \\up g8[( \\up <d' g'>8) \\down <des f aes>8 \\up <bes f' bes'>8]  | \\barNumberCheck #20"
+    },
+    {
+      "measure": 20,
+      "voice": "figuration",
+      "lilypond": "\\down <d f aes>8[ \\up aes8( \\up <ees' aes'>8) \\down <des e g>8] \\up g8[( \\up <c' g'>8) \\down <aes, des ees>8 \\up <f c' f'>8]  | \\barNumberCheck #21"
+    },
+    {
+      "measure": 21,
+      "voice": "figuration",
+      "lilypond": "\\down <d, g, c>8_>[ \\up e8( \\up < b e'>8) \\down <a, d g>8_>] \\up b8[( \\up <fis' b'>8) \\down <e a d'>8_> \\up <cis' gis' cis''>8]  | \\barNumberCheck #22"
+    },
+    {
+      "measure": 22,
+      "voice": "figuration",
+      "lilypond": "\\time 3/2 \\down <d g! b!>8_>[ \\up e'8( \\up <b' e''>8) \\down <g c' f'>8_>] \\up a'8[( \\up <e'' a''>8) \\down \\clef treble <c' f' b'>8_> \\up c''8]( \\up <g'' c'''>8[) \\down <e' a' d''>8_> \\up dis''8( \\up <ais'' dis'''>8])  | \\barNumberCheck #23"
+    },
+    {
+      "measure": 23,
+      "voice": "figuration",
+      "lilypond": "\\time 2/2 \\down <f' b' e''>8[ \\up e''8( \\up <b'' e'''>8) \\down <f' b' e''>8] \\up e''8[( \\up <b'' e'''>8) \\down <g' a' d''>8 \\up <dis'' ais'' dis'''>8]  | \\barNumberCheck #24"
+    },
+    {
+      "measure": 24,
+      "voice": "figuration",
+      "lilypond": "\\down <f' b' e''>8[ \\up e''8( \\up <b'' e'''>8) \\down <f' b' e''>8] \\up e''8[( \\up <b'' e'''>8) \\down <a' d''? g''>8-2 \\up <a'' e''' a'''>8]  | \\barNumberCheck #25"
+    },
+    {
+      "measure": 25,
+      "voice": "figuration",
+      "lilypond": "\\down <g' e''>8[ \\up e''8( \\up <b'' e'''>8) \\down <d' e' a'>8] \\up b'8[( \\up <f'' b''>8) \\down <d' g' c''>8-2 \\up <c'' g'' c'''>8]  | \\barNumberCheck #26"
+    },
+    {
+      "measure": 26,
+      "voice": "figuration",
+      "lilypond": "\\down <ees' g' a'>8[ \\up a'8( \\up <e''? a''>8) \\down <ees' g' b'>8] \\up c''8[( \\up <g'' c'''>8) \\down <e'? a' d''>8-2 \\up <dis'' ais'' dis'''>8]  | \\barNumberCheck #27"
+    },
+    {
+      "measure": 27,
+      "voice": "figuration",
+      "lilypond": "\\down <f' b' e''>8[ \\up e''8( \\up <b'' e'''>8) \\down <f' b' dis''>8] \\up e''8[( \\up <a'' e'''>8) \\down <a' dis'' g''>8-2 \\up <a'' e''' a'''>8]  | \\barNumberCheck #28"
+    },
+    {
+      "measure": 28,
+      "voice": "figuration",
+      "lilypond": "\\down <f' b' e''>8[ \\up e''8( \\up <b'' e'''>8) \\down <f' a' cis''>8] \\up d''8[( \\up <a'' d'''>8) \\down <f' aes' ees''>8-2 \\up <ees'' bes'' ees'''>8]  | \\barNumberCheck #29"
+    },
+    {
+      "measure": 29,
+      "voice": "figuration",
+      "lilypond": "\\down <f' aes' ces''>8[ \\up c''8( \\up <g'' c'''>8) \\down <c' ees' aes'>8] \\up g'8[( \\up <d'' g''>8) \\down <ces' ees' aes'>8 \\up <bes' es'' bes''>8]  | \\barNumberCheck #30"
+    },
+    {
+      "measure": 30,
+      "voice": "figuration",
+      "lilypond": "\\down \\clef bass <ces' ees' aes'>8[ \\up aes'8( \\up <ees'' aes''>8) \\down <ges c'! f'>8] \\up des'8[( \\up <aes' des''>8) \\down <fes aes ees'>8-2 \\up <f' c'' f''>8]  | \\barNumberCheck #31"
+    },
+    {
+      "measure": 31,
+      "voice": "figuration",
+      "lilypond": "\\down <f! aes c'!>8[ \\up d'!8( \\up <aes' d''!>8) \\down <e! g b!>8] \\up c'8[( \\up <g' c''>8) \\down <ees a d'>8 \\up <ees' bes' ees''>8]  | \\barNumberCheck #32"
+    },
+    {
+      "measure": 32,
+      "voice": "figuration",
+      "lilypond": "\\time 3/2 \\down <f aes c'>8[ \\up ees'8( \\up <bes' ees''>8) \\down <g c' f'>8] \\up g'8[( \\up <d'' g''>8) \\down <bes ees' aes'>8 \\up g'8]( \\up <d'' g''>8[) \\down <g c' f'>8 \\up ees'8( \\up <bes' ees''>8])  | \\barNumberCheck #33"
+    },
+    {
+      "measure": 33,
+      "voice": "figuration",
+      "lilypond": "\\time 2/2 \\down <f! aes d'!>8[ \\up e'!8( \\up <bes' e''!>8) \\down <a! d' g'>8] \\up f'8[( \\up <c'' f''>8) \\down <f bes ees'>8 \\up <e' bes' e''>8]  | \\barNumberCheck #34"
+    },
+    {
+      "measure": 34,
+      "voice": "figuration",
+      "lilypond": "\\time 3/4 \\down <fes aes d'>8[ \\up e'!8( \\up <bes' e''!>8) \\down <aes d' g'>8] \\up f'8[( \\up <c'' f''>8])  | \\barNumberCheck #35"
+    },
+    {
+      "measure": 35,
+      "voice": "figuration",
+      "lilypond": "\\down <ges bes e'>8[ \\up e'8( \\up <bes' e''>8) \\down <aes d' g'>8] \\up f'8[( \\up <c'' f''>8])  | \\barNumberCheck #36"
+    },
+    {
+      "measure": 36,
+      "voice": "figuration",
+      "lilypond": "\\time 2/2 \\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <c' d'>8 \\up <dis' ais' dis''>8]  | \\barNumberCheck #37"
+    },
+    {
+      "measure": 37,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <a b g'>8-2 \\up <a' e'' a''>8]  | \\barNumberCheck #38"
+    },
+    {
+      "measure": 38,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <c' d'>8 \\up <d' a' d''>8]  | \\barNumberCheck #39"
+    },
+    {
+      "measure": 39,
+      "voice": "figuration",
+      "lilypond": "\\down <a b>8[ \\up b8( \\up <f' b'>8) \\down <a b>8-.] \\up b8[( \\up <f' b'>8) \\down <a cis'>8 \\up <d' a' d''>8]  | \\barNumberCheck #40"
+    },
+    {
+      "measure": 40,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <a b e'>8] \\up e'8[( \\up <b' e''>8) \\down <c' d'>8 \\up <dis' ais' dis''>8]  | \\barNumberCheck #41"
+    },
+    {
+      "measure": 41,
+      "voice": "figuration",
+      "lilypond": "\\down <a b e'>8[ \\up e'8( \\up <b' e''>8) \\down <c' d' g'>8] \\up gis'8[( \\up <dis'' gis''>8) \\down \\clef treble <d' e' a'>8 \\up <ais' e'' ais''>8]  | \\barNumberCheck #42"
+    },
+    {
+      "measure": 42,
+      "voice": "figuration",
+      "lilypond": "\\down <f' g' b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' ais'>8] \\up b'8[( \\up <f'' b''>8) \\down <fes' ges' c''>8 \\up <d'' aes'' d'''>8]  | \\barNumberCheck #43"
+    },
+    {
+      "measure": 43,
+      "voice": "figuration",
+      "lilypond": "\\down <f'! g'! b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' ais'>8] \\up b'8[( \\up <f'' b''>8) \\down <e' aes' d''>8-2 \\up <c'' g'' c'''>8]  | \\barNumberCheck #44"
+    },
+    {
+      "measure": 44,
+      "voice": "figuration",
+      "lilypond": "\\down <f' g' b'>8[ \\up b'8( \\up <f'' b''>8) \\down <f' g' c''>8] \\up b'8[( \\up <f'' b''>8) \\down <e' f' a'>8 \\up <g' d'' g''>8]  | \\barNumberCheck #45"
+    },
+    {
+      "measure": 45,
+      "voice": "figuration",
+      "lilypond": "\\down <c' d' f'>8[ \\up f'8( \\up <c'' f''>8) \\down <c' d' e'>8] \\up f'8[( \\up <c'' f''>8) \\down <c' d' g'>8 \\up <f' c'' f''>8]  | \\barNumberCheck #46"
+    },
+    {
+      "measure": 46,
+      "voice": "figuration",
+      "lilypond": "\\down <b c' e'>8[ \\up e'8( \\up <b' e''>8) \\down <c' d' g'>8] \\up g'8[( \\up <d'' g''>8) \\down <a c' e'>8 \\up <e' b' e''>8]  | \\barNumberCheck #47"
+    },
+    {
+      "measure": 47,
+      "voice": "figuration",
+      "lilypond": "\\down <b c' e'!>8[ \\up e'8( \\up <b' e''>8) \\down <b c' g'>8] \\up a'8[( \\up <e'' a''>8) \\down <b c' g'>8 \\up <e' b' e''>8]  | \\barNumberCheck #48"
+    },
+    {
+      "measure": 48,
+      "voice": "figuration",
+      "lilypond": "\\down \\clef bass <a b f'>8[ \\up f'8( \\up <c'' f''>8) \\down <a bes g'>8] \\up g'8[( \\up <d'' g''>8) \\down <a b! f'>8 \\up <dis' ais' dis''>8]  | \\barNumberCheck #49"
+    },
+    {
+      "measure": 49,
+      "voice": "figuration",
+      "lilypond": "\\down <b c' e'>8[ \\up e'8( \\up <b' e''>8) \\down <b c' g'>8] \\up a'8[( \\up <e'' a''>8) \\down <b c' g'>8 \\up <e' b' e''>8]  | \\barNumberCheck #50"
+    },
+    {
+      "measure": 50,
+      "voice": "figuration",
+      "lilypond": "\\down <a b f'>8[ \\up f'8( \\up <c'' f''>8) \\down <aes b! g'>8] \\up g'8[( \\up <d'' g''>8) \\down <a! b f'>8 \\up <d' a' d''>8]  | \\barNumberCheck #51"
+    },
+    {
+      "measure": 51,
+      "voice": "figuration",
+      "lilypond": "\\up b8-2([ c'8-1 <e' c''>8) \\down <a d' g'>8] \\up a'8[( <e'' a''>8) \\down \\clef treble <b e' ais'>8 \\up b'8-2(] | \\barNumberCheck #52"
+    },
+    {
+      "measure": 52,
+      "voice": "figuration",
+      "lilypond": "\\up c''8-1[ <e'' c'''>8) \\down <a' d'' g''>8 \\up a''8(] <e''' a'''>8[) \\down <cis'' fis'' b''>8 \\up \\ottava #1 d''''8~ <a''' d''''>8] | \\barNumberCheck #53"
+    },
+    {
+      "measure": 53,
+      "voice": "figuration",
+      "lilypond": "\\up <e''' b''' e''''>1->^\\fermata \\ottava #0 | \\barNumberCheck #54"
+    },
+    {
+      "measure": 1,
+      "voice": "bassLine",
+      "lilypond": "f2.-> g4->( | \\barNumberCheck #2"
+    },
+    {
+      "measure": 2,
+      "voice": "bassLine",
+      "lilypond": "f2.) d4->( | \\barNumberCheck #3"
+    },
+    {
+      "measure": 3,
+      "voice": "bassLine",
+      "lilypond": "f2.) g4->( | \\barNumberCheck #4"
+    },
+    {
+      "measure": 4,
+      "voice": "bassLine",
+      "lilypond": "f2.) d4->( | \\barNumberCheck #5"
+    },
+    {
+      "measure": 5,
+      "voice": "bassLine",
+      "lilypond": "f2.) g4->( | \\barNumberCheck #6"
+    },
+    {
+      "measure": 6,
+      "voice": "bassLine",
+      "lilypond": "f2.) \\clef treble d'4->( | \\barNumberCheck #7"
+    },
+    {
+      "measure": 7,
+      "voice": "bassLine",
+      "lilypond": "ees'2.) d'4->~ | \\barNumberCheck #8"
+    },
+    {
+      "measure": 8,
+      "voice": "bassLine",
+      "lilypond": "d'2. c'4->( | \\barNumberCheck #9"
+    },
+    {
+      "measure": 9,
+      "voice": "bassLine",
+      "lilypond": "des'2.) b!4->( | \\barNumberCheck #10"
+    },
+    {
+      "measure": 10,
+      "voice": "bassLine",
+      "lilypond": "a2.) aes4->( | \\barNumberCheck #11"
+    },
+    {
+      "measure": 11,
+      "voice": "bassLine",
+      "lilypond": "g2)~ g8 g4.->~ | \\barNumberCheck #12"
+    },
+    {
+      "measure": 12,
+      "voice": "bassLine",
+      "lilypond": "\\time 3/2 \\clef bass g2.-> f4.-> fis4.-> | \\barNumberCheck #13"
+    },
+    {
+      "measure": 13,
+      "voice": "bassLine",
+      "lilypond": "\\time 2/2 g2->~ g8 g4.->~ | \\barNumberCheck #14"
+    },
+    {
+      "measure": 14,
+      "voice": "bassLine",
+      "lilypond": "g2~ g8 g4.->~ | \\barNumberCheck #15"
+    },
+    {
+      "measure": 15,
+      "voice": "bassLine",
+      "lilypond": "g2~ g8 f4.->~ | \\barNumberCheck #16"
+    },
+    {
+      "measure": 16,
+      "voice": "bassLine",
+      "lilypond": "f2~ f8 ees4.->~ | \\barNumberCheck #17"
+    },
+    {
+      "measure": 17,
+      "voice": "bassLine",
+      "lilypond": "ees2~ ees8 ees4.->~ | \\barNumberCheck #18"
+    },
+    {
+      "measure": 18,
+      "voice": "bassLine",
+      "lilypond": "\\time 3/2 ees2. d2.-> | \\barNumberCheck #19"
+    },
+    {
+      "measure": 19,
+      "voice": "bassLine",
+      "lilypond": "\\time 2/2 des2->( c8) c4.->~ | \\barNumberCheck #20"
+    },
+    {
+      "measure": 20,
+      "voice": "bassLine",
+      "lilypond": "c2~ c8 f,4.-> | \\barNumberCheck #21"
+    },
+    {
+      "measure": 21,
+      "voice": "bassLine",
+      "lilypond": "s1 | \\barNumberCheck #22"
+    },
+    {
+      "measure": 22,
+      "voice": "bassLine",
+      "lilypond": "\\time 3/2 s1. | \\barNumberCheck #23"
+    },
+    {
+      "measure": 23,
+      "voice": "bassLine",
+      "lilypond": "\\time 2/2 d'2->~ d'8 e'4.->( | \\barNumberCheck #24"
+    },
+    {
+      "measure": 24,
+      "voice": "bassLine",
+      "lilypond": "d'2)~ d'8 des'4.->( | \\barNumberCheck #25"
+    },
+    {
+      "measure": 25,
+      "voice": "bassLine",
+      "lilypond": "c'2)~ c'8 a4.->( | \\barNumberCheck #26"
+    },
+    {
+      "measure": 26,
+      "voice": "bassLine",
+      "lilypond": "bes2)~ bes8 g4.->( | \\barNumberCheck #27"
+    },
+    {
+      "measure": 27,
+      "voice": "bassLine",
+      "lilypond": "d'2)~ d'8 e'4.->( | \\barNumberCheck #28"
+    },
+    {
+      "measure": 28,
+      "voice": "bassLine",
+      "lilypond": "d'2)~ d'8 c'4.->( | \\barNumberCheck #29"
+    },
+    {
+      "measure": 29,
+      "voice": "bassLine",
+      "lilypond": "bes2)~ bes8 aes4.->( | \\barNumberCheck #30"
+    },
+    {
+      "measure": 30,
+      "voice": "bassLine",
+      "lilypond": "\\clef bass g2)( ges8) ces4.->( | \\barNumberCheck #31"
+    },
+    {
+      "measure": 31,
+      "voice": "bassLine",
+      "lilypond": "bes,2)~ bes,8 bes,4.->~ | \\barNumberCheck #32"
+    },
+    {
+      "measure": 32,
+      "voice": "bassLine",
+      "lilypond": "\\time 3/2 bes,1.-> | \\barNumberCheck #33"
+    },
+    {
+      "measure": 33,
+      "voice": "bassLine",
+      "lilypond": "\\time 2/2 bes,1-> | \\barNumberCheck #34"
+    },
+    {
+      "measure": 34,
+      "voice": "bassLine",
+      "lilypond": "\\time 3/4 b,2.-> | \\barNumberCheck #35"
+    },
+    {
+      "measure": 35,
+      "voice": "bassLine",
+      "lilypond": "c2.-> | \\barNumberCheck #36"
+    },
+    {
+      "measure": 36,
+      "voice": "bassLine",
+      "lilypond": "\\time 2/2 f2.-> g4->( | \\barNumberCheck #37"
+    },
+    {
+      "measure": 37,
+      "voice": "bassLine",
+      "lilypond": "f2.) d4->( | \\barNumberCheck #38"
+    },
+    {
+      "measure": 38,
+      "voice": "bassLine",
+      "lilypond": "f2.) g4->( | \\barNumberCheck #39"
+    },
+    {
+      "measure": 39,
+      "voice": "bassLine",
+      "lilypond": "f2.) d4->( | \\barNumberCheck #40"
+    },
+    {
+      "measure": 40,
+      "voice": "bassLine",
+      "lilypond": "f2.) g4->( | \\barNumberCheck #41"
+    },
+    {
+      "measure": 41,
+      "voice": "bassLine",
+      "lilypond": "f2.) \\clef treble d'4->( | \\barNumberCheck #42"
+    },
+    {
+      "measure": 42,
+      "voice": "bassLine",
+      "lilypond": "ees'2.) d'4->~ | \\barNumberCheck #43"
+    },
+    {
+      "measure": 43,
+      "voice": "bassLine",
+      "lilypond": "d'2. c'4->( | \\barNumberCheck #44"
+    },
+    {
+      "measure": 44,
+      "voice": "bassLine",
+      "lilypond": "des'2.) b!4->( | \\barNumberCheck #45"
+    },
+    {
+      "measure": 45,
+      "voice": "bassLine",
+      "lilypond": "a2.) aes4->( | \\barNumberCheck #46"
+    },
+    {
+      "measure": 46,
+      "voice": "bassLine",
+      "lilypond": "g2)~ g8 g4.->~ | \\barNumberCheck #47"
+    },
+    {
+      "measure": 47,
+      "voice": "bassLine",
+      "lilypond": "g2~ g8 g4.->~ | \\barNumberCheck #48"
+    },
+    {
+      "measure": 48,
+      "voice": "bassLine",
+      "lilypond": "\\clef bass g2~ g8 g4.->~ | \\barNumberCheck #49"
+    },
+    {
+      "measure": 49,
+      "voice": "bassLine",
+      "lilypond": "g2~ g8 g4.->~ | \\barNumberCheck #50"
+    },
+    {
+      "measure": 50,
+      "voice": "bassLine",
+      "lilypond": "g2~ g8 g4.->( | \\barNumberCheck #51"
+    },
+    {
+      "measure": 51,
+      "voice": "bassLine",
+      "lilypond": "<c, g, e>1->) | \\barNumberCheck #52"
+    },
+    {
+      "measure": 52,
+      "voice": "bassLine",
+      "lilypond": "<f c' a'!>1-> | \\barNumberCheck #53"
+    },
+    {
+      "measure": 53,
+      "voice": "bassLine",
+      "lilypond": "<c''! d'' g'' a''>1->^\\fermata | \\barNumberCheck #54"
+    }
+  ]
+}

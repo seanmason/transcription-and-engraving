@@ -1,5 +1,7 @@
 # Bars 19-20: targeted photographic rereading
 
+**Historical reading, superseded in part:** experiment [009](../009-guarnieri-scan-audit/measure-audit.md) reads the last RH chord of bar 19 as Bb3/F4/Bb4, not A3/F4/Bb4. Bar 20 was retained. The account below preserves the earlier reasoning, including its mistaken ledger-line reading.
+
 Source: printed page 12, first system, second and third bars (Photo 2). Read the original colour system and enlarged background-normalized crops. Used the actual five local staff lines at each chord, not the rejected global note labels. Octaves below use middle C = C4. This is a careful single-agent rereading, not an independent second-person certification.
 
 ## Corrected note sequence

@@ -1,0 +1,111 @@
+{
+  "basis": "Focused implementation checks against adopted manual readings; not independent source certification",
+  "checks": [
+    {
+      "check": "m19 final RH Bb3/F4/Bb4",
+      "actual": [
+        58,
+        65,
+        70
+      ],
+      "expected": [
+        58,
+        65,
+        70
+      ],
+      "passed": true
+    },
+    {
+      "check": "m30 G3 bass opening with LH Cb4/Eb4/Ab4",
+      "actual": [
+        55,
+        59,
+        63,
+        68
+      ],
+      "expected": [
+        55,
+        59,
+        63,
+        68
+      ],
+      "passed": true
+    },
+    {
+      "check": "m30 Gb3 bass eighth reattacks instead of tying G3",
+      "actual": [
+        54
+      ],
+      "expected": [
+        54
+      ],
+      "passed": true
+    },
+    {
+      "check": "m52 RH E6/A6",
+      "actual": [
+        88,
+        93
+      ],
+      "expected": [
+        88,
+        93
+      ],
+      "passed": true
+    },
+    {
+      "check": "m52 LH C#5/F#5/B5",
+      "actual": [
+        73,
+        78,
+        83
+      ],
+      "expected": [
+        73,
+        78,
+        83
+      ],
+      "passed": true
+    },
+    {
+      "check": "m52 D7 under ottava",
+      "actual": [
+        98
+      ],
+      "expected": [
+        98
+      ],
+      "passed": true
+    },
+    {
+      "check": "m52 final chord adds A6 while D7 is tied",
+      "actual": [
+        93
+      ],
+      "expected": [
+        93
+      ],
+      "passed": true
+    },
+    {
+      "check": "m53 RH E6/B6/E7",
+      "actual": [
+        88,
+        95,
+        100
+      ],
+      "expected": [
+        88,
+        95,
+        100
+      ],
+      "passed": true
+    },
+    {
+      "check": "m52 D7 tie sustains through final eighth",
+      "actual": 214.0,
+      "expected": 214.0,
+      "passed": true
+    }
+  ]
+}

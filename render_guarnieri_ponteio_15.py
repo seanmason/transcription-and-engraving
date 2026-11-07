@@ -70,6 +70,6 @@ assert meters == expected_meters, (meters,expected_meters)
 assert beat == 218
 for page in range(1,5):
     subprocess.run(['pdftoppm','-f',str(page),'-singlefile','-r','150','-png',prefix.with_suffix('.pdf'),R/f'tmp/pdfs/guarnieri-final-{page}'],check=True)
-report = dict(status='working proof; musical readings remain unresolved', pages=4, measures=53, quarter_beats=218, compiler_warnings=0, explicit_bar_checks=106, tempos=tempos, meters=meters, midi_tracks=[{k:v for k,v in t.items() if k not in ('onsets','spans')} for t in tracks], source_sha256=hashlib.sha256(source.read_bytes()).hexdigest(), pdf_sha256=hashlib.sha256(prefix.with_suffix('.pdf').read_bytes()).hexdigest(), limits='Structural checks do not validate pitches, accidentals, slur/tie interpretation, or correspondence to the photographs. See experiment 007 review queue.')
+report = dict(status='scan-audited working edition; see experiment 009', pages=4, measures=53, quarter_beats=218, compiler_warnings=0, explicit_bar_checks=106, tempos=tempos, meters=meters, midi_tracks=[{k:v for k,v in t.items() if k not in ('onsets','spans')} for t in tracks], source_sha256=hashlib.sha256(source.read_bytes()).hexdigest(), pdf_sha256=hashlib.sha256(prefix.with_suffix('.pdf').read_bytes()).hexdigest(), limits='Structural checks do not certify musical accuracy. All 53 measures manually compared with the higher-quality scan; source-mark ambiguities and limits in experiment 009.')
 (R/'logs/guarnieri-ponteio-15-validation.json').write_text(json.dumps(report,indent=2)+'\n')
 print(json.dumps(report,indent=2))

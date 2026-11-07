@@ -5,8 +5,8 @@
   "compiler_warnings": 0,
   "bar_checks": 106,
   "midi_byte_identical_to_fresh_base": true,
-  "source_sha256": "ec85fc46b3b8d84dd4e375a1d0a53e44ba6e06e16aee3d6e9be7ea9dbce6051a",
-  "base_sha256": "a97b7388cc1ad62741e28338607131bc19f11c39b7f19f2cae18c7b48cbb2713",
-  "pdf_sha256": "1ad4b8cdd2f25f7607bcf7d03b1c3cf86e6304ac505e4388467dc1ed84699f1e",
-  "limits": "Pitch uncertainties from experiment 007 remain. MIDI equality proves preservation, not accuracy or playable physical sustain."
+  "source_sha256": "374b23abcbc1579d6b6b14dee9da4252dd83a193767044c2903047b8d0e36f07",
+  "base_sha256": "3d8aae1de5fe3a91d9c096a07a5e9c9e3a56e547da2cacca0cfc1a0cc3ddf64a",
+  "pdf_sha256": "33dff7c4f6b53abccdbb8b3ffd9e6a030c270f2232846822f76ef1b0e6fc43ad",
+  "limits": "Underlying transcription audited against the new scan in experiment 009. MIDI equality proves preservation, not accuracy or physical playability. Fingering remains untested at a piano."
 }

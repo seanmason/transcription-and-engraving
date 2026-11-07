@@ -1,0 +1,90 @@
+{
+  "status": "scan-audited working edition; see experiment 009",
+  "pages": 4,
+  "measures": 53,
+  "quarter_beats": 218,
+  "compiler_warnings": 0,
+  "explicit_bar_checks": 106,
+  "tempos": [
+    [
+      0.0,
+      240
+    ]
+  ],
+  "meters": [
+    [
+      0.0,
+      2,
+      2
+    ],
+    [
+      44.0,
+      3,
+      2
+    ],
+    [
+      50.0,
+      2,
+      2
+    ],
+    [
+      70.0,
+      3,
+      2
+    ],
+    [
+      76.0,
+      2,
+      2
+    ],
+    [
+      88.0,
+      3,
+      2
+    ],
+    [
+      94.0,
+      2,
+      2
+    ],
+    [
+      130.0,
+      3,
+      2
+    ],
+    [
+      136.0,
+      2,
+      2
+    ],
+    [
+      140.0,
+      3,
+      4
+    ],
+    [
+      146.0,
+      2,
+      2
+    ]
+  ],
+  "midi_tracks": [
+    {
+      "track": 1,
+      "duration_quarter_beats": 218.0,
+      "note_on_events": 544,
+      "lowest_midi_note": 36,
+      "highest_midi_note": 83
+    },
+    {
+      "track": 2,
+      "duration_quarter_beats": 218.0,
+      "note_on_events": 475,
+      "lowest_midi_note": 52,
+      "highest_midi_note": 100
+    }
+  ],
+  "source_sha256": "3d8aae1de5fe3a91d9c096a07a5e9c9e3a56e547da2cacca0cfc1a0cc3ddf64a",
+  "pdf_sha256": "1b6c28fbcbba8c1652647633c418a9e9d212ad00ca95aa5294875cd5e3e09d1d",
+  "limits": "Structural checks do not certify musical accuracy. All 53 measures manually compared with the higher-quality scan; source-mark ambiguities and limits in experiment 009."
+}
